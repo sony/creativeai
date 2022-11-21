@@ -68,7 +68,7 @@
     </td>
     <td width="33%" align="center">
 	<a href="https://mdx-workshop.github.io/">[site]</a>
-	<a href=" https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[article]</a>
+	<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[article]</a>
 	<p>Music Demixing Challenge 2021</p>
     </td>
   </tr>
