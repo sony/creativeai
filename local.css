@@ -7,9 +7,7 @@
   padding-right: 0px;
   padding-left: 0px;
   padding-bottom: 20px;
-
 }
-
 .tile {
   width: 33%;
   background-color: #f8f8f8;
@@ -20,12 +18,10 @@
   vertical-align: top;
   text-align: center;
 }
-
 .tile img {
   object-position: cover;  
   height: 128px;
 }
-
 h3 {
   text-align: center;
 }
@@ -50,7 +46,6 @@ p {
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
-
 }
 .fa:hover {
     opacity: 0.7;
