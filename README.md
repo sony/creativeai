@@ -4,6 +4,8 @@ I. Deep Generative Modeling
 
 SQ-VAE 
 
+- "SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization"
+
 - https://proceedings.mlr.press/v162/takida22a.html [proceedings] 
 
 - https://github.com/sony/sqvae [code] 
@@ -14,7 +16,7 @@ SQ-VAE
 
 FP-Diff 
 
-- 
+- "Regularizing Score-based Models with Score Fokker-Planck Equations"
 
 - https://arxiv.org/abs/2210.04296  
 
@@ -43,21 +45,25 @@ Sound Separation
 
 Singing Voice Vocoder 
 
+- "Hierarchical Diffusion Models for Singing Voice Neural Vocoder"
+
 - https://arxiv.org/abs/2210.07508 [arxiv]
 
 - https://t-naoya.github.io/hdm/ [demo]
 
-  
 
 Singing Voice Conversion 
+
+- "Robust One-Shot Singing Voice Conversion"
 
 - https://arxiv.org/abs/2210.11096 [arxiv]
 
 - https://t-naoya.github.io/rosvc/ [demo]
 
-  
 
 Vocal Dereverberation 
+
+- "Unsupervised Vocal Dereverberation with Diffusion-based Generative Models"
 
 - https://arxiv.org/abs/2211.04124 [arxiv]
 
@@ -66,12 +72,16 @@ Vocal Dereverberation
 
 Distortion Effect Removal 
 
+- "Distortion Audio Effects: Learning How to Recover the Clean Signal"
+
 - https://arxiv.org/abs/2202.01664 [arxiv]
 
 - https://joimort.github.io/distortionremoval/ [demo]
 
 
 Music Transcription 
+
+- "DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability"
 
 - https://arxiv.org/abs/2210.05148 [arxiv]
 
@@ -80,8 +90,9 @@ Music Transcription
 - https://sony.github.io/DiffRoll/ [demo]
 
 
-  
 Automatic Music Mixing 
+
+- "Automatic Music Mixing with Deep Learning and Out-of-Domain Data"
 
 - https://arxiv.org/abs/2208.11428 [arxiv]
 
@@ -92,6 +103,8 @@ Automatic Music Mixing
 
 Automatic Music Mixing Style Transfer 
 
+- "Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects"
+
 - https://arxiv.org/abs/2211.02247 [arxiv]
 
 - https://github.com/jhtonyKoo/music_mixing_style_transfer [code]
@@ -101,6 +114,8 @@ Automatic Music Mixing Style Transfer
   
 
 Automatic DJ Transition  
+
+- "Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks"
 
 - https://arxiv.org/abs/2110.06525 [arxiv]
 
