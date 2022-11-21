@@ -19,7 +19,7 @@
 	</div>
 	<div class="tile">
 		<h3>FP-Diff</h3>
-		<img src="./assets/ScoreFPE_2Doutline.svg">
+		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
