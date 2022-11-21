@@ -34,6 +34,12 @@ II. Music Technology
 
 Sound Separation 
 
+- "Music Source Separation with Deep Equilibrium Models"
+
+- https://ieeexplore.ieee.org/document/9746317 [IEEE]
+
+- https://arxiv.org/abs/2110.06494 [arxiv]
+
 - Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years 
   https://www.sony.com/en/SonyInfo/technology/stories/AI_Sound_Separation/ 
 
