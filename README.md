@@ -3,10 +3,7 @@
 <link rel="stylesheet" href="./local.css">
 </head>
 
-
-# CreativeAI : Demo and ArXiv URLs 
-
-## I. Deep Generative Modeling 
+# I. Deep Generative Modeling 
 
 <br>
 
@@ -42,7 +39,7 @@
 
 
 
-## II. Music Technologies
+# II. Music Technologies
 
 <br>
 
