@@ -1,3 +1,43 @@
+.trow {
+  margin: 0 auto;
+  background-color: none;
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 20px;
+
+}
+
+.tile {
+  width: 33%;
+  background-color: #f8f8f8;
+  border: 0px;
+  box-sizing: border-box;
+  padding-left: 8px;
+  padding-right: 8px;
+  vertical-align: top;
+  text-align: center;
+}
+
+.tile img {
+  object-position: cover;  
+  height: 128px;
+}
+
+h3 {
+  text-align: center;
+}
+h5 {
+  font-size: small;
+  text-align: center;
+  color: lightgray;
+}
+p {
+  font-size: small;
+  text-align: center;
+}
 .description {
   font-size: small;
   vertical-align: top;
