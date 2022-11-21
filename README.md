@@ -37,63 +37,74 @@ Sound Separation
 
  https://www.youtube.com/watch?v=EWYxJGmw0Ng&ab_channel=Sony-Global
 
--  
+-  Music Demixing Challenge: https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full
 
   
 
 Singing Voice Vocoder 
 
-- https://t-naoya.github.io/hdm/ 
+- https://arxiv.org/abs/2210.07508 [arxiv]
 
-- https://arxiv.org/abs/2210.07508 
+- https://t-naoya.github.io/hdm/ [demo]
 
   
 
 Singing Voice Conversion 
 
-- https://t-naoya.github.io/rosvc/ 
+- https://arxiv.org/abs/2210.11096 [arxiv]
 
-- https://arxiv.org/abs/2210.11096 
+- https://t-naoya.github.io/rosvc/ [demo]
 
   
 
 Vocal Dereverberation 
 
-- 
+- https://arxiv.org/abs/2211.04124 [arxiv]
 
-- https://arxiv.org/abs/2211.04124 
-
+- https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/ [demo]
   
 
 Distortion Effect Removal 
 
-- https://joimort.github.io/distortionremoval/ 
+- https://arxiv.org/abs/2202.01664 [arxiv]
 
-- https://arxiv.org/abs/2202.01664 
+- https://joimort.github.io/distortionremoval/ [demo]
 
-  
 
 Music Transcription 
 
-- https://sony.github.io/DiffRoll/ 
+- https://arxiv.org/abs/2210.05148 [arxiv]
 
-- https://arxiv.org/abs/2210.05148 
+- https://github.com/sony/DiffRoll [code]
+
+- https://sony.github.io/DiffRoll/ [demo]
+
 
   
 Automatic Music Mixing 
-- https://marco-martinez-sony.github.io/FxNorm-automix/ 
-- https://arxiv.org/abs/2208.11428 
+
+- https://arxiv.org/abs/2208.11428 [arxiv]
+
+- https://github.com/sony/fxnorm-automix [code]
+
+- https://marco-martinez-sony.github.io/FxNorm-automix/ [demo]
  
 
 Automatic Music Mixing Style Transfer 
 
-- https://jhtonykoo.github.io/MixingStyleTransfer/ 
+- https://arxiv.org/abs/2211.02247 [arxiv]
 
-- https://arxiv.org/abs/2211.02247 
+- https://github.com/jhtonyKoo/music_mixing_style_transfer [code]
+
+- https://jhtonykoo.github.io/MixingStyleTransfer/ [demo]
 
   
 
 Automatic DJ Transition  
-- https://paulyuchen.com/djtransgan-icassp2022/ 
 
-- https://arxiv.org/abs/2110.06525 
+- https://arxiv.org/abs/2110.06525 [arxiv]
+
+- https://github.com/ChenPaulYu/DJtransGAN [code]
+
+- https://paulyuchen.com/djtransgan-icassp2022/ [demo]
+
