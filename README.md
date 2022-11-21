@@ -1,4 +1,81 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="./local.css">
+<style>
+table, tr, td {
+    border: none;
+}
+</style>
+</head>
+
 # CreativeAI : Demo and ArXiv URLs 
+
+## I. Deep Generative Modeling 
+
+<br>
+
+<center><table>
+<tbody>
+  <tr>
+	<td width="33%" align="center">SQ-VAE</td>
+	<td width="33%" align="center">FP-Diff</td>
+	<td width="33%" align="center">Adaptive DDRM</td>
+  </tr><tr>
+	<td width="33%" align="center"><a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./stub.png"></a></td>
+	<td width="33%" align="center"><a href="X"><img src="./stub.png"></a></td>
+	<td width="33%" align="center"><a href="X"><img src="./stub.png"></a></td>
+  </tr><tr>
+    <td width="33%" align="center">
+	<a href="https://github.com/sony/sqvae">[code]</a>
+	<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+    <td width="33%" align="center">
+	<a href="X">[code]</a>
+	<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+    <td width="33%" align="center">
+	<a href="X">[code]</a>
+	<a href="X">[arXiv]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+  </tr>
+</tbody>
+</table></center>
+
+## II. Music Technologies
+
+<br>
+
+<center><table>
+<tbody>
+  <tr>
+	<td width="33%" align="center">Music Source Separation with Deep Equilibrium Models</td>
+	<td width="33%" align="center">Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</td>
+	<td width="33%" align="center">Music Demixing Challenge 2021</td>
+  </tr><tr>
+	<td width="33%" align="center"><a href="https://ieeexplore.ieee.org/document/9746317"><img src="./stub.png"></a></td>
+	<td width="33%" align="center"><a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng"><img src="./enoch_arden.jpg"></a></td>
+	<td width="33%" align="center"><a href="https://mdx-workshop.github.io/"><img src="./MDX.png"></a></td>
+  </tr><tr>
+    <td width="33%" align="center">
+	<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+    <td width="33%" align="center">
+	<a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng">[video]</a>
+	<a href="https://www.sony.com/en/SonyInfo/technology/stories/AI_Sound_Separation/">[site]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+    <td width="33%" align="center">
+	<a href="https://mdx-workshop.github.io/">[site]</a>
+	<a href=" https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[article]</a>
+	<p> An examplar abstract which describes each research topic</p>
+    </td>
+  </tr>
+</tbody>
+</table></center>
 
 I. Deep Generative Modeling 
 
