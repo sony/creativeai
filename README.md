@@ -35,7 +35,7 @@ Sound Separation
 - Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years 
   https://www.sony.com/en/SonyInfo/technology/stories/AI_Sound_Separation/ 
 
- 
+ https://www.youtube.com/watch?v=EWYxJGmw0Ng&ab_channel=Sony-Global
 
 -  
 
