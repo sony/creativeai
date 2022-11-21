@@ -20,7 +20,7 @@
 	<td width="33%" align="center"><a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
-  </tr><tr>
+  </tr><tr class="description">
     <td width="33%" align="center">
 	<a href="https://github.com/sony/sqvae">[code]</a>
 	<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
@@ -56,7 +56,7 @@
 	<td width="33%" align="center"><a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng"><img src="./assets/enoch_arden.jpg"></a></td>
 	<td width="33%" align="center"><a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a></td>
-  </tr><tr>
+  </tr><tr class="description">
     <td width="33%" align="center">
 	<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 	<p>Music Source Separation with Deep Equilibrium Models</p>
@@ -85,7 +85,7 @@
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
-  </tr><tr>
+  </tr><tr class="description">
     <td width="33%" align="center">
 	<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 	<a href="https://t-naoya.github.io/hdm/">[demo]</a>
@@ -115,7 +115,7 @@
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
-  </tr><tr>
+  </tr><tr class="description">
     <td width="33%" align="center">
 	<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
 	<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
@@ -147,7 +147,7 @@
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
 	<td width="33%" align="center"><a href="X"><img src="./assets/stub.png"></a></td>
-  </tr><tr>
+  </tr><tr class="description">
     <td width="33%" align="center">
 	<a href="https://arxiv.org/abs/2211.02247">[arXiv]</a>
 	<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
