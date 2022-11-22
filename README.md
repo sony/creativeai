@@ -48,7 +48,7 @@
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
-		<p>Music Source Separation with Deep Equilibrium Models</p>
+		<p>Music Source Separation with Deep Equilibrium Models (ICASSP22)</p>
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
@@ -108,7 +108,7 @@
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
 		</h5>
-		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal</p>
+		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal (ISMIR22)</p>
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
@@ -152,7 +152,7 @@
 			<a href="https://github.com/ChenPaulYu/DJtransGAN">[code]</a>
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
-		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks</p>
+		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks (ICASSP22)</p>
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 </div>
