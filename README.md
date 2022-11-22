@@ -28,7 +28,7 @@
 	</div>
 	<div class="tile">
 		<h3>Adaptive DDRM</h3>
-		<img src="./assets/adapt_ddrm.png">
+		<img src="./assets/AdaDDRM.png">
 		<h5>
 			<a href="X">[code]</a>
 			<a href="X">[arXiv]</a>
