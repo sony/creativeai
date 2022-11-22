@@ -65,7 +65,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
-		<a href="X"><img src="./assets/svc.png"></a>
+		<img src="./assets/vocoder.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
@@ -74,7 +74,7 @@
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
-		<a href="X"><img src="./assets/vocoder.png"></a>
+		<img src="./assets/svc.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.11096">[arXiv]</a>
 			<a href="https://t-naoya.github.io/rosvc/">[demo]</a>
@@ -83,7 +83,7 @@
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
-		<a href="X"><img src="./assets/dereverb.png"></a>
+		<img src="./assets/dereverb.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2211.04124">[arXiv]</a>
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
@@ -95,7 +95,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
-		<a href="X"><img src="./assets/deeffect.png"></a>
+		<img src="./assets/deeffect.png">
 		<h5>
 			<a href="https://ismir2022program.ismir.net/poster_113.html">[poster]</a>
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
@@ -105,7 +105,7 @@
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
-		<a href="X"><img src="./assets/amt.png"></a>
+		<img src="./assets/amt.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.05148">[arXiv]</a>
 			<a href="https://github.com/sony/DiffRoll">[code]</a>
@@ -115,7 +115,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
-		<a href="X"><img src="./assets/automix.png"></a>
+		<img src="./assets/automix.png">
 		<h5>
 			<a href="https://ismir2022program.ismir.net/poster_11.html">[poster]</a>
 			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>			
@@ -129,7 +129,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
-		<a href="X"><img src="./assets/mixstyletransfer.png"></a>
+		<img src="./assets/mixstyletransfer.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2211.02247">[arXiv]</a>
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
@@ -139,7 +139,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
-		<a href="X"><img src="./assets/djtransgan.png"></a>
+		<img src="./assets/djtransgan.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2110.06525">[arXiv]</a>
 			<a href="https://github.com/ChenPaulYu/DJtransGAN">[code]</a>
