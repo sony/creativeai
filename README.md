@@ -10,7 +10,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>SQ-VAE</h3>
-		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae_icon.png"></a>
+		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae.png"></a>
 		<h5>
 			<a href="https://proceedings.mlr.press/v162/takida22a.html">[PMLR]</a>
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
