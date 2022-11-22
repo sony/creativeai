@@ -64,7 +64,7 @@
 		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
 		<h5>
 			<a href="https://mdx-workshop.github.io/">[site]</a>
-			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[article]</a>
+			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
 	</div>		
