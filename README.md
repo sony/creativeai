@@ -26,15 +26,7 @@
 		</h5>
 		<p>Regularizing Score-based Models with Score Fokker-Planck Equations (NeurIPS2022 Workshop on Score-Based Methods)</p>
 	</div>
-	<div class="tile">
-		<h3>Adaptive DDRM</h3>
-		<img src="./assets/AdaDDRM.png">
-		<h5>
-			<a href="X">[code]</a>
-			<a href="X">[arXiv]</a>
-		</h5>
-		<p> X </p>
-	</div>		
+        <div class="tile" style="background-color: white;"></div>
 </div>
 
 # II. Music Technologies
