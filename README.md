@@ -105,6 +105,7 @@
 		<h3>Distortion Effect Removal</h3>
 		<a href="X"><img src="./assets/deeffect.png"></a>
 		<h5>
+			<a href="https://ismir2022program.ismir.net/poster_113.html">[poster]</a>
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
 		</h5>
