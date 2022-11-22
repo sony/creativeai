@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: "CreativeAI : Demos and Papers"
+github:
+  is_project_page: false
