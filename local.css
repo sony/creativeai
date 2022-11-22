@@ -21,6 +21,7 @@
 .tile img {
   object-position: cover;  
   height: 128px;
+  background: transparent;
 }
 h3 {
   text-align: center;
