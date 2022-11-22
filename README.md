@@ -125,10 +125,11 @@
 		<a href="X"><img src="./assets/automix.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>
+			<a href="https://ismir2022program.ismir.net/poster_11.html">[poster]</a>
 			<a href="https://github.com/sony/fxnorm-automix">[code]</a>
 			<a href="https://marco-martinez-sony.github.io/FxNorm-automix/">[demo]</a>
 		</h5>
-		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data</p>
+		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data (ISMIR22)</p>
 	</div>		
 </div>
 
