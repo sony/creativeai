@@ -16,7 +16,7 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization</p>
+		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization (ICML2022)</p>
 	</div>
 	<div class="tile">
 		<h3>FP-Diff</h3>
@@ -24,7 +24,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>Regularizing Score-based Models with Score Fokker-Planck Equations</p>
+		<p>Regularizing Score-based Models with Score Fokker-Planck Equations (NeurIPS2022 Workshop on Score-Based Methods)</p>
 	</div>
 	<div class="tile">
 		<h3>Adaptive DDRM</h3>
