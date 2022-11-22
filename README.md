@@ -73,7 +73,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/svc.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
@@ -82,7 +82,7 @@
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/vocoder.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2210.11096">[arXiv]</a>
 			<a href="https://t-naoya.github.io/rosvc/">[demo]</a>
@@ -103,7 +103,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/deeffect.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
@@ -135,7 +135,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/mixstyletransfer.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2211.02247">[arXiv]</a>
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
@@ -145,7 +145,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/djtransgan.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2110.06525">[arXiv]</a>
 			<a href="https://github.com/ChenPaulYu/DJtransGAN">[code]</a>
