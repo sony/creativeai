@@ -44,7 +44,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Sound Separation</h3>
-		<a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/stub.png"></a>
+		<a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/srcsep.png"></a>
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
@@ -91,7 +91,7 @@
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/dereverb.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2211.04124">[arXiv]</a>
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
@@ -112,7 +112,7 @@
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/amt.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2210.05148">[arXiv]</a>
 			<a href="https://github.com/sony/DiffRoll">[code]</a>
@@ -122,7 +122,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/automix.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>
 			<a href="https://github.com/sony/fxnorm-automix">[code]</a>
