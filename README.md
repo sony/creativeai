@@ -37,7 +37,7 @@
 	</div>		
 </div>
 
-## II. Music Technologies
+# II. Music Technologies
 
 <br>
 
