@@ -150,5 +150,5 @@
 	<div class="tile" style="background-color: white;"></div>
 </div>
 
-# Contact
-### Yuki Mitsufuji (yuhki.mitsufuji@sony.com)
+## Contact
+<p> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </p>
