@@ -151,4 +151,4 @@
 </div>
 
 ## Contact
-<p> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </p>
+<h3 align="left"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h3>
