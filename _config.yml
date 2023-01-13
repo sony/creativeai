@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: "CreativeAI: Demos and Papers"
 description: "R&D Center, Sony Group Corporation"
+authors: Yuki Mitsufuji (yuhki.mitsufuji@sony.com)
 github:
   is_project_page: false
