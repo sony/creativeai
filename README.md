@@ -19,12 +19,13 @@
 		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization (ICML2022)</p>
 	</div>
 	<div class="tile">
-		<h3>FP-Diff</h3>
+		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
 		<p>Regularizing Score-based Models with Score Fokker-Planck Equations (NeurIPS2022 Workshop on Score-Based Methods)</p>
+		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (extended work)</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
