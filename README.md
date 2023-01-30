@@ -25,7 +25,6 @@
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
 		<p>Regularizing Score-based Models with Score Fokker-Planck Equations (NeurIPS2022 Workshop on Score-Based Methods)</p>
-		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (extended work)</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
