@@ -26,8 +26,29 @@
 		</h5>
 		<p>Regularizing Score-based Models with Score Fokker-Planck Equations (NeurIPS2022 Workshop on Score-Based Methods)</p>
 	</div>
-        <div class="tile" style="background-color: white;"></div>
+	<div class="tile">
+		<h3>GibbsDDRM</h3>
+		<img src="./assets/GibbsDDRM.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+		</h5>
+		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration</p>
+	</div>
 </div>
+<div class="trow">
+	<div class="tile">
+		<h3>Adversarially Slicing Generative Networks</h3>
+		<img src="./assets/ASGN.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
+		</h5>
+		<p>Adversarially Slicing Generative Networks: Discriminator Slices Feature for One-Dimensional Optimal Transport</p>
+	</div>
+        <div class="tile" style="background-color: white;"></div>
+        <div class="tile" style="background-color: white;"></div>
+
+</div>
+
 
 # II. Music Technologies
 
@@ -147,7 +168,14 @@
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks (ICASSP22)</p>
 	</div>
-	<div class="tile" style="background-color: white;"></div>
+	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
+	</div>	
 </div>
 
 ### Contact
