@@ -56,6 +56,14 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (accepted at ICLR2023)</p>
+	</div>
+	<div class="tile">
 		<h3>Sound Separation</h3>
 		<a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/srcsep.png"></a>
 		<h5>
@@ -72,6 +80,8 @@
 		</h5>
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
 	</div>
+</div>
+<div class="trow">
 	<div class="tile">
 		<h3>MDX21</h3>
 		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
@@ -81,9 +91,6 @@
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
 	</div>		
-</div>
-
-<div class="trow">
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
 		<img src="./assets/vocoder.png">
@@ -102,6 +109,8 @@
 		</h5>
 		<p>Robust One-Shot Singing Voice Conversion</p>
 	</div>
+</div>
+<div class="trow">
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
 		<img src="./assets/dereverb.png">
@@ -111,9 +120,6 @@
 		</h5>
 		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models</p>
 	</div>		
-</div>
-
-<div class="trow">
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
 		<img src="./assets/deeffect.png">
@@ -134,6 +140,8 @@
 		</h5>
 		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability</p>
 	</div>
+</div>
+<div class="trow">
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
 		<img src="./assets/automix.png">
@@ -145,9 +153,6 @@
 		</h5>
 		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data (ISMIR22)</p>
 	</div>		
-</div>
-
-<div class="trow">
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
 		<img src="./assets/mixstyletransfer.png">
@@ -167,14 +172,6 @@
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks (ICASSP22)</p>
-	</div>
-	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
-		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
 	</div>	
 </div>
 
