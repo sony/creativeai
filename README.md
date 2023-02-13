@@ -34,8 +34,6 @@
 		</h5>
 		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration</p>
 	</div>
-</div>
-<div class="trow">
 	<div class="tile">
 		<h3>Adversarially Slicing Generative Networks</h3>
 		<img src="./assets/ASGN.png">
@@ -80,8 +78,6 @@
 		</h5>
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
 	</div>
-</div>
-<div class="trow">
 	<div class="tile">
 		<h3>MDX21</h3>
 		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
@@ -109,8 +105,6 @@
 		</h5>
 		<p>Robust One-Shot Singing Voice Conversion</p>
 	</div>
-</div>
-<div class="trow">
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
 		<img src="./assets/dereverb.png">
@@ -140,8 +134,6 @@
 		</h5>
 		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability</p>
 	</div>
-</div>
-<div class="trow">
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
 		<img src="./assets/automix.png">
@@ -173,6 +165,16 @@
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks (ICASSP22)</p>
 	</div>	
+</div>
+
+# III. Cinematic Technologies
+
+<br>
+
+<div class="trow">
+        <div class="tile" style="background-color: white;"></div>
+        <div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 ### Contact
