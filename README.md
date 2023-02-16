@@ -94,7 +94,7 @@
 			<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
-		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder</p>
+		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder (ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
@@ -112,7 +112,7 @@
 			<a href="https://arxiv.org/abs/2211.04124">[arXiv]</a>
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
-		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models</p>
+		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models (ICASSP23)</p>
 	</div>		
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
@@ -132,7 +132,7 @@
 			<a href="https://github.com/sony/DiffRoll">[code]</a>
 			<a href="https://sony.github.io/DiffRoll/">[demo]</a>
 		</h5>
-		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability</p>
+		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability (ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
