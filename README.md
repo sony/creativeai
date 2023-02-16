@@ -153,7 +153,7 @@
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
 			<a href="https://jhtonykoo.github.io/MixingStyleTransfer/">[demo]</a>
 		</h5>
-		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects</p>
+		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects (ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
