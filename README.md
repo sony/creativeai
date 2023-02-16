@@ -54,6 +54,14 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (ICLR2023)</p>
+	</div>
+	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
 		<img src="./assets/dereverb.png">
 		<h5>
@@ -90,14 +98,6 @@
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
 		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder (ICASSP23)</p>
-	</div>
-	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
-		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
-		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (ICLR2023)</p>
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
