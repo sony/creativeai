@@ -59,7 +59,7 @@
 		<h5>
 			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
 		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (accepted at ICLR2023)</p>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (ICLR2023)</p>
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
