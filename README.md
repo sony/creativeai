@@ -48,7 +48,7 @@
 </div>
 
 
-# II. Music Technologies
+# II. Music and Cinematic Technologies
 
 <br>
 
@@ -165,16 +165,30 @@
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
 	</div>		
-</div>
-
-# III. Cinematic Technologies
-
-<br>
-
-<div class="trow">
-        <div class="tile" style="background-color: white;"></div>
-        <div class="tile" style="background-color: white;"></div>
-	<div class="tile" style="background-color: white;"></div>
+	<div class="tile">
+		<h3>DCASE Challenge</h3>
+		<img src="./assets/DCASE.png">
+		<h5>
+			<a href="https://dcase.community/challenge2023/#sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes">[DCASE Challenge2023]</a>
+		</h5>
+		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
+	</div>	
+	<div class="tile">
+		<h3>Sound Event Localization and Detection</h3>
+		<img src="./assets/ACCDOA.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
+		</h5>
+		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training (ICASSP2022)</p>
+	</div>	
+	<div class="tile">
+		<h3>Automatic Music Tagging</h3>
+		<img src="./assets/ResAtt.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
+		</h5>
+		<p>AN ATTENTION-BASED APPROACH TO HIERARCHICAL MULTI-LABEL MUSIC INSTRUMENT CLASSIFICATION (ICASSP2023)</p>
+	</div>
 </div>
 
 ### Contact
