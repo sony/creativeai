@@ -47,8 +47,27 @@
 
 </div>
 
+# II. Language and Commonsense Knowledge
 
-# II. Music and Cinematic Technologies
+<br>
+
+<div class="trow">
+	<div class="tile">
+		<h3>ComFact</h3>
+		<a href="https://aclanthology.org/2022.findings-emnlp.120/"><img src="./assets/comfact.png"></a>
+		<h5>
+			<a href="https://aclanthology.org/2022.findings-emnlp.120/">[EMNLP]</a>
+			<a href="https://arxiv.org/abs/2210.12678">[arXiv]</a>
+			<a href="https://github.com/epfl-nlp/ComFact">[code]</a>
+		</h5>
+		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge (EMNLP2022 Findings)</p>
+	</div>
+        <div class="tile" style="background-color: white;"></div>
+        <div class="tile" style="background-color: white;"></div>
+
+</div>
+
+# III. Music and Cinematic Technologies
 
 <br>
 
