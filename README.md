@@ -47,7 +47,7 @@
 
 </div>
 
-# II. Language and Commonsense Knowledge
+# II. Multimodal NLP & Commonsense AI
 
 <br>
 
