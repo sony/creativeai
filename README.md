@@ -4,9 +4,9 @@
 </head>
 
 <div class="bk_container">
-	<a href="#sec_dgm">Deep Generative Modeling</a>
-	<a href="#sec_nlp">Multimodal NLP & Commonsense AI</a>
-	<a href="#sec_mct">Music and Cinematic Technologies</a>
+	<div><a href="#sec_dgm">Deep Generative Modeling</a></div>
+	<div><a href="#sec_nlp">Multimodal NLP & Commonsense AI</a></div>
+	<div><a href="#sec_mct">Music and Cinematic Technologies</a></div>
 </div>
 
 <a name="sec_dgm"></a>

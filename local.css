@@ -3,9 +3,8 @@
   gap: 18px;
   margin: 0 auto;
   flex-wrap: wrap;
-  justify-content: center;
 }
-.bk_container a {
+.bk_container div {
   background-color: #f8f8f8;
   width: 31%;
   border: 0px;
@@ -14,8 +13,8 @@
   padding-left: 8px;
   padding-right: 8px;
   padding-bottom: 8px;
-  vertical-align: middle;
   text-align: center;
+  justify-content: center;
 }
 
 .trow {
