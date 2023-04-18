@@ -3,6 +3,13 @@
 <link rel="stylesheet" href="local.css">
 </head>
 
+<div class="bk_container">
+	<a href="#sec_dgm">Deep Generative Modeling</a>
+	<a href="#sec_nlp">Multimodal NLP & Commonsense AI</a>
+	<a href="#sec_mct">Music and Cinematic Technologies</a>
+</div>
+
+<a name="sec_dgm"></a>
 # I. Deep Generative Modeling 
 
 <br>
@@ -47,6 +54,7 @@
 
 </div>
 
+<a name="sec_nlp"></a>
 # II. Multimodal NLP & Commonsense AI
 
 <br>
@@ -67,6 +75,7 @@
 
 </div>
 
+<a name="sec_mct"></a>
 # III. Music and Cinematic Technologies
 
 <br>
