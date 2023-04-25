@@ -23,7 +23,6 @@
 }
 
 .trow {
-  margin: 0 auto;
   background-color: none;
   display: flex;
   flex-wrap: wrap;
