@@ -26,22 +26,22 @@
 		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization<br>(ICML2022)</p>
 	</div>
 	<div class="tile">
-		<div class="tile_highlight">ICML23</div>
 		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
 		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (previous work was to NeurIPS2022 Workshop on Score-Based Methods)<br>(ICML23)</p>
+		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
-		<div class="tile_highlight">ICML23</div>
 		<h3>GibbsDDRM</h3>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
 		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration<br>(ICML23)</p>
+		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
 		<h3>Adversarially Slicing Generative Networks</h3>
