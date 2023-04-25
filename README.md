@@ -223,6 +223,7 @@
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
 		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification<br>(ICASSP2023)</p>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 </div>
 
