@@ -23,23 +23,25 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization (ICML2022)</p>
+		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization<br>(ICML2022)</p>
 	</div>
 	<div class="tile">
+		<div class="tile_highlight">ICML23</div>
 		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (previous work was to NeurIPS2022 Workshop on Score-Based Methods)</p>
+		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (previous work was to NeurIPS2022 Workshop on Score-Based Methods)<br>(ICML23)</p>
 	</div>
 	<div class="tile">
+		<div class="tile_highlight">ICML23</div>
 		<h3>GibbsDDRM</h3>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration</p>
+		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration<br>(ICML23)</p>
 	</div>
 	<div class="tile">
 		<h3>Adversarially Slicing Generative Networks</h3>
@@ -68,7 +70,7 @@
 			<a href="https://arxiv.org/abs/2210.12678">[arXiv]</a>
 			<a href="https://github.com/epfl-nlp/ComFact">[code]</a>
 		</h5>
-		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge (EMNLP2022 Findings)</p>
+		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge<br>(EMNLP2022 Findings)</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
@@ -87,7 +89,7 @@
 		<h5>
 			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
 		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos (ICLR2023)</p>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
@@ -96,7 +98,7 @@
 			<a href="https://arxiv.org/abs/2211.04124">[arXiv]</a>
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
-		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models (ICASSP23)</p>
+		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models<br>(ICASSP23)</p>
 	</div>	
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
@@ -106,7 +108,7 @@
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
 			<a href="https://jhtonykoo.github.io/MixingStyleTransfer/">[demo]</a>
 		</h5>
-		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects (ICASSP23)</p>
+		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects<br>(ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
@@ -116,7 +118,7 @@
 			<a href="https://github.com/sony/DiffRoll">[code]</a>
 			<a href="https://sony.github.io/DiffRoll/">[demo]</a>
 		</h5>
-		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability (ICASSP23)</p>
+		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability<br>(ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
@@ -125,7 +127,7 @@
 			<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
-		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder (ICASSP23)</p>
+		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder<br>(ICASSP23)</p>
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
@@ -135,7 +137,7 @@
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
 		</h5>
-		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal (ISMIR22)</p>
+		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal<br>(ISMIR22)</p>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
@@ -146,7 +148,7 @@
 			<a href="https://github.com/sony/fxnorm-automix">[code]</a>
 			<a href="https://marco-martinez-sony.github.io/FxNorm-automix/">[demo]</a>
 		</h5>
-		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data (ISMIR22)</p>
+		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data<br>(ISMIR22)</p>
 	</div>	
 	<div class="tile">
 		<h3>Sound Separation</h3>
@@ -154,7 +156,7 @@
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
-		<p>Music Source Separation with Deep Equilibrium Models (ICASSP22)</p>
+		<p>Music Source Separation with Deep Equilibrium Models<br>(ICASSP22)</p>
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
@@ -164,7 +166,7 @@
 			<a href="https://github.com/ChenPaulYu/DJtransGAN">[code]</a>
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
-		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks (ICASSP22)</p>
+		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks<br>(ICASSP22)</p>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
@@ -215,7 +217,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
-		<p>AN ATTENTION-BASED APPROACH TO HIERARCHICAL MULTI-LABEL MUSIC INSTRUMENT CLASSIFICATION (ICASSP2023)</p>
+		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification<br>(ICASSP2023)</p>
 	</div>
 </div>
 

@@ -43,12 +43,23 @@
   padding-right: 8px;
   vertical-align: top;
   text-align: center;
+  position: relative;
 }
 .tile img {
   object-position: cover;  
   height: 128px;
   background: transparent;
 }
+.tile_highlight {
+  color: #159957;
+  text-align: right;
+  font-size: small;
+  font-weight:bold;
+  position:absolute;
+  top: -11px;
+  right: 8px;
+}
+
 h3 {
   text-align: center;
 }
