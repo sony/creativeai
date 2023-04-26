@@ -4,9 +4,9 @@
 </head>
 
 <div class="bk_container">
-	<div><a href="#sec_dgm">I. Deep Generative Modeling</a></div>
-	<div><a href="#sec_nlp">II. Multimodal NLP & Commonsense AI</a></div>
-	<div><a href="#sec_mct">III. Music & Cinematic Technologies</a></div>
+	<div class="bk_item"><a href="#sec_dgm">I. Deep Generative Modeling</a></div>
+	<div class="bk_item"><a href="#sec_nlp">II. Multimodal NLP & Commonsense AI</a></div>
+	<div class="bk_item"><a href="#sec_mct">III. Music & Cinematic Technologies</a></div>
 </div>
 
 <a name="sec_dgm"></a>
