@@ -62,8 +62,8 @@
 		<div class="tile_highlight">ICML23 Oral</div>
 		<h6>Downstream applications: </h6>
 			<ul>
-				<h6><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></h6>
-				<h6><a href="https://arxiv.org/abs/2210.17287"><li>Speech Enhancement</li></h6>
+				<h5><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></a></h5>
+				<h5><a href="https://arxiv.org/abs/2210.17287"><li>Speech Enhancement</li></a></h5>
 			</ul>
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
