@@ -57,7 +57,7 @@
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
-		<h6>TL;DR: Solving blind inverse problems in an unsupervised manner with Denoising Diffusion Restoration.</h6>
+		<h6>TL;DR: Solving blind inverse problems in an unsupervised manner with Denoising Diffusion Restoration Models.</h6>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
