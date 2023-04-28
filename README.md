@@ -37,7 +37,7 @@
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
 		<p>Preventing Oversmoothing in VAE via Generalized Variance Parameterization</p>
-		<div class="tile_highlight">Neurocomputing2022</div>
+		<div class="tile_highlight">Neurocomputing22</div>
 	</div>
 </div>
 
@@ -71,6 +71,7 @@
 			</ul>
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
+	</div>
 </div>
 
 ## 🔸 Generative Adversarial Models
