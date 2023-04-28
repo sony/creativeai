@@ -79,12 +79,12 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Adversarially Slicing Generative Networks</h3>
-		<h6>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</h6>
+		%<h6>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</h6>
 		<img src="./assets/ASGN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
 		</h5>
-		<p>Adversarially Slicing Generative Networks: Discriminator Slices Feature for One-Dimensional Optimal Transport</p>
+		<p>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</p>
 	</div>
 </div>
 
