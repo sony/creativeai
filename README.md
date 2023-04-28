@@ -18,25 +18,23 @@
 <div class="trow">
 	<div class="tile">
 		<h3>SQ-VAE</h3>
-		<h6>TL;DR: Training vector quantization efficiently and stably with variational Bayes framework.</h6>
 		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae.png"></a>
 		<h5>
 			<a href="https://proceedings.mlr.press/v162/takida22a.html">[PMLR]</a>
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization<br>(ICML22)</p>
+		<p>TL;DR: Training vector quantization efficiently and stably with variational Bayes framework.<br>(ICML22)</p>
 		
 	</div>
 	<div class="tile">
 		<h3>ARELBO</h3>
-		<h6>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.</h6>
 		<img src="./assets/ar-elbo.png">
 		<h5>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
-		<p>Preventing Oversmoothing in VAE via Generalized Variance Parameterization<br>(Neurocomputing22)</p>
+		<p>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.<br>(Neurocomputing22)</p>
 	</div>
 </div>
 
@@ -46,22 +44,20 @@
 <div class="trow">
 	<div class="tile">
 		<h3>FP-Diffusion</h3>
-		<h6>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying score Fokker-Planck equation which describes the temporal evolution of scores, theoretically supported.</h6>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation<br>(ICML23)</p>
+		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying score Fokker-Planck equation which describes the temporal evolution of scores, theoretically supported.<br>(ICML23)</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
-		<h6>TL;DR: Solving blind inverse problems in an unsupervised manner with Denoising Diffusion Restoration Models.</h6>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration<br>(ICML23 Oral)</p>
+		<p>TL;DR: Solving blind inverse problems in an unsupervised manner with Denoising Diffusion Restoration Models.<br>(ICML23 Oral)</p>
 		<div class="tile_highlight">ICML23 Oral</div>
 		<h6>Downstream applications: </h6>
 			<ul>
@@ -79,7 +75,6 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Adversarially Slicing Generative Networks</h3>
-		%<h6>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</h6>
 		<img src="./assets/ASGN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
