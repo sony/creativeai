@@ -31,7 +31,7 @@
 	<div class="tile">
 		<h3>ARELBO</h3>
 		<h6>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.</h6>
-		<img src="./assets/elbow.jpg">
+		<img src="./assets/ar-elbo.png">
 		<h5>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
