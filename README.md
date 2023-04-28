@@ -65,9 +65,8 @@
 				<h5><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></a></h5>
 				<h5><a href="https://arxiv.org/abs/2210.17287"><li>Speech Enhancement</li></a></h5>
 			</ul>
-        <div class="tile" style="background-color: white;"></div>
-        <div class="tile" style="background-color: white;"></div>
 	</div>
+        <div class="tile" style="background-color: white;"></div>
 </div>
 
 
