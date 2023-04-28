@@ -25,7 +25,8 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>"SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization"<br>(ICML22)</p>
+		<p>SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization</p>
+		<div class="tile_highlight">ICML22</div>
 	</div>
 	<div class="tile">
 		<h3>ARELBO</h3>
@@ -35,7 +36,8 @@
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
-		<p>"Preventing Oversmoothing in VAE via Generalized Variance Parameterization" (Neurocomputing2022)</p>
+		<p>Preventing Oversmoothing in VAE via Generalized Variance Parameterization</p>
+		<div class="tile_highlight">Neurocomputing2022</div>
 	</div>
 </div>
 
@@ -50,7 +52,8 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation<br>(ICML23)</p>
+		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation</p>
+		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
@@ -59,7 +62,8 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration<br>(ICML23 Oral)</p>
+		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration</p>
+		<div class="tile_highlight">ICML23 Oral</div>
 		<h6>Downstream applications: </h6>
 			<ul>
 				<h6><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></a></h6>
