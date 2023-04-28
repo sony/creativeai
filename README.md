@@ -12,7 +12,6 @@
 <a name="sec_dgm"></a>
 # I. Deep Generative Modeling 
 
-## 🔸 VAE Models
 <br>
 
 <div class="trow">
@@ -36,14 +35,15 @@
 		</h5>
 		<p>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.<br>(Neurocomputing22)</p>
 	</div>
-	<div class="tile" style="background-color: white;"></div>
-</div>
-
-## 🔸 Diffusion Models
-<br>
-
-<div class="trow">
 	<div class="tile">
+		<h3>Adversarially Slicing Generative Networks</h3>
+		<img src="./assets/ASGN.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
+		</h5>
+		<p>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</p>
+	</div>
+		<div class="tile">
 		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
@@ -68,24 +68,10 @@
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
 	</div>
-	<div class="tile" style="background-color: white;"></div>
 </div>
 
-## 🔸 Generative Adversarial Models
-<br>
 
-<div class="trow">
-	<div class="tile">
-		<h3>Adversarially Slicing Generative Networks</h3>
-		<img src="./assets/ASGN.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
-		</h5>
-		<p>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</p>
-	</div>
-	<div class="tile" style="background-color: white;"></div>
-        <div class="tile" style="background-color: white;"></div>
-</div>
+
 
 
 <a name="sec_nlp"></a>
