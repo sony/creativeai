@@ -49,7 +49,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying score Fokker-Planck equation which describes the temporal evolution of scores, theoretically supported.<br>(ICML23)</p>
+		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying equation describing the temporal evolution of scores, theoretically supported.<br>(ICML23)</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
@@ -58,7 +58,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>TL;DR: Solving blind inverse problems in an unsupervised manner with Denoising Diffusion Restoration Models.<br>(ICML23 Oral)</p>
+		<p>TL;DR: Solving blind inverse problems unsupervisedly with Denoising Diffusion Restoration Models.<br>(ICML23 Oral)</p>
 		<div class="tile_highlight">ICML23 Oral</div>
 		<h6>Downstream applications: </h6>
 			<ul>
