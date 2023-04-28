@@ -36,6 +36,7 @@
 		</h5>
 		<p>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.<br>(Neurocomputing22)</p>
 	</div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 ## 🔸 Diffusion Models
@@ -67,6 +68,7 @@
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
 	</div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 ## 🔸 Generative Adversarial Models
@@ -81,6 +83,8 @@
 		</h5>
 		<p>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</p>
 	</div>
+	<div class="tile" style="background-color: white;"></div>
+        <div class="tile" style="background-color: white;"></div>
 </div>
 
 
