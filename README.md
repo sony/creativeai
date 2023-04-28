@@ -25,7 +25,7 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>"SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization" (ICML2022)</p>
+		<p>"SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization"<br>(ICML22)</p>
 	</div>
 	<div class="tile">
 		<h3>ARELBO</h3>
@@ -50,7 +50,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 		</h5>
-		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation (previous work was to NeurIPS2022 Workshop on Score-Based Methods)</p>
+		<p>Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation<br>(ICML23)</p>
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
@@ -59,7 +59,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration</p>
+		<p>GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Linear Inverse Problems with Denoising Diffusion Restoration<br>(ICML23 Oral)</p>
 		<h6>Downstream applications: </h6>
 			<ul>
 				<h6><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></a></h6>
