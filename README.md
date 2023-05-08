@@ -120,6 +120,15 @@
 		<div class="tile_highlight">ICLR23</div>
 	</div>
 	<div class="tile">
+		<h3>Automatic Music Tagging</h3>
+		<img src="./assets/ResAtt.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
+		</h5>
+		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification<br>(ICASSP2023)</p>
+		<div class="tile_highlight">ICASSP23</div>
+	</div>
+	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
 		<img src="./assets/dereverb.png">
 		<h5>
@@ -243,15 +252,6 @@
 		</h5>
 		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training (ICASSP2022)</p>
 	</div>	
-	<div class="tile">
-		<h3>Automatic Music Tagging</h3>
-		<img src="./assets/ResAtt.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
-		</h5>
-		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
-	</div>
 </div>
 
 ### Contact
