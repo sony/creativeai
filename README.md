@@ -47,6 +47,7 @@
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
+			<a href="https://github.com/sony/fp-diffusion">[code]</a>
 		</h5>
 		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying equation describing the temporal evolution of scores, theoretically supported.<br>(ICML2023)</p>
 		<div class="tile_highlight">ICML23</div>
@@ -56,6 +57,7 @@
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
 		<p>TL;DR: Solving blind inverse problems unsupervisedly with Denoising Diffusion Restoration Models.<br>(ICML2023 Oral)</p>
 		<div class="tile_highlight">ICML23 Oral</div>
