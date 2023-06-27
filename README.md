@@ -24,7 +24,6 @@
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
 		<p>TL;DR: Training vector quantization efficiently and stably with variational Bayes framework.<br>(ICML2022)</p>
-		
 	</div>
 	<div class="tile">
 		<h3>ARELBO</h3>
