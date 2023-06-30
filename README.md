@@ -52,7 +52,6 @@
 		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying equation describing the temporal evolution of scores, theoretically supported.<br>(ICML2023)</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>
-	</div>
 		<div class="tile">
 		<h3>Consistency-type Models</h3>
 		<img src="./assets/ctm_thumbnail.png">
