@@ -58,7 +58,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
-		<p>TL;DR: Establishing theoretical equivalence between three consistency concepts of diffusion models.<br>(ICML2023 SPIGM workshop)</p>
+		<p>TL;DR: Establishing theoretical equivalence between three consistency concepts of diffusion models, including FP-Diffusion.<br>(ICML2023 SPIGM workshop)</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>	
 	<div class="tile">
