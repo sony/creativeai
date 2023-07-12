@@ -35,8 +35,8 @@
 		<p>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.<br>(Neurocomputing2022)</p>
 	</div>
 	<div class="tile">
-		<h3>Adversarially Slicing Generative Networks</h3>
-		<img src="./assets/ASGN.png">
+		<h3>SAN</h3>
+		<img src="./assets/SAN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
 		</h5>
