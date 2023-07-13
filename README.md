@@ -121,13 +121,22 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>hFT-Transformer</h3>
+		<img src="./assets/hfttransformer.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2307.04305">[arXiv]</a>
+			<a href="https://github.com/sony/hFT-Transformer">[code]</a>
+		</h5>
+		<p>Automatic Piano Transcription with Hierarchical Frequency-Time Transformer<br>(ISMIR2023)</p>
+		<div class="tile_highlight">ISMIR2023</div>
+	</div>
+	<div class="tile">
 		<h3>CLIPSep</h3>
 		<img src="./assets/CLIPSep.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
 		</h5>
 		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
-		<div class="tile_highlight">ICLR23</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Tagging</h3>
@@ -136,7 +145,6 @@
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
 		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
@@ -146,7 +154,6 @@
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
 		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
 	</div>	
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
@@ -157,7 +164,6 @@
 			<a href="https://jhtonykoo.github.io/MixingStyleTransfer/">[demo]</a>
 		</h5>
 		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
@@ -168,7 +174,6 @@
 			<a href="https://sony.github.io/DiffRoll/">[demo]</a>
 		</h5>
 		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
@@ -178,7 +183,6 @@
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
 		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder<br>(ICASSP2023)</p>
-		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
