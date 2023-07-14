@@ -90,6 +90,15 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>PeaCok</h3>
+		<a href="https://arxiv.org/abs/2305.02364"><img src="./assets/personas.png"></a>
+		<h5>
+			<a href="https://arxiv.org/abs/2305.02364">[arXiv]</a>
+		</h5>
+		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(ACL2023)</p>
+		<div class="tile_highlight">ACL23 Outstanding Paper Award</div>
+	</div>
+	<div class="tile">
 		<h3>ComFact</h3>
 		<a href="https://aclanthology.org/2022.findings-emnlp.120/"><img src="./assets/comfact.png"></a>
 		<h5>
@@ -98,15 +107,6 @@
 			<a href="https://github.com/epfl-nlp/ComFact">[code]</a>
 		</h5>
 		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge<br>(EMNLP2022 Findings)</p>
-	</div>
-	<div class="tile">
-		<h3>PeaCok</h3>
-		<a href="https://arxiv.org/abs/2305.02364"><img src="./assets/personas.png"></a>
-		<h5>
-			<a href="https://arxiv.org/abs/2305.02364">[arXiv]</a>
-		</h5>
-		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(ACL2023)</p>
-		<div class="tile_highlight">ACL23 Outstanding Paper Award</div>
 	</div>
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
