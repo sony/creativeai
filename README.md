@@ -106,7 +106,7 @@
 			<a href="https://arxiv.org/abs/2305.02364">[arXiv]</a>
 		</h5>
 		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(ACL2023)</p>
-		<div class="tile_highlight">ACL23</div>
+		<div class="tile_highlight">ACL23 Outstanding Paper Award</div>
 	</div>
         <div class="tile" style="background-color: white;"></div>
         <div class="tile" style="background-color: white;"></div>
