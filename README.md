@@ -23,7 +23,7 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>TL;DR: Training vector quantization efficiently and stably with variational Bayes framework.<br>(ICML2022)</p>
+		<p>Improving codebook utilization and training stability<br>(ICML2022)</p>
 	</div>
 	<div class="tile">
 		<h3>ARELBO</h3>
@@ -32,15 +32,16 @@
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
-		<p>TL;DR: Generalizing parameterizations of the data variance in Gaussian VAE to prevent oversmoothness of decoder.<br>(Neurocomputing2022)</p>
+		<p>Mitigating oversmoothness in VAE<br>(Neurocomputing2022)</p>
 	</div>
 	<div class="tile">
 		<h3>SAN</h3>
 		<img src="./assets/SAN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
+			<a href="https://github.com/sony/san">[code]</a>
 		</h5>
-		<p>TL;DR: Deriving metrizable conditions for GANs from the perspective of sliced optimal transport and modifying the maximization problems.</p>
+		<p>Enhancing GAN with metrizable discriminators</p>
 	</div>
 		<div class="tile">
 		<h3>FP-Diffusion</h3>
@@ -49,7 +50,7 @@
 			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
 			<a href="https://github.com/sony/fp-diffusion">[code]</a>
 		</h5>
-		<p>TL;DR: Improving density estimation of diffusion models by regularizing with the underlying equation describing the temporal evolution of scores, theoretically supported.<br>(ICML2023)</p>
+		<p>Improving density estimation of diffusion<br>(ICML2023)</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>
 		<div class="tile">
@@ -58,7 +59,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
-		<p>TL;DR: Establishing theoretical equivalence between three consistency concepts of diffusion models, including FP-Diffusion.<br>(ICML2023 SPIGM workshop)</p>
+		<p>Unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
 	</div>	
 	<div class="tile">
@@ -68,13 +69,13 @@
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
-		<p>TL;DR: Solving blind inverse problems unsupervisedly with Denoising Diffusion Restoration Models.<br>(ICML2023 Oral)</p>
+		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
 		<div class="tile_highlight">ICML23 Oral</div>
-		<h6>Downstream applications: </h6>
-			<ul>
-				<h5><a href="https://arxiv.org/abs/2211.04124"><li>Vocal Dereverberation</li></a></h5>
-				<h5><a href="https://arxiv.org/abs/2210.17287"><li>Speech Enhancement</li></a></h5>
-			</ul>
+		<h6>Applications: </h6>
+			<h5>
+				<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
+				<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
+			<h5>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
