@@ -71,11 +71,10 @@
 		</h5>
 		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
 		<div class="tile_highlight">ICML23 Oral</div>
-		<h6>Applications: </h6>
-			<h5>
-				<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
-				<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
-			</h5>
+		<p>Applications:<br/>
+			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
+			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
+		</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
