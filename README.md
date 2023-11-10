@@ -90,10 +90,20 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>CPD Challenge 2023</h3>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img src="./assets/cpdc.png"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023">[CPD Challenge 2023]</a>
+		</h5>
+		<p>Commonsense Persona-grounded Dialogue Challenge</p>
+	</div>
+	<div class="tile">
 		<h3>PeaCok</h3>
 		<a href="https://arxiv.org/abs/2305.02364"><img src="./assets/personas.png"></a>
 		<h5>
+			<a href="https://aclanthology.org/2023.acl-long.362/">[ACL]</a>
 			<a href="https://arxiv.org/abs/2305.02364">[arXiv]</a>
+			<a href="https://github.com/Silin159/PeaCoK">[code]</a>
 		</h5>
 		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(ACL2023, Outstanding Paper Award)</p>
 	</div>
