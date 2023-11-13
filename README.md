@@ -10,7 +10,7 @@
 </div>
 
 <a name="sec_dgm"></a>
-# I. Deep Generative Modeling 
+# I. Deep Generative Modeling
 
 <br>
 
@@ -42,6 +42,9 @@
 			<a href="https://github.com/sony/san">[code]</a>
 		</h5>
 		<p>Enhancing GAN with metrizable discriminators</p>
+		<p>Applications:<br/>
+			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
+		</p>
 	</div>
 		<div class="tile">
 		<h3>FP-Diffusion</h3>
@@ -61,7 +64,7 @@
 		</h5>
 		<p>Unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
-	</div>	
+	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
 		<img src="./assets/GibbsDDRM.png">
@@ -130,6 +133,37 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>STARSS23</h3>
+		<img src="./assets/STARSS23.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
+			<a href="https://zenodo.org/records/7880637">[Dataset]</a>
+		</h5>
+		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events<br>(NeurIPS2023)</p>
+		<div class="tile_highlight">NeurIPS2023</div>
+	</div>
+	<div class="tile">
+		<h3>BigVSAN Vocoder</h3>
+		<img src="./assets/BigVSAN.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2309.02836">[arXiv]</a>
+			<a href="https://github.com/sony/bigvsan">[code]</a>
+			<a href="https://takashishibuyasony.github.io/bigvsan/">[demo]</a>
+		</h5>
+		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network</p>
+	</div>
+	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+			<a href="https://github.com/sony/CLIPSep">[code]</a>
+			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
+	</div>
+	<div class="tile">
 		<h3>hFT-Transformer</h3>
 		<img src="./assets/hfttransformer.png">
 		<h5>
@@ -140,12 +174,24 @@
 		<div class="tile_highlight">ISMIR2023</div>
 	</div>
 	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
+		<h3>Audio Restoration with ViT-AE</h3>
+		<img src="./assets/ExtendedAudioMAE.svg">
 		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://ieeexplore.ieee.org/document/10248171">[IEEE]</a>
+			<a href="https://arxiv.org/abs/2305.06701">[arXiv]</a>
+			<a href="https://zzaudio.github.io/Demo_Extend_AudioMAE_toward_Restoration/demo_page.html">[demo]</a>
 		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
+		<p>Extending Audio Masked Autoencoders Toward Audio Restoration<br>(WASPAA2023)</p>
+	</div>
+	<div class="tile">
+		<h3>Diffiner</h3>
+		<img src="./assets/Diffiner.png">
+		<h5>
+			<a href="https://www.isca-speech.org/archive/interspeech_2023/sawata23_interspeech.html">[ISCA]</a>
+			<a href="https://arxiv.org/abs/2210.17287">[arXiv]</a>
+			<a href="https://github.com/sony/diffiner">[code]</a>
+		</h5>
+		<p>Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement<br>(INTERSPEECH2023)</p>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Tagging</h3>
@@ -163,7 +209,7 @@
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
 		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models<br>(ICASSP2023)</p>
-	</div>	
+	</div>
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
 		<img src="./assets/mixstyletransfer.png">
@@ -208,12 +254,12 @@
 		<img src="./assets/automix.png">
 		<h5>
 			<a href="https://ismir2022program.ismir.net/poster_11.html">[poster]</a>
-			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>			
+			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>
 			<a href="https://github.com/sony/fxnorm-automix">[code]</a>
 			<a href="https://marco-martinez-sony.github.io/FxNorm-automix/">[demo]</a>
 		</h5>
 		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data<br>(ISMIR2022)</p>
-	</div>	
+	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
 		<a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/srcsep.png"></a>
@@ -231,6 +277,15 @@
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks<br>(ICASSP2022)</p>
+	</div>
+	<div class="tile">
+		<h3>Sound Event Localization and Detection</h3>
+		<img src="./assets/ACCDOA.png">
+		<h5>
+			<a href="https://ieeexplore.ieee.org/document/9746384">[IEEE]</a>
+			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
+		</h5>
+		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training<br>(ICASSP2022)</p>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
@@ -258,7 +313,7 @@
 			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
-	</div>		
+	</div>
 	<div class="tile">
 		<h3>DCASE Challenge</h3>
 		<img src="./assets/DCASE.png">
@@ -266,15 +321,7 @@
 			<a href="https://dcase.community/challenge2023/#sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes">[DCASE Challenge2023]</a>
 		</h5>
 		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
-	</div>	
-	<div class="tile">
-		<h3>Sound Event Localization and Detection</h3>
-		<img src="./assets/ACCDOA.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
-		</h5>
-		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training (ICASSP2022)</p>
-	</div>	
+	</div>
 </div>
 
 ### Contact
