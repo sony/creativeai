@@ -73,7 +73,6 @@
 			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
 		</h5>
 		<p>SOTAs with single-step generation, allowing diverse sampling options with a trade-off between computes and quality.</p>
-		<div class="tile_highlight">SOTA generation!</div>
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
