@@ -90,7 +90,7 @@
 	</div>
 		<div class="tile">
 		<h3>MPGD</h3>
-		<img src="./assets/GibbsDDRM.png">
+		<img src="./assets/MPGD.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
