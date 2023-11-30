@@ -65,7 +65,6 @@
 		<p>Theoretically unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
 	</div>
-	</div>
 		<div class="tile">
 		<h3>Consistency Trajectory Models (CTM)</h3>
 		<img src="./assets/fig_1.png">
@@ -74,7 +73,7 @@
 		</h5>
 		<p>SOTAs with single-step generation, allowing diverse sampling options with a trade-off between computes and quality.</p>
 	</div>
-	<div class="tile">
+		<div class="tile">
 		<h3>GibbsDDRM</h3>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
