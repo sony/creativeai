@@ -62,7 +62,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
-		<p>Unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
+		<p>Theoretically unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
 	</div>
 	</div>
