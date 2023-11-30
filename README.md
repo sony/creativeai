@@ -67,7 +67,7 @@
 	</div>
 		<div class="tile">
 		<h3>Consistency Trajectory Models (CTM)</h3>
-		<img src="./assets/fig_1.png">
+		<img src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
 		</h5>
@@ -86,6 +86,14 @@
 			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
 			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
 		</p>
+	</div>
+		<div class="tile">
+		<h3>MPGD</h3>
+		<img src="./assets/GibbsDDRM.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+		</h5>
+		<p>Efficient guidance free lunch!</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
