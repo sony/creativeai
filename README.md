@@ -92,7 +92,7 @@
 		<h3>MPGD</h3>
 		<img src="./assets/MPGD.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
 			<a href="https://kellyyutonghe.github.io/mpgd/">[Project Page]</a>
 		</h5>
 		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
