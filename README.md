@@ -71,7 +71,7 @@
 		<h5>
 			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
 		</h5>
-		<p>SOTAs with single-step generation, allowing diverse sampling options in an unified framework.</p>
+		<p>SOTAs with 1-step generation, allowing diverse samplers in an unified framework.</p>
 	</div>
 		<div class="tile">
 		<h3>GibbsDDRM</h3>
