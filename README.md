@@ -70,6 +70,7 @@
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
+			<a href="https://consistencytrajectorymodel.github.io/CTM/">[Project Page]</a>
 		</h5>
 		<p>SOTAs with 1-step generation, allowing diverse samplers in an unified framework.</p>
 	</div>
@@ -93,7 +94,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
 		</h5>
-		<p>Efficient guidance free lunch!</p>
+		<p>Free lunch efficient guidance!</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
