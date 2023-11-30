@@ -69,7 +69,7 @@
 		<h3>Consistency Trajectory Model (CTM)</h3>
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
-			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[Project Page]</a>
 		</h5>
 		<p>SOTAs with 1-step generation, allowing diverse samplers in an unified framework.</p>
@@ -93,8 +93,9 @@
 		<img src="./assets/MPGD.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+			<a href="https://kellyyutonghe.github.io/mpgd/">[Project Page]</a>
 		</h5>
-		<p>Free lunch efficient guidance!</p>
+		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
