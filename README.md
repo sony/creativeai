@@ -66,7 +66,7 @@
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
 	</div>
 		<div class="tile">
-		<h3>Consistency Trajectory Models (CTM)</h3>
+		<h3>CTM</h3>
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://openreview.net/forum?id=ymjI8feDTD">[OpenReview]</a>
