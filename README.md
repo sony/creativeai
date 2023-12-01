@@ -72,7 +72,7 @@
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[Project Page]</a>
 		</h5>
-		<p>SOTAs in 1-step generation, allowing diverse samplers in an unified framework.</p>
+		<p>Unified framework enables diverse samplers and 1-step generation SOTAs.</p>
 	</div>
 		<div class="tile">
 		<h3>GibbsDDRM</h3>
