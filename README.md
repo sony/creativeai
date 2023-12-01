@@ -50,7 +50,7 @@
 		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
-			<a href="https://arxiv.org/abs/2210.04296">[arXiv]</a>
+			<a href="https://proceedings.mlr.press/v202/lai23d.html">[PMLR]</a>
 			<a href="https://github.com/sony/fp-diffusion">[code]</a>
 		</h5>
 		<p>Improving density estimation of diffusion<br>(ICML2023)</p>
@@ -78,7 +78,7 @@
 		<h3>GibbsDDRM</h3>
 		<img src="./assets/GibbsDDRM.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2301.12686">[arXiv]</a>
+			<a href="https://proceedings.mlr.press/v202/murata23a.html">[PMLR]</a>
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
 		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
