@@ -40,6 +40,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
 			<a href="https://github.com/sony/san">[code]</a>
+			<a href="https://ytakida.github.io/san/">[project page]</a>
 		</h5>
 		<p>Enhancing GAN with metrizable discriminators</p>
 		<p>Applications:<br/>
@@ -70,7 +71,7 @@
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
-			<a href="https://consistencytrajectorymodel.github.io/CTM/">[Project Page]</a>
+			<a href="https://consistencytrajectorymodel.github.io/CTM/">[project page]</a>
 		</h5>
 		<p>Unified framework enables diverse samplers and 1-step generation SOTAs.</p>
 	</div>
@@ -93,7 +94,7 @@
 		<img src="./assets/MPGD.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
-			<a href="https://kellyyutonghe.github.io/mpgd/">[Project Page]</a>
+			<a href="https://kellyyutonghe.github.io/mpgd/">[project page]</a>
 		</h5>
 		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
 	</div>
