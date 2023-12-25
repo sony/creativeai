@@ -169,7 +169,8 @@
 			<a href="https://github.com/sony/bigvsan">[code]</a>
 			<a href="https://takashishibuyasony.github.io/bigvsan/">[demo]</a>
 		</h5>
-		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network</p>
+		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network<br>(ICASSP2024)</p>
+		<div class="tile_highlight">ICASSP2024</div>
 	</div>
 	<div class="tile">
 		<h3>CLIPSep</h3>
@@ -181,6 +182,15 @@
 			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
 		</h5>
 		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
+	</div>
+	<div class="tile">
+		<h3>Zero-/Few-shot SELD</h3>
+		<img src="./assets/ZeroFewSELD.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2309.09223">[arXiv]</a>
+		</h5>
+		<p>Zero- and Few-shot Sound Event Localization and Detection<br>(ICASSP2024)</p>
+		<div class="tile_highlight">ICASSP2024</div>
 	</div>
 	<div class="tile">
 		<h3>hFT-Transformer</h3>
