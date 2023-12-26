@@ -368,6 +368,7 @@
 		</h5>
 		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
 	</div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 ### Contact
