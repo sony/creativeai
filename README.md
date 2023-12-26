@@ -26,7 +26,7 @@
 		<p>Improving codebook utilization and training stability<br>(ICML2022)</p>
 	</div>
 	<div class="tile">
-		<h3>ARELBO</h3>
+		<h3>AR-ELBO</h3>
 		<img src="./assets/ar-elbo.png">
 		<h5>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
@@ -173,16 +173,23 @@
 		<div class="tile_highlight">ICASSP2024</div>
 	</div>
 	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
+		<h3>Instr.-Agnostic Trans.</h3>
+		<img src="./assets/timbretrap.png">
 		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
-			<a href="https://github.com/sony/CLIPSep">[code]</a>
-			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+			<a href="https://arxiv.org/abs/2309.15717">[arXiv]</a>
 		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
+		<p>Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription<br>(ICASSP2024)</p>
+		<div class="tile_highlight">ICASSP2024</div>
 	</div>
+	<div class="tile">
+		<h3>Vocal Restoration</h3>
+		<img src="./assets/vrdmg.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2309.06934">[arXiv]</a>
+		</h5>
+		<p>VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance<br>(ICASSP2024)</p>
+		<div class="tile_highlight">ICASSP2024</div>
+	</div>	
 	<div class="tile">
 		<h3>Zero-/Few-shot SELD</h3>
 		<img src="./assets/ZeroFewSELD.png">
@@ -193,6 +200,17 @@
 		<div class="tile_highlight">ICASSP2024</div>
 	</div>
 	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+			<a href="https://github.com/sony/CLIPSep">[code]</a>
+			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos<br>(ICLR2023)</p>
+	</div>	
+	<div class="tile">
 		<h3>hFT-Transformer</h3>
 		<img src="./assets/hfttransformer.png">
 		<h5>
@@ -200,11 +218,10 @@
 			<a href="https://github.com/sony/hFT-Transformer">[code]</a>
 		</h5>
 		<p>Automatic Piano Transcription with Hierarchical Frequency-Time Transformer<br>(ISMIR2023)</p>
-		<div class="tile_highlight">ISMIR2023</div>
 	</div>
 	<div class="tile">
-		<h3>Audio Restoration with ViT-AE</h3>
-		<img src="./assets/ExtendedAudioMAE.svg">
+		<h3>Audio Restoration: ViT-AE</h3>
+		<img src="./assets/vitae.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/10248171">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2305.06701">[arXiv]</a>
