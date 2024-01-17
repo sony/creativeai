@@ -42,7 +42,8 @@
 			<a href="https://github.com/sony/san">[code]</a>
 			<a href="https://ytakida.github.io/san/">[project page]</a>
 		</h5>
-		<p>Enhancing GAN with metrizable discriminators</p>
+		<p>Enhancing GAN with metrizable discriminators<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
 		</p>
@@ -73,7 +74,8 @@
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[project page]</a>
 		</h5>
-		<p>Unified framework enables diverse samplers and 1-step generation SOTAs.</p>
+		<p>Unified framework enables diverse samplers and 1-step generation SOTAs<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
 	</div>
 		<div class="tile">
 		<h3>GibbsDDRM</h3>
@@ -96,7 +98,8 @@
 			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
 			<a href="https://kellyyutonghe.github.io/mpgd/">[project page]</a>
 		</h5>
-		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
+		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
