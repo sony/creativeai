@@ -16,6 +16,73 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Consistency Trajectory Model (CTM)</h3>
+		<img src="./assets/figure_1_ver2.svg">
+		<h5>
+			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
+			<a href="https://consistencytrajectorymodel.github.io/CTM/">[project page]</a>
+		</h5>
+		<p>Unified framework enables diverse samplers and 1-step generation SOTAs<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
+	</div>
+	<div class="tile">
+		<h3>SAN</h3>
+		<img src="./assets/SAN.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
+			<a href="https://github.com/sony/san">[code]</a>
+			<a href="https://ytakida.github.io/san/">[project page]</a>
+		</h5>
+		<p>Enhancing GAN with metrizable discriminators<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
+		<p>Applications:<br/>
+			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
+		</p>
+	</div>
+	<div class="tile">
+		<h3>MPGD</h3>
+		<img src="./assets/MPGD.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
+			<a href="https://kellyyutonghe.github.io/mpgd/">[project page]</a>
+		</h5>
+		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method<br>(ICLR2024)</p>
+		<div class="tile_highlight">ICLR24</div>
+	</div>
+	<div class="tile">
+		<h3>FP-Diffusion</h3>
+		<img src="./assets/ScoreFPE_3Doutline_single.gif">
+		<h5>
+			<a href="https://proceedings.mlr.press/v202/lai23d.html">[PMLR]</a>
+			<a href="https://github.com/sony/fp-diffusion">[code]</a>
+		</h5>
+		<p>Improving density estimation of diffusion<br>(ICML2023)</p>
+		<div class="tile_highlight">ICML23</div>
+	</div>
+	<div class="tile">
+		<h3>GibbsDDRM</h3>
+		<img src="./assets/GibbsDDRM.png">
+		<h5>
+			<a href="https://proceedings.mlr.press/v202/murata23a.html">[PMLR]</a>
+			<a href="https://github.com/sony/gibbsddrm">[code]</a>
+		</h5>
+		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
+		<div class="tile_highlight">ICML23 Oral</div>
+		<p>Applications:<br/>
+			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
+			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
+		</p>
+	</div>
+	<div class="tile">
+		<h3>Consistency-type Models</h3>
+		<img src="./assets/ctm_thumbnail.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
+		</h5>
+		<p>Theoretically unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
+		<div class="tile_highlight">ICML23 SPIGM workshop</div>
+	</div>
+	<div class="tile">
 		<h3>SQ-VAE</h3>
 		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae.png"></a>
 		<h5>
@@ -33,73 +100,6 @@
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
 		<p>Mitigating oversmoothness in VAE<br>(Neurocomputing2022)</p>
-	</div>
-	<div class="tile">
-		<h3>SAN</h3>
-		<img src="./assets/SAN.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
-			<a href="https://github.com/sony/san">[code]</a>
-			<a href="https://ytakida.github.io/san/">[project page]</a>
-		</h5>
-		<p>Enhancing GAN with metrizable discriminators<br>(ICLR2024)</p>
-		<div class="tile_highlight">ICLR24</div>
-		<p>Applications:<br/>
-			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
-		</p>
-	</div>
-		<div class="tile">
-		<h3>FP-Diffusion</h3>
-		<img src="./assets/ScoreFPE_3Doutline_single.gif">
-		<h5>
-			<a href="https://proceedings.mlr.press/v202/lai23d.html">[PMLR]</a>
-			<a href="https://github.com/sony/fp-diffusion">[code]</a>
-		</h5>
-		<p>Improving density estimation of diffusion<br>(ICML2023)</p>
-		<div class="tile_highlight">ICML23</div>
-	</div>
-		<div class="tile">
-		<h3>Consistency-type Models</h3>
-		<img src="./assets/ctm_thumbnail.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
-		</h5>
-		<p>Theoretically unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
-		<div class="tile_highlight">ICML23 SPIGM workshop</div>
-	</div>
-		<div class="tile">
-		<h3>Consistency Trajectory Model (CTM)</h3>
-		<img src="./assets/figure_1_ver2.svg">
-		<h5>
-			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
-			<a href="https://consistencytrajectorymodel.github.io/CTM/">[project page]</a>
-		</h5>
-		<p>Unified framework enables diverse samplers and 1-step generation SOTAs<br>(ICLR2024)</p>
-		<div class="tile_highlight">ICLR24</div>
-	</div>
-		<div class="tile">
-		<h3>GibbsDDRM</h3>
-		<img src="./assets/GibbsDDRM.png">
-		<h5>
-			<a href="https://proceedings.mlr.press/v202/murata23a.html">[PMLR]</a>
-			<a href="https://github.com/sony/gibbsddrm">[code]</a>
-		</h5>
-		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
-		<div class="tile_highlight">ICML23 Oral</div>
-		<p>Applications:<br/>
-			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
-			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
-		</p>
-	</div>
-		<div class="tile">
-		<h3>MPGD</h3>
-		<img src="./assets/MPGD.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
-			<a href="https://kellyyutonghe.github.io/mpgd/">[project page]</a>
-		</h5>
-		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method<br>(ICLR2024)</p>
-		<div class="tile_highlight">ICLR24</div>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
