@@ -50,6 +50,16 @@
 		<div class="tile_highlight">ICLR24</div>
 	</div>
 	<div class="tile">
+		<h3>HQ-VAE</h3>
+		<img src="./assets/hqvae.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=xqAVkqrLjx">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2401.00365">[arXiv]</a>
+		</h5>
+		<p>Generalizing hierarchical VQ-VAEs with a Bayesian framework <br>(TMLR2024)</p>
+		<div class="tile_highlight">TMLR</div>
+	</div>
+	<div class="tile">
 		<h3>FP-Diffusion</h3>
 		<img src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
