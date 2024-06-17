@@ -372,6 +372,16 @@
 			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
+	</div>	
+	<div class="tile">
+		<h3>Sound Demixing Challenge 2023</h3>
+		<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"><img src="./assets/SDX.png"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023">[site]</a>
+			<a href="https://transactions.ismir.net/articles/10.5334/tismir.171">[paper (music)]</a>
+			<a href="https://transactions.ismir.net/articles/10.5334/tismir.172">[paper (cinematic)]</a>
+		</h5>
+		<p>Sound Demixing Challenge 2023</p>
 	</div>
 	<div class="tile">
 		<h3>DCASE Challenge</h3>
