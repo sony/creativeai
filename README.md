@@ -172,7 +172,17 @@
 			<a href="https://sh-lee97.github.io/grafx-prune/">[Webpage]</a>
 		</h5>
 		<p>Searching For Music Mixing Graphs: A Pruning Approach<br>(DAFx-24)</p>
-		<div class="tile_highlight">DAFX-24</div>
+		<div class="tile_highlight">DAFx-24</div>
+	</div>
+	<div class="tile">
+		<h3>MusicMagus</h3>
+		<img src="./assets/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2402.06178">[arXiv]</a>
+			<a href="https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d">[Webpage]</a>
+		</h5>
+		<p>MusicMagus: Zero-Shot Text-to-Music editing via diffusion models<br>(IJCAI 2024)</p>
+		<div class="tile_highlight">IJCAI 2024</div>
 	</div>
 	<div class="tile">
 		<h3>STARSS23</h3>
