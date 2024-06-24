@@ -16,11 +16,11 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>Consistency Trajectory Model (CTM)</h3>
+		<h3>CTM</h3>
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
-			<a href="https://consistencytrajectorymodel.github.io/CTM/">[project page]</a>
+			<a href="https://consistencytrajectorymodel.github.io/CTM/">[demo]</a>
 		</h5>
 		<p>Unified framework enables diverse samplers and 1-step generation SOTAs<br>(ICLR2024)</p>
 		<div class="tile_highlight">ICLR24</div>
@@ -31,7 +31,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
 			<a href="https://github.com/sony/san">[code]</a>
-			<a href="https://ytakida.github.io/san/">[project page]</a>
+			<a href="https://ytakida.github.io/san/">[demo]</a>
 		</h5>
 		<p>Enhancing GAN with metrizable discriminators<br>(ICLR2024)</p>
 		<div class="tile_highlight">ICLR24</div>
@@ -44,7 +44,7 @@
 		<img src="./assets/MPGD.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
-			<a href="https://kellyyutonghe.github.io/mpgd/">[project page]</a>
+			<a href="https://kellyyutonghe.github.io/mpgd/">[demo]</a>
 		</h5>
 		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method<br>(ICLR2024)</p>
 		<div class="tile_highlight">ICLR24</div>
