@@ -165,6 +165,16 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Reverse-Engineer Music Mixing Graphs</h3>
+		<img src="./assets/Searching-For-Music-Mixing-Graphs-A-Pruning-Approach.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2406.01049">[arXiv]</a>
+			<a href="https://zenodo.org/records/7880637">[Webpage]</a>
+		</h5>
+		<p>Searching For Music Mixing Graphs: A Pruning Approach<br>(DAFx-24)</p>
+		<div class="tile_highlight">DAFX-24</div>
+	</div>
+	<div class="tile">
 		<h3>STARSS23</h3>
 		<img src="./assets/STARSS23.png">
 		<h5>
