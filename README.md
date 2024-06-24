@@ -169,7 +169,7 @@
 		<img src="./assets/Searching-For-Music-Mixing-Graphs-A-Pruning-Approach.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2406.01049">[arXiv]</a>
-			<a href="https://zenodo.org/records/7880637">[Webpage]</a>
+			<a href="https://sh-lee97.github.io/grafx-prune/">[Webpage]</a>
 		</h5>
 		<p>Searching For Music Mixing Graphs: A Pruning Approach<br>(DAFx-24)</p>
 		<div class="tile_highlight">DAFX-24</div>
