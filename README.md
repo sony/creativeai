@@ -125,6 +125,38 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>DIFFCOMET</h3>
+		<a href="https://arxiv.org/pdf/2402.17011"><img src="./assets/diffcomet.png"></a>
+		<h5>
+			<a href="">[ACL]</a>
+			<a href="https://arxiv.org/pdf/2402.17011">[arXiv]</a>
+			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
+		</h5>
+		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion<br>(ACL2024)</p>
+		<div class="tile_highlight">ACL2024</div>
+	</div>
+	<div class="tile">
+		<h3>CyCLIPs/CyCLAPs</h3>
+		<a href="https://arxiv.org/pdf/2310.13267"><img src="./assets/cyclips.png"></a>
+		<h5>
+			<a href="">[ACL]</a>
+			<a href="https://arxiv.org/pdf/2310.13267">[arXiv]</a>
+		</h5>
+		<p>On the Language Encoder of Contrastive Cross-modal Models<br>(ACL2024 Findings)</p>
+		<div class="tile_highlight">ACL2024</div>
+	</div>
+	<div class="tile">
+		<h3>DIIR</h3>
+		<a href="https://arxiv.org/pdf/2403.15737"><img src="./assets/diir.png"></a>
+		<h5>
+			<a href="">[ACL]</a>
+			<a href="https://arxiv.org/pdf/2403.15737">[arXiv]</a>
+			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
+		</h5>
+		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning<br>(ACL2024 Findings)</p>
+		<div class="tile_highlight">ACL2024</div>
+	</div>
+	<div class="tile">
 		<h3>CPD Challenge 2023</h3>
 		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img src="./assets/cpdc.png"></a>
 		<h5>
