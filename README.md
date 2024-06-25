@@ -125,7 +125,7 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>DIFFCOMET</h3>
+		<h3>DiffuCOMET</h3>
 		<a href="https://arxiv.org/pdf/2402.17011"><img src="./assets/diffcomet.png"></a>
 		<h5>
 			[ACL]
