@@ -128,7 +128,7 @@
 		<h3>DIFFCOMET</h3>
 		<a href="https://arxiv.org/pdf/2402.17011"><img src="./assets/diffcomet.png"></a>
 		<h5>
-			<a href="">[ACL]</a>
+			[ACL]
 			<a href="https://arxiv.org/pdf/2402.17011">[arXiv]</a>
 			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
 		</h5>
@@ -139,7 +139,7 @@
 		<h3>CyCLIPs/CyCLAPs</h3>
 		<a href="https://arxiv.org/pdf/2310.13267"><img src="./assets/cyclips.png"></a>
 		<h5>
-			<a href="">[ACL]</a>
+			[ACL]
 			<a href="https://arxiv.org/pdf/2310.13267">[arXiv]</a>
 		</h5>
 		<p>On the Language Encoder of Contrastive Cross-modal Models<br>(ACL2024 Findings)</p>
@@ -149,7 +149,7 @@
 		<h3>DIIR</h3>
 		<a href="https://arxiv.org/pdf/2403.15737"><img src="./assets/diir.png"></a>
 		<h5>
-			<a href="">[ACL]</a>
+			[ACL]
 			<a href="https://arxiv.org/pdf/2403.15737">[arXiv]</a>
 			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
 		</h5>
