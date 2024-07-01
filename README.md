@@ -211,6 +211,7 @@
 		<h3>Guitar Amp. Modeling</h3>
 		<img src="./assets/guitarampmodeling.png">
 		<h5>
+            <a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
 		</h5>
 		<p>Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data<br>(DAFx24)</p>
 		<div class="tile_highlight">DAFx24</div>
