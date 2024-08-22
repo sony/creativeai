@@ -7,7 +7,7 @@
 	<div class="bk_item"><a href="#sec_dgm">I. Deep Generative Modeling</a></div>
 	<div class="bk_item"><a href="#sec_nlp">II. Multimodal NLP</a></div>
 	<div class="bk_item"><a href="#sec_mct">III. Music & Cinematic Technologies</a></div>
-    <div class="bk_item"><a href="#sec_challenges">IV. Hosted Challenges</a></div
+    <div class="bk_item"><a href="#sec_challenges">IV. Hosted Challenges</a></div>
 </div>
 
 <a name="sec_dgm"></a>
