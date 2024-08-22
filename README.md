@@ -18,7 +18,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>PaGoDA</h3>
-		<img src="./assets/figure_1_ver2.svg">
+		<img src="./assets/pagoda_red.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
 		</h5>
