@@ -232,6 +232,26 @@
 		<div class="tile_highlight">IJCAI24</div>
 	</div>
 	<div class="tile">
+		<h3>GenWarp</h3>
+		<img src="./assets/genwarp.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2405.17251">[arXiv]</a>
+			<a href="https://genwarp-nvs.github.io/">[demo]</a>
+		</h5>
+		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
+	</div>
+	<div class="tile">
+		<h3>Acoustic Inv. Rendering</h3>
+		<img src="./assets/hearing_anything_anywhere.png">
+		<h5>
+			<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Hearing_Anything_Anywhere_CVPR_2024_paper.html">[CVF]</a>
+			<a href="https://arxiv.org/abs/2406.07532">[arXiv]</a>
+			<a href="https://masonlwang.com/hearinganythinganywhere/">[demo]</a>
+		</h5>
+		<p>Hearing Anything Anywhere</p>
+		<div class="tile_highlight">CVPR24</div>
+	</div>
+	<div class="tile">
 		<h3>STARSS23</h3>
 		<img src="./assets/STARSS23.png">
 		<h5>
@@ -256,6 +276,7 @@
 		<h3>Instr.-Agnostic Trans.</h3>
 		<img src="./assets/timbretrap.png">
 		<h5>
+			<a href="https://ieeexplore.ieee.org/document/10446141">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.15717">[arXiv]</a>
 		</h5>
 		<p>Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription</p>
@@ -265,7 +286,9 @@
 		<h3>Vocal Restoration</h3>
 		<img src="./assets/vrdmg.png">
 		<h5>
+			<a href="https://ieeexplore.ieee.org/document/10446423">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.06934">[arXiv]</a>
+			<a href="https://carlosholivan.github.io/demos/audio-restoration-2023.html">[demo]</a>
 		</h5>
 		<p>VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance</p>
 		<div class="tile_highlight">ICASSP24</div>
@@ -274,6 +297,7 @@
 		<h3>Zero-/Few-shot SELD</h3>
 		<img src="./assets/ZeroFewSELD.png">
 		<h5>
+			<a href="https://ieeexplore.ieee.org/document/10448497">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.09223">[arXiv]</a>
 		</h5>
 		<p>Zero- and Few-shot Sound Event Localization and Detection</p>
