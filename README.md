@@ -7,6 +7,7 @@
 	<div class="bk_item"><a href="#sec_dgm">I. Deep Generative Modeling</a></div>
 	<div class="bk_item"><a href="#sec_nlp">II. Multimodal NLP</a></div>
 	<div class="bk_item"><a href="#sec_mct">III. Music & Cinematic Technologies</a></div>
+    <div class="bk_item"><a href="#sec_challenges">IV. Hosted Challenges</a></div
 </div>
 
 <a name="sec_dgm"></a>
@@ -134,8 +135,8 @@
 			<a href="https://arxiv.org/pdf/2402.17011">[arXiv]</a>
 			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
 		</h5>
-		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion<br>(ACL2024)</p>
-		<div class="tile_highlight">ACL2024</div>
+		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion</p>
+		<div class="tile_highlight">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>CyCLIPs/CyCLAPs</h3>
@@ -144,8 +145,8 @@
 			[ACL]
 			<a href="https://arxiv.org/pdf/2310.13267">[arXiv]</a>
 		</h5>
-		<p>On the Language Encoder of Contrastive Cross-modal Models<br>(ACL2024 Findings)</p>
-		<div class="tile_highlight">ACL2024</div>
+		<p>On the Language Encoder of Contrastive Cross-modal Models</p>
+		<div class="tile_highlight">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>DIIR</h3>
@@ -155,16 +156,8 @@
 			<a href="https://arxiv.org/pdf/2403.15737">[arXiv]</a>
 			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
 		</h5>
-		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning<br>(ACL2024 Findings)</p>
-		<div class="tile_highlight">ACL2024</div>
-	</div>
-	<div class="tile">
-		<h3>CPD Challenge 2023</h3>
-		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img src="./assets/cpdc.png"></a>
-		<h5>
-			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023">[CPD Challenge 2023]</a>
-		</h5>
-		<p>Commonsense Persona-grounded Dialogue Challenge</p>
+		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning</p>
+		<div class="tile_highlight">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>PeaCok</h3>
@@ -206,7 +199,7 @@
             <a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
             <a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
 		</h5>
-		<p>Searching For Music Mixing Graphs: A Pruning Approach<br>(DAFx24)</p>
+		<p>Searching For Music Mixing Graphs: A Pruning Approach</p>
 		<div class="tile_highlight">DAFx24</div>
 	</div>
 	<div class="tile">
@@ -215,7 +208,7 @@
 		<h5>
             <a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
 		</h5>
-		<p>Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data<br>(DAFx24)</p>
+		<p>Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data</p>
 		<div class="tile_highlight">DAFx24</div>
 	</div>
 	<div class="tile">
@@ -226,8 +219,8 @@
 			<a href="https://github.com/ldzhangyx/MusicMagus">[code]</a>
             <a href="https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d">[demo]</a>
 		</h5>
-		<p>MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models<br>(IJCAI2024)</p>
-		<div class="tile_highlight">IJCAI2024</div>
+		<p>MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models</p>
+		<div class="tile_highlight">IJCAI24</div>
 	</div>
 	<div class="tile">
 		<h3>STARSS23</h3>
@@ -236,8 +229,8 @@
 			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
 			<a href="https://zenodo.org/records/7880637">[Dataset]</a>
 		</h5>
-		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events<br>(NeurIPS2023)</p>
-		<div class="tile_highlight">NeurIPS2023</div>
+		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
+		<div class="tile_highlight">NeurIPS23</div>
 	</div>
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
@@ -247,8 +240,8 @@
 			<a href="https://github.com/sony/bigvsan">[code]</a>
 			<a href="https://takashishibuyasony.github.io/bigvsan/">[demo]</a>
 		</h5>
-		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network<br>(ICASSP2024)</p>
-		<div class="tile_highlight">ICASSP2024</div>
+		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network</p>
+		<div class="tile_highlight">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>Instr.-Agnostic Trans.</h3>
@@ -256,8 +249,8 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2309.15717">[arXiv]</a>
 		</h5>
-		<p>Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription<br>(ICASSP2024)</p>
-		<div class="tile_highlight">ICASSP2024</div>
+		<p>Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription</p>
+		<div class="tile_highlight">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Restoration</h3>
@@ -265,8 +258,8 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2309.06934">[arXiv]</a>
 		</h5>
-		<p>VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance<br>(ICASSP2024)</p>
-		<div class="tile_highlight">ICASSP2024</div>
+		<p>VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance</p>
+		<div class="tile_highlight">ICASSP24</div>
 	</div>	
 	<div class="tile">
 		<h3>Zero-/Few-shot SELD</h3>
@@ -274,8 +267,8 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2309.09223">[arXiv]</a>
 		</h5>
-		<p>Zero- and Few-shot Sound Event Localization and Detection<br>(ICASSP2024)</p>
-		<div class="tile_highlight">ICASSP2024</div>
+		<p>Zero- and Few-shot Sound Event Localization and Detection</p>
+		<div class="tile_highlight">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>CLIPSep</h3>
@@ -429,17 +422,33 @@
 		</h5>
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
 	</div>
+<div class="tile" style="background-color: white;"></div>
+</div>
+
+<a name="sec_challenges"></a>
+# IV. Hosted Challenges
+
+<br/>
+
+<div class="trow">
 	<div class="tile">
-		<h3>MDX21</h3>
-		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
+		<h3>DCASE Challenge Task 3</h3>
+		<img src="./assets/DCASE.png">
 		<h5>
-			<a href="https://mdx-workshop.github.io/">[site]</a>
-			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>
+			<a href="https://dcase.community/challenge2023/#sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes">[DCASE Challenge2023]</a>
 		</h5>
-		<p>Music Demixing Challenge 2021</p>
-	</div>	
+		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
+	</div>
 	<div class="tile">
-		<h3>Sound Demixing Challenge 2023</h3>
+		<h3>CPD Challenge 2023</h3>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img src="./assets/cpdc.png"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023">[CPD Challenge 2023]</a>
+		</h5>
+		<p>Commonsense Persona-grounded Dialogue Challenge</p>
+	</div>
+	<div class="tile">
+		<h3>SDX Challenge 2023</h3>
 		<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"><img src="./assets/SDX.png"></a>
 		<h5>
 			<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023">[site]</a>
@@ -447,17 +456,18 @@
 			<a href="https://transactions.ismir.net/articles/10.5334/tismir.172">[paper (cinematic)]</a>
 		</h5>
 		<p>Sound Demixing Challenge 2023</p>
-	</div>
+	</div>	
 	<div class="tile">
-		<h3>DCASE Challenge</h3>
-		<img src="./assets/DCASE.png">
+		<h3>MDX Challenge 2021</h3>
+		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
 		<h5>
-			<a href="https://dcase.community/challenge2023/#sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes">[DCASE Challenge2023]</a>
+			<a href="https://mdx-workshop.github.io/">[site]</a>
+			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>
 		</h5>
-		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
+		<p>Music Demixing Challenge 2021</p>
 	</div>
-	<div class="tile" style="background-color: white;"></div>
+    <div class="tile" style="background-color: white;"></div>
+    <div class="tile" style="background-color: white;"></div>
 </div>
-
 ### Contact
 <h5 align="left"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h5>
