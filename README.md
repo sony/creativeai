@@ -17,6 +17,15 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>PaGoDA</h3>
+		<img src="./assets/figure_1_ver2.svg">
+		<h5>
+			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
+		</h5>
+		<p>A 64x64 pre-trained diffusion model is all you need for 1-step high-resolution SOTA generation</p>
+		<div class="tile_highlight">Preprint</div>
+	</div>	
+	<div class="tile">
 		<h3>CTM</h3>
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
