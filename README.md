@@ -246,6 +246,8 @@
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Hearing_Anything_Anywhere_CVPR_2024_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2406.07532">[arXiv]</a>
+			<a href="https://zenodo.org/records/11195833">[dataset]</a>
+			<a href="https://github.com/maswang32/hearinganythinganywhere/">[code]</a>
 			<a href="https://masonlwang.com/hearinganythinganywhere/">[demo]</a>
 		</h5>
 		<p>Hearing Anything Anywhere</p>
@@ -256,7 +258,7 @@
 		<img src="./assets/STARSS23.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
-			<a href="https://zenodo.org/records/7880637">[Dataset]</a>
+			<a href="https://zenodo.org/records/7880637">[dataset]</a>
 		</h5>
 		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
 		<div class="tile_highlight">NeurIPS23</div>
