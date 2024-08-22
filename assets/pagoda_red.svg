@@ -1,19 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="918.36" height="187.08" viewBox="0 0 918.36 187.08">
 <defs>
-<clipPath id="clip_0">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M0 .000045776H918.36V187.08005H0Z" fill-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_1">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M-.000009453 187.08H918.36V.000045776H-.000009453" fill-rule="evenodd"/>
-</clipPath>
+
 <mask id="mask_2">
 <g>
 <clipPath id="clip_3">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M1.26 2.4828H496.02V184.38H1.26Z" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" d="M1.26 2.4828H496.02V184.38H1.26Z" fill-rule="evenodd" fill="none"/>
 </clipPath>
 <g clip-path="url(#clip_3)">
 <clipPath id="clip_4">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M1.26 2.4827H496.02003V184.38269H1.26Z" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" d="M1.26 2.4827H496.02003V184.38269H1.26Z" fill-rule="evenodd" fill="none"/>
 </clipPath>
 <g clip-path="url(#clip_4)">
 <image x="1" y="2" width="496" height="183" xlink:href="data:image/png;base64,
@@ -85,18 +80,7 @@ EC4szwUbiwAAAABJRU5ErkJggg=="/>
 </g>
 "/>
 </mask>
-<clipPath id="clip_5">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M1.26 2.4827H496.02003V184.38269H1.26Z" fill-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_6">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M-.000009453 187.08H918.36V.000045776H-.000009453" fill-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_7">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M501.6 60.6H559.56V118.56H501.6Z" fill-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_9">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M-.000012018 187.08H918.36V0H-.000051388" fill-rule="evenodd"/>
-</clipPath>
+
 <mask id="mask_10">
 <g>
 <clipPath id="clip_11">
@@ -640,7 +624,7 @@ Ll30tNOmE3hH2dq/T9cr+J9hpyNWhkkn8bI3XVTlOrbDsWaLBSx9iJPjLJ2/FP9Z
 </defs>
 <g>
 <g clip-path="url(#clip_0)">
-<path transform="matrix(1,0,0,-1,0,187.08)" d="M0 .000015259H918.36V187.08002H0Z" fill="#ffffff" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" d="M0 .000015259H918.36V187.08002H0Z" fill="#f8f8f8" fill-rule="evenodd"/>
 </g>
 <g clip-path="url(#clip_1)">
 <g mask="url(#mask_2)">
@@ -668,7 +652,7 @@ kIEDQNAFrajbCNLIkucAAAAASUVORK5CYII="/>
 </g>
 </g>
 <g clip-path="url(#clip_6)">
-<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" stroke-opacity=".2" d="M1.26 2.4827H496.02003V184.38269H1.26Z"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width="1.5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f8f8f8" stroke-opacity=".2" d="M1.26 2.4827H496.02003V184.38269H1.26Z"/>
 </g>
 <g clip-path="url(#clip_7)">
 <g transform="matrix(.905625,0,0,.905625,501.6,68.520008)">
@@ -2005,8 +1989,8 @@ DQAAAFTEbgAAAKAidgMAAADl+D+cg6UNgMAxfQAAAABJRU5ErkJggg=="/>
 <g clip-path="url(#clip_38)">
 <text xml:space="preserve" transform="matrix(1 0 -0 1 0 187.08)" font-size="20.04" font-family="TimesNewRomanPSMT"><tspan y="-73.92" x="192.6 203.74225 212.64002 227.99066 238.01067 243.58179 249.15291 259.1729">Sampling</tspan></text>
 </g>
-<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width=".25" stroke-linecap="butt" stroke-dasharray="1,.75" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#515151" d="M161.64 165.12 302.23 120.44"/>
-<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width=".25" stroke-linecap="butt" stroke-dasharray="1,.75" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#515151" d="M161.64 10.335 302.23 58.68"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width=".25" stroke-linecap="butt" stroke-dasharray="1,.75" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f8f8f8" d="M161.64 165.12 302.23 120.44"/>
+<path transform="matrix(1,0,0,-1,0,187.08)" stroke-width=".25" stroke-linecap="butt" stroke-dasharray="1,.75" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f8f8f8" d="M161.64 10.335 302.23 58.68"/>
 <g clip-path="url(#clip_39)">
 <g mask="url(#mask_40)">
 <g transform="matrix(.3627586,0,0,.36206896,376.32,57.96)">
