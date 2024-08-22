@@ -22,7 +22,7 @@
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[demo]</a>
 		</h5>
-		<p>Unified framework enables diverse samplers and 1-step generation SOTAs<br>(ICLR2024)</p>
+		<p>Unified framework enables diverse samplers and 1-step generation SOTAs</p>
 		<div class="tile_highlight">ICLR24</div>
 	</div>
 	<div class="tile">
@@ -33,7 +33,7 @@
 			<a href="https://github.com/sony/san">[code]</a>
 			<a href="https://ytakida.github.io/san/">[demo]</a>
 		</h5>
-		<p>Enhancing GAN with metrizable discriminators<br>(ICLR2024)</p>
+		<p>Enhancing GAN with metrizable discriminators</p>
 		<div class="tile_highlight">ICLR24</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
@@ -46,7 +46,7 @@
 			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
 			<a href="https://kellyyutonghe.github.io/mpgd/">[demo]</a>
 		</h5>
-		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method<br>(ICLR2024)</p>
+		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
 		<div class="tile_highlight">ICLR24</div>
 	</div>
 	<div class="tile">
@@ -56,7 +56,7 @@
 			<a href="https://openreview.net/forum?id=xqAVkqrLjx">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2401.00365">[arXiv]</a>
 		</h5>
-		<p>Generalizing hierarchical VQ-VAEs with a Bayesian framework <br>(TMLR2024)</p>
+		<p>Generalizing hierarchical VQ-VAEs with a Bayesian framework</p>
 		<div class="tile_highlight">TMLR</div>
 	</div>
 	<div class="tile">
@@ -66,7 +66,7 @@
 			<a href="https://proceedings.mlr.press/v202/lai23d.html">[PMLR]</a>
 			<a href="https://github.com/sony/fp-diffusion">[code]</a>
 		</h5>
-		<p>Improving density estimation of diffusion<br>(ICML2023)</p>
+		<p>Improving density estimation of diffusion</p>
 		<div class="tile_highlight">ICML23</div>
 	</div>
 	<div class="tile">
@@ -76,7 +76,7 @@
 			<a href="https://proceedings.mlr.press/v202/murata23a.html">[PMLR]</a>
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
-		<p>Achieving blind inversion using DDPM<br>(ICML2023 Oral)</p>
+		<p>Achieving blind inversion using DDPM</p>
 		<div class="tile_highlight">ICML23 Oral</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
@@ -89,7 +89,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
-		<p>Theoretically unified framework for "consistency" on diffusion models<br>(ICML2023 SPIGM workshop)</p>
+		<p>Theoretically unified framework for "consistency" on diffusion model</p>
 		<div class="tile_highlight">ICML23 SPIGM workshop</div>
 	</div>
 	<div class="tile">
@@ -100,7 +100,8 @@
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
-		<p>Improving codebook utilization and training stability<br>(ICML2022)</p>
+		<p>Improving codebook utilization and training stability</p>
+		<div class="tile_highlight">ICML22</div>
 	</div>
 	<div class="tile">
 		<h3>AR-ELBO</h3>
@@ -109,7 +110,8 @@
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
-		<p>Mitigating oversmoothness in VAE<br>(Neurocomputing2022)</p>
+		<p>Mitigating oversmoothness in VAE</p>
+		<div class="tile_highlight">Neurocomputing</div>
 	</div>
         <div class="tile" style="background-color: white;"></div>
 </div>
