@@ -123,7 +123,8 @@
 		<p>Mitigating oversmoothness in VAE</p>
 		<div class="tile_highlight">Neurocomputing</div>
 	</div>
-        <div class="tile" style="background-color: white;"></div>
+    <div class="tile" style="background-color: white;"></div>
+    <div class="tile" style="background-color: white;"></div>
 </div>
 
 
