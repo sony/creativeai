@@ -4,15 +4,15 @@
 </head>
 
 <div class="bk_container">
-	<div class="bk_item"><a href="#sec_dgm">I. Deep Generative Modeling</a></div>
-	<div class="bk_item"><a href="#sec_nlp">II. Multimodal<br/>NLP</a></div>
-	<div class="bk_item"><a href="#sec_mt">III. Music<br/>Technology</a></div>
-    <div class="bk_item"><a href="#sec_ct">IV. Cinematic<br/>Technology</a></div>
-    <div class="bk_item"><a href="#sec_challenges">V. Hosted<br/>Challenges</a></div>
+	<div class="bk_item"><a href="#sec_dgm">Deep Generative Modeling</a></div>
+	<div class="bk_item"><a href="#sec_nlp">Multimodal<br/>NLP</a></div>
+	<div class="bk_item"><a href="#sec_mt">Music<br/>Technology</a></div>
+    <div class="bk_item"><a href="#sec_ct">Cinematic<br/>Technology</a></div>
+    <div class="bk_item"><a href="#sec_challenges">Hosted<br/>Challenges</a></div>
 </div>
 
 <a name="sec_dgm"></a>
-# I. Deep Generative Modeling
+# Deep Generative Modeling
 
 <br>
 
@@ -132,7 +132,7 @@
 
 
 <a name="sec_nlp"></a>
-# II. Multimodal NLP
+# Multimodal NLP
 
 <br>
 
@@ -197,7 +197,7 @@
 </div>
 
 <a name="sec_mt"></a>
-# III. Music Technologies
+# Music Technologies
 
 <br>
 
@@ -392,7 +392,7 @@
 </div>
 
 <a name="sec_ct"></a>
-# IV. Cinematic Technologies
+# Cinematic Technologies
 
 <br/>
 
@@ -486,7 +486,7 @@
 </div>
 
 <a name="sec_challenges"></a>
-# V. Hosted Challenges
+# Hosted Challenges
 
 <br/>
 
