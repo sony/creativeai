@@ -58,6 +58,7 @@
 			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
 		</h5>
 		<p>A 64x64 pre-trained diffusion model is all you need for 1-step high-resolution SOTA generation</p>
+		<div class="tile_highlight">NeurIPS24</div>
 	</div>		
 	<div class="tile">
 		<h3>HQ-VAE</h3>
@@ -405,6 +406,7 @@
 			<a href="https://genwarp-nvs.github.io/">[demo]</a>
 		</h5>
 		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
+        <div class="tile_highlight">NeurIPS24</div>
 	</div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
@@ -491,6 +493,14 @@
 <br/>
 
 <div class="trow">
+	<div class="tile">
+		<h3>SVG Challenge 2024</h3>
+		<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"><img src="./assets/svgc.png"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024">[SVG Challenge 2024]</a>
+		</h5>
+		<p>Sounding Video Generation Challenge 2024</p>
+	</div>
 	<div class="tile">
 		<h3>DCASE Challenge Task 3</h3>
 		<img src="./assets/DCASE.png">
