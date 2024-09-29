@@ -18,6 +18,15 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>PaGoDA</h3>
+		<img src="./assets/pagoda_red.svg">
+		<h5>
+			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
+		</h5>
+		<p>A 64x64 pre-trained diffusion model is all you need for 1-step high-resolution SOTA generation</p>
+		<div class="tile_highlight">NeurIPS24</div>
+	</div>	
+	<div class="tile">
 		<h3>CTM</h3>
 		<img src="./assets/figure_1_ver2.svg">
 		<h5>
@@ -50,16 +59,7 @@
 		</h5>
 		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
 		<div class="tile_highlight">ICLR24</div>
-	</div>
-	<div class="tile">
-		<h3>PaGoDA</h3>
-		<img src="./assets/pagoda_red.svg">
-		<h5>
-			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
-		</h5>
-		<p>A 64x64 pre-trained diffusion model is all you need for 1-step high-resolution SOTA generation</p>
-		<div class="tile_highlight">NeurIPS24</div>
-	</div>		
+	</div>	
 	<div class="tile">
 		<h3>HQ-VAE</h3>
 		<img src="./assets/hqvae.png">
