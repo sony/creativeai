@@ -35,6 +35,9 @@
 		</h5>
 		<p>Unified framework enables diverse samplers and 1-step generation SOTAs</p>
 		<div class="tile_highlight">ICLR24</div>
+		<p>Applications:<br/>
+			<a href="https://arxiv.org/abs/2405.18503">[SoundGen]</a>
+		</p>
 	</div>
 	<div class="tile">
 		<h3>SAN</h3>
@@ -256,18 +259,6 @@
 		<div class="tile_highlight">ICASSP24</div>
 	</div>	
 	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
-		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
-			<a href="https://github.com/sony/CLIPSep">[code]</a>
-			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
-		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
-        <div class="tile_highlight">ICLR23</div>
-	</div>	
-	<div class="tile">
 		<h3>hFT-Transformer</h3>
 		<img src="./assets/hfttransformer.png">
 		<h5>
@@ -409,13 +400,32 @@
         <div class="tile_highlight">NeurIPS24</div>
 	</div>
 	<div class="tile">
+		<h3>SoundCTM</h3>
+		<img src="./assets/SoundCTM.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2405.18503">[arXiv]</a>
+			<a href="https://github.com/sony/soundctm">[code]</a>
+			<a href="https://koichi-saito-sony.github.io/soundctm/">[demo]</a>
+		</h5>
+		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
+	</div>
+	<div class="tile">
+		<h3>MMAudio</h3>
+		<img src="./assets/MMAudio.png">
+		<h5>
+			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
+			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
+		</h5>
+		<p>Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
+	</div>
+	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
 		<img src="./assets/hearing_anything_anywhere.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Hearing_Anything_Anywhere_CVPR_2024_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2406.07532">[arXiv]</a>
 			<a href="https://zenodo.org/records/11195833">[dataset]</a>
-			<a href="https://github.com/maswang32/hearinganythinganywhere/">[code]</a>
+			<a href="https://github.com/maswang32/hearinganythinganywhere">[code]</a>
 			<a href="https://masonlwang.com/hearinganythinganywhere/">[demo]</a>
 		</h5>
 		<p>Hearing Anything Anywhere</p>
@@ -431,6 +441,18 @@
 		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
 		<div class="tile_highlight">NeurIPS23</div>
 	</div>
+	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+			<a href="https://github.com/sony/CLIPSep">[code]</a>
+			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
+        <div class="tile_highlight">ICLR23</div>
+	</div>	
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
 		<img src="./assets/BigVSAN.png">
