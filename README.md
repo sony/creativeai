@@ -413,6 +413,7 @@
 		<h3>MMAudio</h3>
 		<img src="./assets/MMAudio.png">
 		<h5>
+			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
 			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
