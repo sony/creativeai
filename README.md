@@ -390,24 +390,26 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>GenWarp</h3>
-		<img src="./assets/genwarp.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2405.17251">[arXiv]</a>
-			<a href="https://genwarp-nvs.github.io/">[demo]</a>
-		</h5>
-		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
-        <div class="tile_highlight">NeurIPS24</div>
-	</div>
-	<div class="tile">
 		<h3>SoundCTM</h3>
 		<img src="./assets/SoundCTM.png">
 		<h5>
+			<a href="https://openreview.net/forum?id=KrK6zXbjfO">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2405.18503">[arXiv]</a>
 			<a href="https://github.com/sony/soundctm">[code]</a>
 			<a href="https://koichi-saito-sony.github.io/soundctm/">[demo]</a>
 		</h5>
 		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
+        <div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
+		<h3>Audio-Visual Guided Diffusion</h3>
+		<img src="./assets/AVGuidedDiff.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
+		</h5>
+		<p>Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation</p>
+        <div class="tile_highlight">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>MMAudio</h3>
@@ -418,6 +420,16 @@
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
 		<p>Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
+	</div>
+	<div class="tile">
+		<h3>GenWarp</h3>
+		<img src="./assets/genwarp.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2405.17251">[arXiv]</a>
+			<a href="https://genwarp-nvs.github.io/">[demo]</a>
+		</h5>
+		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
+        <div class="tile_highlight">NeurIPS24</div>
 	</div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
