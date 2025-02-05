@@ -210,7 +210,7 @@
         <h3>Variable Bitrate RVQ</h3>
         <img src="./assets/VRVQ_format.png">
         <h5>
-            <a href="<https://arxiv.org/pdf/2410.06016>">[arXiv]</a>
+            <a href="https://arxiv.org/pdf/2410.06016">[arXiv]</a>
         </h5>
         <p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
         <div class="tile_highlight">ICASSP25</div>
@@ -219,9 +219,9 @@
         <h3>Instr. Timbre Transfer</h3>
         <img src="./assets/diff_timbre_transfer_format.png">
         <h5>
-            <a href="<https://arxiv.org/pdf/2409.06096>">[arXiv]</a>
-            <a href="<https://github.com/sony/diffusion-timbre-transfer>">[code]</a>
-            <a href="<https://sony.github.io/diffusion-timbre-transfer/>">[demo]</a>
+            <a href="https://arxiv.org/pdf/2409.06096">[arXiv]</a>
+            <a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
+            <a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
         </h5>
         <p>Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer</p>
         <div class="tile_highlight">ICASSP25</div>
