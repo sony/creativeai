@@ -417,7 +417,7 @@
 			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
-		<p>Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
+		<p>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
         <div class="tile_highlight">CVPR25</div>
 	</div>
 	<div class="tile">
