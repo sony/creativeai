@@ -18,6 +18,24 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Jump Your Steps</h3>
+		<img src="./assets/JYS.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.07761">[arXiv]</a>
+		</h5>
+		<p>A general method to find an optimal sampling schedule for inferenc in discrete diffusion</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
+		<h3>WPSE</h3>
+		<img src="./assets/WPSE.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2404.19228">[arXiv]</a>
+		</h5>
+		<p>An enhanced multimodal representation using weighted point clouds and its theoretical benefits</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
 		<h3>PaGoDA</h3>
 		<img src="./assets/pagoda_red.svg">
 		<h5>
