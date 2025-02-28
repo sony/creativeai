@@ -23,7 +23,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2410.07761">[arXiv]</a>
 		</h5>
-		<p>A general method to find an optimal sampling schedule for inferenc in discrete diffusion</p>
+		<p>A general method to find an optimal sampling schedule for inference in discrete diffusion</p>
 		<div class="tile_highlight">ICLR25</div>
 	</div>
 	<div class="tile">
