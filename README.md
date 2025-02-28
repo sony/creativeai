@@ -27,6 +27,16 @@
 		<div class="tile_highlight">ICLR25</div>
 	</div>
 	<div class="tile">
+		<h3>HERO-DM</h3>
+		<img src="./assets/HERO.svg">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.05116">[arXiv]</a>
+			<a href="https://hero-dm.github.io/">[demo]</a>
+		</h5>
+		<p>A method efficiently leverages online human feedback to fine-tune Stable Diffusion for various range of tasks</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
 		<h3>WPSE</h3>
 		<img src="./assets/WPSE.png">
 		<h5>
