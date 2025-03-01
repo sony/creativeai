@@ -171,10 +171,10 @@
 <div class="trow">
 	<div class="tile">
 		<h3>DiffuCOMET</h3>
-		<a href="https://arxiv.org/pdf/2402.17011"><img src="./assets/diffcomet.png"></a>
+		<a href="https://arxiv.org/abs/2402.17011"><img src="./assets/diffcomet.png"></a>
 		<h5>
 			[ACL]
-			<a href="https://arxiv.org/pdf/2402.17011">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2402.17011">[arXiv]</a>
 			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
 		</h5>
 		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion</p>
@@ -182,20 +182,20 @@
 	</div>
 	<div class="tile">
 		<h3>CyCLIPs/CyCLAPs</h3>
-		<a href="https://arxiv.org/pdf/2310.13267"><img src="./assets/cyclips.png"></a>
+		<a href="https://arxiv.org/abs/2310.13267"><img src="./assets/cyclips.png"></a>
 		<h5>
 			[ACL]
-			<a href="https://arxiv.org/pdf/2310.13267">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2310.13267">[arXiv]</a>
 		</h5>
 		<p>On the Language Encoder of Contrastive Cross-modal Models</p>
 		<div class="tile_highlight">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>DIIR</h3>
-		<a href="https://arxiv.org/pdf/2403.15737"><img src="./assets/diir.png"></a>
+		<a href="https://arxiv.org/abs/2403.15737"><img src="./assets/diir.png"></a>
 		<h5>
 			[ACL]
-			<a href="https://arxiv.org/pdf/2403.15737">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2403.15737">[arXiv]</a>
 			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
 		</h5>
 		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning</p>
@@ -238,7 +238,7 @@
         <h3>Variable Bitrate RVQ</h3>
         <img src="./assets/VRVQ_format.png">
         <h5>
-            <a href="https://arxiv.org/pdf/2410.06016">[arXiv]</a>
+            <a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
         </h5>
         <p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
         <div class="tile_highlight">ICASSP25</div>
@@ -247,7 +247,7 @@
         <h3>Instr. Timbre Transfer</h3>
         <img src="./assets/diff_timbre_transfer_format.png">
         <h5>
-            <a href="https://arxiv.org/pdf/2409.06096">[arXiv]</a>
+            <a href="https://arxiv.org/abs/2409.06096">[arXiv]</a>
             <a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
             <a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
         </h5>
