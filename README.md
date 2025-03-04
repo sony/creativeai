@@ -591,6 +591,7 @@
         <div class="tile_highlight">ICASSP22</div>
 	</div>
     <div class="tile" style="background-color: white;"></div>
+    <div class="tile" style="background-color: white;"></div>
 </div>
 
 <a name="sec_challenges"></a>
