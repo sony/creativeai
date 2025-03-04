@@ -472,7 +472,17 @@
 		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
         <div class="tile_highlight">ICLR25</div>
 	</div>
-	<div class="tile">
+    <div class="tile">
+        <h3>Mining Your Own Secrets</h3>
+        <img src="./assets/Mining_Your_Own_Secrets.png">
+        <h5>
+            <a href="https://openreview.net/forum?id=hUdLs6TqZL">[OpenReview]</a>
+            <a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
+        </h5>
+        <p>Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models</p>
+        <div class="tile_highlight">ICLR25</div>
+    </div>
+    <div class="tile">
 		<h3>GenWarp</h3>
 		<img src="./assets/genwarp.png">
 		<h5>
