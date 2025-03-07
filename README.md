@@ -502,6 +502,16 @@
 		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
         <div class="tile_highlight">NeurIPS24</div>
 	</div>
+    <div class="tile">
+        <h3>SpecMaskGIT</h3>
+        <img src="./assets/specmaskgit.png">
+        <h5>
+            <a href="https://arxiv.org/abs/2406.17672">[arXiv]</a>
+            <a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
+            </h5>
+        <p>SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond</p>
+        <div class="tile_highlight">ISMIR24</div>
+    </div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
 		<img src="./assets/hearing_anything_anywhere.png">
@@ -515,28 +525,6 @@
 		<p>Hearing Anything Anywhere</p>
 		<div class="tile_highlight">CVPR24</div>
 	</div>
-	<div class="tile">
-		<h3>STARSS23</h3>
-		<img src="./assets/STARSS23.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
-			<a href="https://zenodo.org/records/7880637">[dataset]</a>
-		</h5>
-		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
-		<div class="tile_highlight">NeurIPS23</div>
-	</div>
-	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
-		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
-			<a href="https://github.com/sony/CLIPSep">[code]</a>
-			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
-		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
-        <div class="tile_highlight">ICLR23</div>
-	</div>	
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
 		<img src="./assets/BigVSAN.png">
@@ -559,6 +547,16 @@
 		<div class="tile_highlight">ICASSP24</div>
 	</div>
 	<div class="tile">
+		<h3>STARSS23</h3>
+		<img src="./assets/STARSS23.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
+			<a href="https://zenodo.org/records/7880637">[dataset]</a>
+		</h5>
+		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
+		<div class="tile_highlight">NeurIPS23</div>
+	</div>
+	<div class="tile">
 		<h3>Audio Restoration: ViT-AE</h3>
 		<img src="./assets/vitae.png">
 		<h5>
@@ -578,8 +576,20 @@
 			<a href="https://github.com/sony/diffiner">[code]</a>
 		</h5>
 		<p>Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement</p>
-        <div class="tile_highlight">INTERSPEECH2023</div>
+        <div class="tile_highlight">INTERSPEECH23</div>
 	</div>
+	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+			<a href="https://github.com/sony/CLIPSep">[code]</a>
+			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
+        <div class="tile_highlight">ICLR23</div>
+	</div>	
 	<div class="tile">
 		<h3>Sound Event Localization and Detection</h3>
 		<img src="./assets/ACCDOA.png">
@@ -590,7 +600,6 @@
 		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training</p>
         <div class="tile_highlight">ICASSP22</div>
 	</div>
-    <div class="tile" style="background-color: white;"></div>
     <div class="tile" style="background-color: white;"></div>
 </div>
 
@@ -646,5 +655,6 @@
     <div class="tile" style="background-color: white;"></div>
     <div class="tile" style="background-color: white;"></div>
 </div>
+
 ### Contact
 <h5 align="left"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h5>
