@@ -174,7 +174,8 @@
 		<a href=""><img src="./assets/vinabench.png"></a>
 		<h5>
 			[CVPR]
-                        [arXiv]
+                        <a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
+                        <a href="https://silin159.github.io/Vina-Bench/">[data]</a>
 		</h5>
 		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
 		<div class="tile_highlight">CVPR25</div>
