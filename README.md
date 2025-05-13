@@ -611,6 +611,14 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>CPD Challenge 2025</h3>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"><img src="./assets/cpdc2025_image.jpg"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025">[CPD Challenge 2025]</a>
+		</h5>
+		<p>Commonsense Persona-grounded Dialogue Challenge 2025</p>
+	</div>
+	<div class="tile">
 		<h3>SVG Challenge 2024</h3>
 		<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"><img src="./assets/svgc.png"></a>
 		<h5>
