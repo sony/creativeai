@@ -18,6 +18,34 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Jump Your Steps</h3>
+		<img src="./assets/JYS.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.07761">[arXiv]</a>
+		</h5>
+		<p>A general method to find an optimal sampling schedule for inference in discrete diffusion</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
+		<h3>HERO-DM</h3>
+		<img src="./assets/HERO.svg">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.05116">[arXiv]</a>
+			<a href="https://hero-dm.github.io/">[demo]</a>
+		</h5>
+		<p>A method efficiently leverages online human feedback to fine-tune Stable Diffusion for various range of tasks</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
+		<h3>WPSE</h3>
+		<img src="./assets/WPSE.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2404.19228">[arXiv]</a>
+		</h5>
+		<p>An enhanced multimodal representation using weighted point clouds and its theoretical benefits</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
 		<h3>PaGoDA</h3>
 		<img src="./assets/pagoda_red.svg">
 		<h5>
@@ -142,11 +170,22 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>DiffuCOMET</h3>
-		<a href="https://arxiv.org/pdf/2402.17011"><img src="./assets/diffcomet.png"></a>
+		<h3>VinaBench</h3>
+		<a href=""><img src="./assets/vinabench.png"></a>
 		<h5>
-			[ACL]
-			<a href="https://arxiv.org/pdf/2402.17011">[arXiv]</a>
+			[CVPR]
+                        <a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
+                        <a href="https://silin159.github.io/Vina-Bench/">[data]</a>
+		</h5>
+		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
+		<div class="tile_highlight">CVPR25</div>
+	</div>
+	<div class="tile">
+		<h3>DiffuCOMET</h3>
+		<a href="https://arxiv.org/abs/2402.17011"><img src="./assets/diffcomet.png"></a>
+		<h5>
+			<a href="https://aclanthology.org/2024.acl-long.264/">[ACL]</a>
+			<a href="https://arxiv.org/abs/2402.17011">[arXiv]</a>
 			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
 		</h5>
 		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion</p>
@@ -154,20 +193,20 @@
 	</div>
 	<div class="tile">
 		<h3>CyCLIPs/CyCLAPs</h3>
-		<a href="https://arxiv.org/pdf/2310.13267"><img src="./assets/cyclips.png"></a>
+		<a href="https://arxiv.org/abs/2310.13267"><img src="./assets/cyclips.png"></a>
 		<h5>
-			[ACL]
-			<a href="https://arxiv.org/pdf/2310.13267">[arXiv]</a>
+			<a href="https://aclanthology.org/2024.findings-acl.293/">[ACL]</a>
+			<a href="https://arxiv.org/abs/2310.13267">[arXiv]</a>
 		</h5>
 		<p>On the Language Encoder of Contrastive Cross-modal Models</p>
 		<div class="tile_highlight">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>DIIR</h3>
-		<a href="https://arxiv.org/pdf/2403.15737"><img src="./assets/diir.png"></a>
+		<a href="https://arxiv.org/abs/2403.15737"><img src="./assets/diir.png"></a>
 		<h5>
-			[ACL]
-			<a href="https://arxiv.org/pdf/2403.15737">[arXiv]</a>
+			<a href="https://aclanthology.org/2024.findings-acl.782/">[ACL]</a>
+			<a href="https://arxiv.org/abs/2403.15737">[arXiv]</a>
 			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
 		</h5>
 		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning</p>
@@ -210,7 +249,7 @@
         <h3>Variable Bitrate RVQ</h3>
         <img src="./assets/VRVQ_format.png">
         <h5>
-            <a href="https://arxiv.org/pdf/2410.06016">[arXiv]</a>
+            <a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
         </h5>
         <p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
         <div class="tile_highlight">ICASSP25</div>
@@ -219,7 +258,7 @@
         <h3>Instr. Timbre Transfer</h3>
         <img src="./assets/diff_timbre_transfer_format.png">
         <h5>
-            <a href="https://arxiv.org/pdf/2409.06096">[arXiv]</a>
+            <a href="https://arxiv.org/abs/2409.06096">[arXiv]</a>
             <a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
             <a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
         </h5>
@@ -401,6 +440,7 @@
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
 	</div>
 <div class="tile" style="background-color: white;"></div>
+<div class="tile" style="background-color: white;"></div>
 </div>
 
 <a name="sec_ct"></a>
@@ -409,6 +449,28 @@
 <br/>
 
 <div class="trow">
+	<div class="tile">
+		<h3>MMAudio</h3>
+		<img src="./assets/MMAudio.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
+			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
+			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
+		</h5>
+		<p>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
+        <div class="tile_highlight">CVPR25</div>
+	</div>
+	<div class="tile">
+		<h3>MMDisCo</h3>
+		<img src="./assets/MMDisCo.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/MMDisCo">[code]</a>
+		</h5>
+		<p>MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation</p>
+        <div class="tile_highlight">ICLR25</div>
+	</div>
 	<div class="tile">
 		<h3>SoundCTM</h3>
 		<img src="./assets/SoundCTM.png">
@@ -421,27 +483,17 @@
 		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
         <div class="tile_highlight">ICLR25</div>
 	</div>
-	<div class="tile">
-		<h3>Audio-Visual Guided Diffusion</h3>
-		<img src="./assets/AVGuidedDiff.png">
-		<h5>
-			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
-		</h5>
-		<p>Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation</p>
+    <div class="tile">
+        <h3>Mining Your Own Secrets</h3>
+        <img src="./assets/Mining_Your_Own_Secrets.png">
+        <h5>
+            <a href="https://openreview.net/forum?id=hUdLs6TqZL">[OpenReview]</a>
+            <a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
+        </h5>
+        <p>Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models</p>
         <div class="tile_highlight">ICLR25</div>
-	</div>
-	<div class="tile">
-		<h3>MMAudio</h3>
-		<img src="./assets/MMAudio.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
-			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
-			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
-		</h5>
-		<p>Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
-	</div>
-	<div class="tile">
+    </div>
+    <div class="tile">
 		<h3>GenWarp</h3>
 		<img src="./assets/genwarp.png">
 		<h5>
@@ -451,6 +503,16 @@
 		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
         <div class="tile_highlight">NeurIPS24</div>
 	</div>
+    <div class="tile">
+        <h3>SpecMaskGIT</h3>
+        <img src="./assets/specmaskgit.png">
+        <h5>
+            <a href="https://arxiv.org/abs/2406.17672">[arXiv]</a>
+            <a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
+            </h5>
+        <p>SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond</p>
+        <div class="tile_highlight">ISMIR24</div>
+    </div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
 		<img src="./assets/hearing_anything_anywhere.png">
@@ -464,28 +526,6 @@
 		<p>Hearing Anything Anywhere</p>
 		<div class="tile_highlight">CVPR24</div>
 	</div>
-	<div class="tile">
-		<h3>STARSS23</h3>
-		<img src="./assets/STARSS23.png">
-		<h5>
-			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
-			<a href="https://zenodo.org/records/7880637">[dataset]</a>
-		</h5>
-		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
-		<div class="tile_highlight">NeurIPS23</div>
-	</div>
-	<div class="tile">
-		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
-		<h5>
-			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
-			<a href="https://github.com/sony/CLIPSep">[code]</a>
-			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
-		</h5>
-		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
-        <div class="tile_highlight">ICLR23</div>
-	</div>	
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
 		<img src="./assets/BigVSAN.png">
@@ -508,6 +548,16 @@
 		<div class="tile_highlight">ICASSP24</div>
 	</div>
 	<div class="tile">
+		<h3>STARSS23</h3>
+		<img src="./assets/STARSS23.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
+			<a href="https://zenodo.org/records/7880637">[dataset]</a>
+		</h5>
+		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
+		<div class="tile_highlight">NeurIPS23</div>
+	</div>
+	<div class="tile">
 		<h3>Audio Restoration: ViT-AE</h3>
 		<img src="./assets/vitae.png">
 		<h5>
@@ -527,8 +577,20 @@
 			<a href="https://github.com/sony/diffiner">[code]</a>
 		</h5>
 		<p>Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement</p>
-        <div class="tile_highlight">INTERSPEECH2023</div>
+        <div class="tile_highlight">INTERSPEECH23</div>
 	</div>
+	<div class="tile">
+		<h3>CLIPSep</h3>
+		<img src="./assets/CLIPSep.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
+			<a href="https://github.com/sony/CLIPSep">[code]</a>
+			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
+		</h5>
+		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
+        <div class="tile_highlight">ICLR23</div>
+	</div>	
 	<div class="tile">
 		<h3>Sound Event Localization and Detection</h3>
 		<img src="./assets/ACCDOA.png">
@@ -548,6 +610,14 @@
 <br/>
 
 <div class="trow">
+	<div class="tile">
+		<h3>CPD Challenge 2025</h3>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"><img src="./assets/cpdc2025_image.jpg"></a>
+		<h5>
+			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025">[CPD Challenge 2025]</a>
+		</h5>
+		<p>Commonsense Persona-grounded Dialogue Challenge 2025</p>
+	</div>
 	<div class="tile">
 		<h3>SVG Challenge 2024</h3>
 		<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"><img src="./assets/svgc.png"></a>
@@ -594,5 +664,6 @@
     <div class="tile" style="background-color: white;"></div>
     <div class="tile" style="background-color: white;"></div>
 </div>
+
 ### Contact
 <h5 align="left"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h5>
