@@ -174,8 +174,8 @@
 		<a href=""><img src="./assets/vinabench.png"></a>
 		<h5>
 			[CVPR]
-                        <a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
-                        <a href="https://silin159.github.io/Vina-Bench/">[data]</a>
+            <a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
+            <a href="https://silin159.github.io/Vina-Bench/">[data]</a>
 		</h5>
 		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
 		<div class="tile_highlight">CVPR25</div>
@@ -245,6 +245,34 @@
 <br>
 
 <div class="trow">
+    <div class="tile">
+        <h3>CLEWS</h3>
+        <img src="./assets/CLEWS.png">
+        <h5>
+            <a href="https://arxiv.org/abs/2502.16936">[arXiv]</a>
+        </h5>
+        <p>Supervised contrastive learning from weakly-labeled audio segments for musical version matching</p>
+        <div class="tile_highlight">ICML25</div>
+    </div>
+    <div class="tile">
+        <h3>MFM as Generic Booster</h3>
+        <img src="./assets/mfm_booster.png">
+        <h5>
+            <!-- <a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a> -->
+            <a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
+        </h5>
+        <p>Music Foundation Model as Generic Booster for Music Downstream Tasks</p>
+        <!-- <div class="tile_highlight">TMLR</div> -->
+    </div>
+    <div class="tile">
+        <h3>DiffVox</h3>
+        <img src="./assets/diffvox.png">
+        <h5>
+            <a href="https://arxiv.org/abs/2504.14735">[arXiv]</a>
+        </h5>
+        <p>DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions</p>
+        <div class="tile_highlight">DAFx25</div>
+    </div>
     <div class="tile">
         <h3>Variable Bitrate RVQ</h3>
         <img src="./assets/VRVQ_format.png">
