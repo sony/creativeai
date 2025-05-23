@@ -258,11 +258,11 @@
         <h3>MFM as Generic Booster</h3>
         <img src="./assets/mfm_booster.png">
         <h5>
-            <!-- <a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a> -->
+            <a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a>
             <a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
         </h5>
         <p>Music Foundation Model as Generic Booster for Music Downstream Tasks</p>
-        <!-- <div class="tile_highlight">TMLR</div> -->
+        <div class="tile_highlight">TMLR</div>
     </div>
     <div class="tile">
         <h3>DiffVox</h3>
