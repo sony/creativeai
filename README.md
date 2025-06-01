@@ -18,6 +18,26 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Di4C</h3>
+		<img src="./assets/di4c.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.08709">[arXiv]</a>
+			<a href="https://github.com/sony/di4c">[code]</a>
+		</h5>
+		<p>Theoretical analysis of limitation of current discrete diffusion and a method for effectively capturing element-wise dependency</p>
+		<div class="tile_highlight">ICML25</div>
+	</div>
+	<div class="tile">
+		<h3>VCT</h3>
+		<img src="./assets/vct.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2502.18197">[arXiv]</a>
+			<a href="https://github.com/sony/vct">[code]</a>
+		</h5>
+		<p>Improving Consistency Training with a learned data-noise coupling</p>
+		<div class="tile_highlight">ICML25</div>
+	</div>
+	<div class="tile">
 		<h3>Memorization</h3>
 		<img src="./assets/memorization_attraction_basin.png">
 		<h5>
