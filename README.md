@@ -7,8 +7,8 @@
 	<div class="bk_item"><a href="#sec_dgm">Deep Generative Modeling</a></div>
 	<div class="bk_item"><a href="#sec_nlp">Multimodal<br/>NLP</a></div>
 	<div class="bk_item"><a href="#sec_mt">Music<br/>Technology</a></div>
-    <div class="bk_item"><a href="#sec_ct">Cinematic<br/>Technology</a></div>
-    <div class="bk_item"><a href="#sec_challenges">Hosted<br/>Challenges</a></div>
+	<div class="bk_item"><a href="#sec_ct">Cinematic<br/>Technology</a></div>
+	<div class="bk_item"><a href="#sec_challenges">Hosted<br/>Challenges</a></div>
 </div>
 
 <a name="sec_dgm"></a>
@@ -17,6 +17,16 @@
 <br>
 
 <div class="trow">
+	<div class="tile">
+		<h3>Memorization</h3>
+		<img src="./assets/memorization_attraction_basin.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2411.16738">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/mitigating_memorization">[code]</a>
+		</h5>
+		<p>Classifier-Free Guidance inside the Attraction Basin May Cause Memorization</p>
+		<div class="tile_highlight">CVPR25</div>
+	</div>
 	<div class="tile">
 		<h3>Jump Your Steps</h3>
 		<img src="./assets/JYS.png">
@@ -155,8 +165,8 @@
 		<p>Mitigating oversmoothness in VAE</p>
 		<div class="tile_highlight">Neurocomputing</div>
 	</div>
-    <div class="tile" style="background-color: white;"></div>
-    <div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 
@@ -174,8 +184,8 @@
 		<a href=""><img src="./assets/vinabench.png"></a>
 		<h5>
 			[CVPR]
-            <a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
-            <a href="https://silin159.github.io/Vina-Bench/">[data]</a>
+			<a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
+			<a href="https://silin159.github.io/Vina-Bench/">[data]</a>
 		</h5>
 		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
 		<div class="tile_highlight">CVPR25</div>
@@ -221,7 +231,7 @@
 			<a href="https://github.com/Silin159/PeaCoK">[code]</a>
 		</h5>
 		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(Outstanding Paper Award)</p>
-        <div class="tile_highlight">ACL23</div>
+		<div class="tile_highlight">ACL23</div>
 	</div>
 	<div class="tile">
 		<h3>ComFact</h3>
@@ -232,10 +242,10 @@
 			<a href="https://github.com/epfl-nlp/ComFact">[code]</a>
 		</h5>
 		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge</p>
-        <div class="tile_highlight">EMNLP22 Findings</div>
+		<div class="tile_highlight">EMNLP22 Findings</div>
 	</div>
-        <div class="tile" style="background-color: white;"></div>
-        <div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 
 </div>
 
@@ -298,8 +308,8 @@
 		<img src="./assets/grafx.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2406.01049">[arXiv]</a>
-            <a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
-            <a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
+			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
+			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
 		</h5>
 		<p>Searching For Music Mixing Graphs: A Pruning Approach</p>
 		<div class="tile_highlight">DAFx24</div>
@@ -308,7 +318,7 @@
 		<h3>Guitar Amp. Modeling</h3>
 		<img src="./assets/guitarampmodeling.png">
 		<h5>
-            <a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
 		</h5>
 		<p>Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data</p>
 		<div class="tile_highlight">DAFx24</div>
@@ -319,7 +329,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2402.06178">[arXiv]</a>
 			<a href="https://github.com/ldzhangyx/MusicMagus">[code]</a>
-            <a href="https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d">[demo]</a>
+			<a href="https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d">[demo]</a>
 		</h5>
 		<p>MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models</p>
 		<div class="tile_highlight">IJCAI24</div>
@@ -353,7 +363,7 @@
 			<a href="https://github.com/sony/hFT-Transformer">[code]</a>
 		</h5>
 		<p>Automatic Piano Transcription with Hierarchical Frequency-Time Transformer</p>
-        <div class="tile_highlight">ISMIR23</div>
+		<div class="tile_highlight">ISMIR23</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Tagging</h3>
@@ -362,7 +372,7 @@
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
 		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification</p>
-        <div class="tile_highlight">ICASSP23</div>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
@@ -372,7 +382,7 @@
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
 		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models</p>
-        <div class="tile_highlight">ICASSP23</div>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
@@ -383,7 +393,7 @@
 			<a href="https://jhtonykoo.github.io/MixingStyleTransfer/">[demo]</a>
 		</h5>
 		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects</p>
-        <div class="tile_highlight">ICASSP23</div>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
@@ -394,7 +404,7 @@
 			<a href="https://sony.github.io/DiffRoll/">[demo]</a>
 		</h5>
 		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability</p>
-        <div class="tile_highlight">ICASSP23</div>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
@@ -404,7 +414,7 @@
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
 		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder</p>
-        <div class="tile_highlight">ICASSP23</div>
+		<div class="tile_highlight">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
@@ -415,7 +425,7 @@
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
 		</h5>
 		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal</p>
-        <div class="tile_highlight">ISMIR22</div>
+		<div class="tile_highlight">ISMIR22</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
@@ -427,7 +437,7 @@
 			<a href="https://marco-martinez-sony.github.io/FxNorm-automix/">[demo]</a>
 		</h5>
 		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data</p>
-        <div class="tile_highlight">ISMIR22</div>
+		<div class="tile_highlight">ISMIR22</div>
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
@@ -436,7 +446,7 @@
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
 		<p>Music Source Separation with Deep Equilibrium Models</p>
-        <div class="tile_highlight">ICASSP22</div>
+		<div class="tile_highlight">ICASSP22</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
@@ -447,7 +457,7 @@
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks</p>
-        <div class="tile_highlight">ICASSP22</div>
+		<div class="tile_highlight">ICASSP22</div>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
@@ -467,8 +477,8 @@
 		</h5>
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
 	</div>
-<div class="tile" style="background-color: white;"></div>
-<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 <a name="sec_ct"></a>
@@ -486,7 +496,7 @@
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
 		<p>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
-        <div class="tile_highlight">CVPR25</div>
+		<div class="tile_highlight">CVPR25</div>
 	</div>
 	<div class="tile">
 		<h3>MMDisCo</h3>
@@ -497,7 +507,7 @@
 			<a href="https://github.com/SonyResearch/MMDisCo">[code]</a>
 		</h5>
 		<p>MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation</p>
-        <div class="tile_highlight">ICLR25</div>
+		<div class="tile_highlight">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>SoundCTM</h3>
@@ -509,19 +519,19 @@
 			<a href="https://koichi-saito-sony.github.io/soundctm/">[demo]</a>
 		</h5>
 		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
-        <div class="tile_highlight">ICLR25</div>
+		<div class="tile_highlight">ICLR25</div>
 	</div>
-    <div class="tile">
-        <h3>Mining Your Own Secrets</h3>
-        <img src="./assets/Mining_Your_Own_Secrets.png">
-        <h5>
-            <a href="https://openreview.net/forum?id=hUdLs6TqZL">[OpenReview]</a>
-            <a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
-        </h5>
-        <p>Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models</p>
-        <div class="tile_highlight">ICLR25</div>
-    </div>
-    <div class="tile">
+	<div class="tile">
+		<h3>Mining Your Own Secrets</h3>
+		<img src="./assets/Mining_Your_Own_Secrets.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=hUdLs6TqZL">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
+		</h5>
+		<p>Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models</p>
+		<div class="tile_highlight">ICLR25</div>
+	</div>
+	<div class="tile">
 		<h3>GenWarp</h3>
 		<img src="./assets/genwarp.png">
 		<h5>
@@ -529,18 +539,18 @@
 			<a href="https://genwarp-nvs.github.io/">[demo]</a>
 		</h5>
 		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
-        <div class="tile_highlight">NeurIPS24</div>
+		<div class="tile_highlight">NeurIPS24</div>
 	</div>
-    <div class="tile">
-        <h3>SpecMaskGIT</h3>
-        <img src="./assets/specmaskgit.png">
-        <h5>
-            <a href="https://arxiv.org/abs/2406.17672">[arXiv]</a>
-            <a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
-            </h5>
-        <p>SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond</p>
-        <div class="tile_highlight">ISMIR24</div>
-    </div>
+	<div class="tile">
+		<h3>SpecMaskGIT</h3>
+		<img src="./assets/specmaskgit.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2406.17672">[arXiv]</a>
+			<a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
+			</h5>
+		<p>SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond</p>
+		<div class="tile_highlight">ISMIR24</div>
+	</div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
 		<img src="./assets/hearing_anything_anywhere.png">
@@ -594,7 +604,7 @@
 			<a href="https://zzaudio.github.io/Demo_Extend_AudioMAE_toward_Restoration/demo_page.html">[demo]</a>
 		</h5>
 		<p>Extending Audio Masked Autoencoders Toward Audio Restoration</p>
-        <div class="tile_highlight">WASPAA23</div>
+		<div class="tile_highlight">WASPAA23</div>
 	</div>
 	<div class="tile">
 		<h3>Diffiner</h3>
@@ -605,7 +615,7 @@
 			<a href="https://github.com/sony/diffiner">[code]</a>
 		</h5>
 		<p>Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement</p>
-        <div class="tile_highlight">INTERSPEECH23</div>
+		<div class="tile_highlight">INTERSPEECH23</div>
 	</div>
 	<div class="tile">
 		<h3>CLIPSep</h3>
@@ -617,7 +627,7 @@
 			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
 		</h5>
 		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
-        <div class="tile_highlight">ICLR23</div>
+		<div class="tile_highlight">ICLR23</div>
 	</div>	
 	<div class="tile">
 		<h3>Sound Event Localization and Detection</h3>
@@ -627,9 +637,10 @@
 			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
 		</h5>
 		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training</p>
-        <div class="tile_highlight">ICASSP22</div>
+		<div class="tile_highlight">ICASSP22</div>
 	</div>
-    <div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 <a name="sec_challenges"></a>
@@ -689,8 +700,8 @@
 		</h5>
 		<p>Music Demixing Challenge 2021</p>
 	</div>
-    <div class="tile" style="background-color: white;"></div>
-    <div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
 </div>
 
 ### Contact
