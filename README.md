@@ -275,6 +275,17 @@
 <br>
 
 <div class="trow">
+	<div class="tile">
+		<h3>Mixing Graph Est. (extend)</h3>
+		<img src="./assets/grafx_jaes.png">
+		<h5>
+			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
+			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
+			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
+		</h5>
+		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
+		<div class="tile_highlight">JAES</div>
+	</div>
     <div class="tile">
         <h3>CLEWS</h3>
         <img src="./assets/CLEWS.png">
