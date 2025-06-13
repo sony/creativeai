@@ -276,7 +276,7 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>Mixing Graph Est. (extend)</h3>
+		<h3>GRAFx (ext.)</h3>
 		<img src="./assets/grafx_jaes.png">
 		<h5>
 			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
