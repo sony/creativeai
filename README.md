@@ -18,6 +18,15 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>TLoRA</h3>
+		<img src="./assets/TLoRA.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2501.08727">[arXiv]</a>
+		</h5>
+		<p>Propose tensor-decomposition-based PEFT method, showing its effectiveness on T-to-I generation tasks</p>
+		<div class="tile_highlight">ICCV25</div>
+	</div>
+	<div class="tile">
 		<h3>Di4C</h3>
 		<img src="./assets/di4c.png">
 		<h5>
