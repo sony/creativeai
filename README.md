@@ -285,23 +285,65 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Training Data Attribution</h3>
+		<img src="./assets/tda_icml.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
+		</h5>
+		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
+		<div class="tile_highlight">ICML25</div>
+	</div>
+	<div class="tile">
+		<h3>LLM2FX</h3>
+		<img src="./assets/llm2fx.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2505.20770">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/LLM2Fx">[code]</a>
+			<a href="https://seungheondoh.github.io/llm2fx-demo/">[demo]</a>
+			<a href="https://huggingface.co/collections/seungheondoh/llm2fx-6821b961b982fe1eab1b00bf">[dataset]</a>
+		</h5>
+		<p>Can Large Language Models Predict Audio Effects Parameters from Natural Language?</p>
+		<div class="tile_highlight">WAASPA25</div>
+	</div>
+	<div class="tile">
+		<h3>Vocal Effects Style Transfer</h3>
+		<img src="./assets/diffvox2.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2505.11315">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/diffvox">[code]</a>
+			<a href="https://huggingface.co/spaces/yoyolicoris/diffvox">[demo]</a>
+		</h5>
+		<p>Inference-Time Optimisation for Vocal Effects Style Transfer using DiffVox</p>
+		<div class="tile_highlight">WAASPA25</div>
+	</div>
+	<div class="tile">
+		<h3>Fx-Encoder++</h3>
+		<img src="./assets/fx-encoder_pp.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2507.02273">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/Fx-Encoder_PlusPlus">[code]</a>
+		</h5>
+		<p>SOTA Fx representation: Extract instrument-wise audio effects representations from music mixtures</p>
+		<div class="tile_highlight">ISMIR25</div>
+	</div>
+	<div class="tile">
 		<h3>ITO-Master</h3>
 		<img src="./assets/ITO-Master.png">
 		<h5>
-			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
-			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
-			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
+			<a href="https://arxiv.org/abs/2506.16889">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/ITO-Master">[code]</a>
+			<a href="https://huggingface.co/spaces/jhtonyKoo/ITO-Master">[demo]</a>
 		</h5>
-		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
-		<div class="tile_highlight">JAES</div>
+		<p>Inference Time Optimization for Music Mastering Style Transfer</p>
+		<div class="tile_highlight">ISMIR25</div>
 	</div>
 	<div class="tile">
 		<h3>GRAFx (ext.)</h3>
 		<img src="./assets/grafx_jaes.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2506.16889">[arXiv]</a>
-			<a href="https://github.com/SonyResearch/ITO-Master">[code]</a>
-			<a href="https://huggingface.co/spaces/jhtonyKoo/ITO-Master">[demo]</a>
+			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
+			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
+			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
 		</h5>
 		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
 		<div class="tile_highlight">JAES</div>
@@ -330,6 +372,9 @@
         <img src="./assets/diffvox.png">
         <h5>
             <a href="https://arxiv.org/abs/2504.14735">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/diffvox">[code]</a>
+			<a href="https://huggingface.co/spaces/yoyolicoris/diffvox">[demo]</a>
+			<a href="https://iamycy.github.io/diffvox-demo">[audio]</a>
         </h5>
         <p>DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions</p>
         <div class="tile_highlight">DAFx25</div>
