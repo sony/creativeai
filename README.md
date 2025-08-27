@@ -285,12 +285,23 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>GRAFx (ext.)</h3>
-		<img src="./assets/grafx_jaes.png">
+		<h3>ITO-Master</h3>
+		<img src="./assets/ITO-Master.png">
 		<h5>
 			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
 			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
 			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
+		</h5>
+		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
+		<div class="tile_highlight">JAES</div>
+	</div>
+	<div class="tile">
+		<h3>GRAFx (ext.)</h3>
+		<img src="./assets/grafx_jaes.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2506.16889">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/ITO-Master">[code]</a>
+			<a href="https://huggingface.co/spaces/jhtonyKoo/ITO-Master">[demo]</a>
 		</h5>
 		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
 		<div class="tile_highlight">JAES</div>
