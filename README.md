@@ -291,7 +291,7 @@
 			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
 		</h5>
 		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
-		<div class="tile_highlight">ICML25</div>
+		<div class="tile_highlight">ICML25 Wrksp</div>
 	</div>
 	<div class="tile">
 		<h3>LLM2FX</h3>
