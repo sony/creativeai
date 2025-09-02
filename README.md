@@ -209,6 +209,58 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>DeepResonance</h3>
+		<a href=""><img src="./assets/deepresonance.png"></a>
+		<h5>
+			[EMNLP]
+			<a href="https://arxiv.org/abs/2502.12623">[arXiv]</a>
+			<a href="https://github.com/sony/DeepResonance">[git]</a>
+		</h5>
+		<p>DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning</p>
+		<div class="tile_highlight">EMNLP25</div>
+	</div>
+	<div class="tile">
+		<h3>CARE</h3>
+		<a href=""><img src="./assets/care.png"></a>
+		<h5>
+			[EMNLP]
+			<a href="https://arxiv.org/abs/2504.05154">[arXiv]</a>
+			[data]
+		</h5>
+		<p>CARE: Assessing the Impact of Multilingual Human Preference Learning on Cultural Awareness</p>
+		<div class="tile_highlight">EMNLP25</div>
+	</div>
+	<div class="tile">
+		<h3>BiAug</h3>
+		<a href=""><img src="./assets/biaug.png"></a>
+		<h5>
+			[MRR@ICCV]
+			<a href="https://arxiv.org/abs/2310.01330">[arXiv]</a>
+		</h5>
+		<p>Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association</p>
+		<div class="tile_highlight">MRR</div>
+	</div>
+	<div class="tile">
+		<h3>GLOV</h3>
+		<a href=""><img src="./assets/glov.png"></a>
+		<h5>
+			[TMLR]
+			<a href="">https://arxiv.org/abs/2410.06154[arXiv]</a>
+		</h5>
+		<p>GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models</p>
+		<div class="tile_highlight">TMLR</div>
+	</div>
+	<div class="tile">
+		<h3>Music-to-MVD</h3>
+		<a href=""><img src="./assets/mvd.png"></a>
+		<h5>
+			<a href="https://aclanthology.org/2025.repl4nlp-1.4.pdf">[RepL4NLP]</a>
+			<a href="https://arxiv.org/abs/2503.11190">[arXiv]</a>
+		</h5>
+		<p>Cross-Modal Learning for Music-to-Music-Video Description Generation</p>
+		<div class="tile_highlight">RepL4NLP</div>
+	</div>
+	<div class="tile">
 		<h3>VinaBench</h3>
 		<a href=""><img src="./assets/vinabench.png"></a>
 		<h5>
