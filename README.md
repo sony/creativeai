@@ -234,11 +234,11 @@
 		<h3>BiAug</h3>
 		<a href=""><img src="./assets/biaug.png"></a>
 		<h5>
-			[MRR]
+			[MRR@ICCV25]
 			<a href="https://arxiv.org/abs/2310.01330">[arXiv]</a>
 		</h5>
 		<p>Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association</p>
-		<div class="tile_highlight">MRR</div>
+		<div class="tile_highlight">ICCV25 MRR Workshop</div>
 	</div>
 	<div class="tile">
 		<h3>GLOV</h3>
@@ -254,11 +254,11 @@
 		<h3>Music-to-MVD</h3>
 		<a href=""><img src="./assets/mvd.png"></a>
 		<h5>
-			<a href="https://aclanthology.org/2025.repl4nlp-1.4.pdf">[RepL4NLP]</a>
+			<a href="https://aclanthology.org/2025.repl4nlp-1.4.pdf">[RepL4NLP@NAACL25]</a>
 			<a href="https://arxiv.org/abs/2503.11190">[arXiv]</a>
 		</h5>
 		<p>Cross-Modal Learning for Music-to-Music-Video Description Generation</p>
-		<div class="tile_highlight">RepL4NLP</div>
+		<div class="tile_highlight">NAACL25 RepL4NLP Workshop</div>
 	</div>
 	<div class="tile">
 		<h3>VinaBench</h3>
@@ -270,6 +270,17 @@
 		</h5>
 		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
 		<div class="tile_highlight">CVPR25</div>
+	</div>
+	<div class="tile">
+		<h3>OpenMU</h3>
+		<a href=""><img src="./assets/openmu.png"></a>
+		<h5>
+			<a href="https://arxiv.org/abs/2410.15573">[arXiv]</a>
+			<a href="https://huggingface.co/datasets/Sony/OpenMU-Bench">[data]</a>
+			<a href="https://mzhaojp22.github.io/open_music_understanding/">[demo]</a>
+		</h5>
+		<p>penMU: Your Swiss Army Knife for Music Understanding</p>
+		<div class="tile_highlight">ISMIR2024 Late Breaking Demos</div>
 	</div>
 	<div class="tile">
 		<h3>DiffuCOMET</h3>
