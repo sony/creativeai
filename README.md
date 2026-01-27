@@ -23,7 +23,7 @@
 		<h5>
 			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
 		</h5>
-		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching state-of-the-art performance</p>
+		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching SOTA performance</p>
 		<div class="tile_highlight">ICLR26</div>
 	</div>
 	<div class="tile">
