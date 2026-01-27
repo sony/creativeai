@@ -712,7 +712,7 @@
 			<a href="https://github.com/sony/sampleid/">[code]</a>
 		</h5>
 		<p>Automatic Music Sample Identification with Multi-Track Contrastive Learning</p>
-		<div class="tile_highlight">NeurIPS25 Creative AI Workshop</div>
+		<div class="tile_highlight">ICASSP26</div>
 	</div>
 	<div class="tile">
 		<h3>Training Data Attribution</h3>
@@ -724,7 +724,7 @@
 		<div class="tile_highlight">NeurIPS25 Creative AI Workshop</div>
 	</div>
 	<div class="tile">
-		<h3>Beyond Generative Music</h3>
+		<h3>Beyond GenAI Music</h3>
 		<img src="./assets/limits_genAI.png">
 		<h5>
 			<a href="https://transactions.ismir.net/articles/10.5334/tismir.256">[url]</a>
