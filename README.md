@@ -7,6 +7,7 @@
 	<div class="bk_item"><a href="#sec_dgm">Deep Generative Modeling</a></div>
 	<div class="bk_item"><a href="#sec_nlp">Multimodal<br/>NLP</a></div>
 	<div class="bk_item"><a href="#sec_mt">Music<br/>Technology</a></div>
+	<div class="bk_item"><a href="#sec_mt_protection">Music Protection<br/>Technology</a></div>
 	<div class="bk_item"><a href="#sec_ct">Cinematic<br/>Technology</a></div>
 	<div class="bk_item"><a href="#sec_challenges">Hosted<br/>Challenges</a></div>
 </div>
@@ -393,13 +394,25 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>Training Data Attribution</h3>
-		<img src="./assets/tda_icml.png">
+		<h3>LLM2Fx-Tools</h3>
+		<img src="./assets/2ls.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2512.01559">[arXiv]</a>
+			<a href="https://seungheondoh.github.io/llm2fx-tools-demo/">[demo]</a>
 		</h5>
-		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
-		<div class="tile_highlight">ICML25 ML for Audio Workshop</div>
+		<p>Tool Calling For Music Post-Production</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>MEGAMI</h3>
+		<img src="./assets/megami.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2511.08040">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/megami">[code]</a>
+			<a href="https://sonyresearch.github.io/MEGAMI/">[demo]</a>
+		</h5>
+		<p>Automatic music mixing using a generative model of effect embeddings</p>
+		<div class="tile_highlight">ICASSP26</div>
 	</div>
 	<div class="tile">
 		<h3>LLM2FX</h3>
@@ -680,6 +693,44 @@
 			<a href="https://www.sony.com/en/SonyInfo/technology/stories/AI_Sound_Separation/">[site]</a>
 		</h5>
 		<p>Glenn Gould and Kanji Ishimaru 2021: A collaboration with AI Sound Separation after 60 years</p>
+	</div>
+	<div class="tile" style="background-color: white;"></div>
+	<div class="tile" style="background-color: white;"></div>
+</div>
+
+<a name="sec_mt_protection"></a>
+# Music Protection Technologies
+
+<br>
+
+<div class="trow">
+	<div class="tile">
+		<h3>Sampling Identification</h3>
+		<img src="./assets/sampleid.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2510.11507">[arXiv]</a>
+			<a href="https://github.com/sony/sampleid/">[code]</a>
+		</h5>
+		<p>Automatic Music Sample Identification with Multi-Track Contrastive Learning</p>
+		<div class="tile_highlight">NeurIPS25 Creative AI Workshop</div>
+	</div>
+	<div class="tile">
+		<h3>Training Data Attribution</h3>
+		<img src="./assets/tda_icml_2.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
+		</h5>
+		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
+		<div class="tile_highlight">NeurIPS25 Creative AI Workshop</div>
+	</div>
+	<div class="tile">
+		<h3>Beyond Generative Music</h3>
+		<img src="./assets/limits_genAI.png">
+		<h5>
+			<a href="https://transactions.ismir.net/articles/10.5334/tismir.256">[url]</a>
+		</h5>
+		<p>Reductive, exclusionary, normalising: The limits of generative AI music</p>
+		<div class="tile_highlight">TISMIR</div>
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
