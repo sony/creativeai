@@ -45,6 +45,15 @@
 		<div class="tile_highlight">ICLR26</div>
 	</div>
 	<div class="tile">
+		<h3>Improved CFG</h3>
+		<img src="./assets/DiscreteGuidance.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2507.08965">[arXiv]</a>
+		</h5>
+		<p>An improved mechanism for applying classifier-free guidance in discrete diffusion</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
 		<h3>SONA</h3>
 		<img src="./assets/SONA.png">
 		<h5>
