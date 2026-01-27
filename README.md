@@ -18,6 +18,42 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>CMT</h3>
+		<img src="./assets/CMT.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
+		</h5>
+		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching state-of-the-art performance</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>ConceptTRAK</h3>
+		<img src="./assets/ConceptTRAK.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2507.06547">[arXiv]</a>
+		</h5>
+		<p>A framework for Identify which training examples influenced specific concepts within the diffusion model</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>CODA</h3>
+		<img src="./assets/CODA.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2601.01224">[arXiv]</a>
+		</h5>
+		<p>Improved object-centric diffusion learning with registers and contrastive alignment</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>SONA</h3>
+		<img src="./assets/SONA.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2510.04576">[arXiv]</a>
+		</h5>
+		<p>Learning conditional, unconditional, and matching-aware discriminator with adaptive weighting mechanism (cSAN)</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
 		<h3>TLoRA</h3>
 		<img src="./assets/TLoRA.png">
 		<h5>
