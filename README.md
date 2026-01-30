@@ -394,7 +394,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>LLM2Fx-Tools</h3>
-		<img src="./assets/2ls.png">
+		<img src="./assets/2ls_main.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2512.01559">[arXiv]</a>
 			<a href="https://seungheondoh.github.io/llm2fx-tools-demo/">[demo]</a>
@@ -440,7 +440,7 @@
 			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
 		</h5>
 		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
-		<div class="tile_highlight">NeurIPS25 Creative AI Workshop</div>
+		<div class="tile_highlight">NeurIPS25 Creative AI</div>
 	</div>
 	<div class="tile">
 		<h3>Beyond GenAI Music</h3>
