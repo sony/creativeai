@@ -746,17 +746,40 @@
 		<img src="./assets/VIRTUE.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=H4RgGzx4iL">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
 		</h5>
 		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
 		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>CCStereo</h3>
+		<img src="./assets/CCStereo.png">
+		<h5>
+			<a href="https://dl.acm.org/doi/10.1145/3746027.3754919">[ACM]</a>
+			<a href="https://arxiv.org/abs/2501.02786">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/CCStereo">[code]</a>
+		</h5>
+		<p>CCStereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation</p>
+		<div class="tile_highlight">ACMMM25</div>
+	</div>
+	<div class="tile">
+		<h3>TITAN-Guide</h3>
+		<img src="./assets/TITAN-Guide.png">
+		<h5>
+			<a href="https://openaccess.thecvf.com/content/ICCV2025/html/Simon_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.html">[CVF]</a>
+			<a href="https://arxiv.org/abs/2508.00289">[arXiv]</a>
+			<a href="https://github.com/sony/titan-guide">[code]</a>
+			<a href="https://titanguide.github.io/">[demo]</a>
+		</h5>
+		<p>TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models</p>
+		<div class="tile_highlight">ICCV25</div>
 	</div>
 	<div class="tile">
 		<h3>MMAudio</h3>
 		<img src="./assets/MMAudio.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_MMAudio_Taming_Multimodal_Joint_Training_for_High-Quality_Video-to-Audio_Synthesis_CVPR_2025_paper.html">[CVF]</a>
-			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
 			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
