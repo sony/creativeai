@@ -745,8 +745,8 @@
 		<h3>VIRTUE</h3>
 		<img src="./assets/VIRTUE.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
 			<a href="https://openreview.net/forum?id=H4RgGzx4iL">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
 		</h5>
 		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
 		<div class="tile_highlight">ICLR26</div>
@@ -755,6 +755,7 @@
 		<h3>MMAudio</h3>
 		<img src="./assets/MMAudio.png">
 		<h5>
+			<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_MMAudio_Taming_Multimodal_Joint_Training_for_High-Quality_Video-to-Audio_Synthesis_CVPR_2025_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
 			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
