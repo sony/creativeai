@@ -742,10 +742,20 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>VIRTUE</h3>
+		<img src="./assets/VIRTUE.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
+			<a href="https://openreview.net/forum?id=H4RgGzx4iL">[OpenReview]</a>
+		</h5>
+		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
 		<h3>MMAudio</h3>
 		<img src="./assets/MMAudio.png">
 		<h5>
-			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
 			<a href="https://github.com/hkchengrex/MMAudio">[code]</a>
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
