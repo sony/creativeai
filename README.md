@@ -209,7 +209,7 @@
 			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
 		</p>
 	</div>
-	<div class="tile">
+	<!-- <div class="tile">
 		<h3>Consistency-type Models</h3>
 		<img src="./assets/ctm_thumbnail.png">
 		<h5>
@@ -217,7 +217,7 @@
 		</h5>
 		<p>Theoretically unified framework for "consistency" on diffusion model</p>
 		<div class="tile_highlight">ICML23 SPIGM Workshop</div>
-	</div>
+	</div> -->
 	<div class="tile">
 		<h3>SQ-VAE</h3>
 		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae.png"></a>
