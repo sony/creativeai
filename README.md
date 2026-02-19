@@ -747,6 +747,9 @@
 		<h5>
 			<a href="https://openreview.net/forum?id=H4RgGzx4iL">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
+			<a href=https://github.com/sony/virtue">[code]</a>
+			<a href=https://huggingface.co/datasets/Sony/SCaR-Eval">[dataset]</a>
+			<a href=https://huggingface.co/collections/Sony/virtue">[collection]</a>
 		</h5>
 		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
 		<div class="tile_highlight">ICLR26</div>
