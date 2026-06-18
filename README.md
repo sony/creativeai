@@ -742,6 +742,35 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>Odoriko</h3>
+		<img src="./assets/Odoriko.png">
+		<h5>
+			Coming soon
+		</h5>
+		<p>Odoriko: A Shape-Aware Multimodal Diffusion Framework for Human Motion</p>
+		<div class="tile_highlight">ECCV26</div>
+	</div>
+	<div class="tile">
+		<h3>Step-by-Step V2A</h3>
+		<img src="./assets/StepByStepV2A.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2506.20995">[arXiv]</a>
+		</h5>
+		<p>Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance</p>
+		<div class="tile_highlight">ECCV26</div>
+	</div>
+	<div class="tile">
+		<h3>Echoes Over Time</h3>
+		<img src="./assets/EchoesOverTime.png">
+		<h5>
+			<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Simon_Echoes_Over_Time_Unlocking_Length_Generalization_in_Video-to-Audio_Generation_Models_CVPR_2026_paper.html">[CVF]</a>
+			<a href="https://arxiv.org/abs/2602.20981">[arXiv]</a>
+			<a href="https://echoesovertime.github.io/">[demo]</a>
+		</h5>
+		<p>TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models</p>
+		<div class="tile_highlight">CVPR26</div>
+	</div>
+	<div class="tile">
 		<h3>VIRTUE</h3>
 		<img src="./assets/VIRTUE.png">
 		<h5>
