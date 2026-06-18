@@ -767,7 +767,7 @@
 			<a href="https://arxiv.org/abs/2602.20981">[arXiv]</a>
 			<a href="https://echoesovertime.github.io/">[demo]</a>
 		</h5>
-		<p>TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models</p>
+		<p>Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models</p>
 		<div class="tile_highlight">CVPR26</div>
 	</div>
 	<div class="tile">
