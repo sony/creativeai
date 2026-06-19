@@ -1,20 +1,21 @@
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="local.css">
+<script src="script.js" defer></script>
 </head>
 
 <div class="bk_container">
 	<div class="bk_item"><a href="#sec_dgm">Deep Generative Modeling</a></div>
-	<div class="bk_item"><a href="#sec_nlp">Multimodal<br/>NLP</a></div>
-	<div class="bk_item"><a href="#sec_mt">Music<br/>Technology</a></div>
-	<div class="bk_item"><a href="#sec_ct">Cinematic<br/>Technology</a></div>
-	<div class="bk_item"><a href="#sec_challenges">Hosted<br/>Challenges</a></div>
+	<div class="bk_item"><a href="#sec_nlp">Multimodal NLP</a></div>
+	<div class="bk_item"><a href="#sec_mt">Music Technologies</a></div>
+	<div class="bk_item"><a href="#sec_ct">Cinematic Technologies</a></div>
+	<div class="bk_item"><a href="#sec_challenges">Hosted Challenges</a></div>
 </div>
 
 <a name="sec_dgm"></a>
-# Deep Generative Modeling
-
-<br>
+<section class="category" data-category="sec_dgm">
+<h2 class="cat_header"><span class="cat_title">Deep Generative Modeling</span></h2>
+<div class="cat_body">
 
 <div class="trow">
 	<div class="tile">
@@ -242,15 +243,19 @@
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
 </div>
-
-
+</div>
+<button class="cat_toggle" aria-label="Toggle category">
+  <span class="cat_toggle_text"></span>
+  <span class="cat_toggle_icon">▼</span>
+</button>
+</section>
 
 
 
 <a name="sec_nlp"></a>
-# Multimodal NLP
-
-<br>
+<section class="category" data-category="sec_nlp">
+<h2 class="cat_header"><span class="cat_title">Multimodal NLP</span></h2>
+<div class="cat_body">
 
 <div class="trow">
 	<div class="tile">
@@ -383,13 +388,20 @@
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
-
 </div>
+</div>
+<button class="cat_toggle" aria-label="Toggle category">
+  <span class="cat_toggle_text"></span>
+  <span class="cat_toggle_icon">▼</span>
+</button>
+</section>
+
+
 
 <a name="sec_mt"></a>
-# Music Technologies
-
-<br>
+<section class="category" data-category="sec_mt">
+<h2 class="cat_header"><span class="cat_title">Music Technologies</span></h2>
+<div class="cat_body">
 
 <div class="trow">
 	<div class="tile">
@@ -734,11 +746,19 @@
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
 </div>
+</div>
+<button class="cat_toggle" aria-label="Toggle category">
+  <span class="cat_toggle_text"></span>
+  <span class="cat_toggle_icon">▼</span>
+</button>
+</section>
+
+
 
 <a name="sec_ct"></a>
-# Cinematic Technologies
-
-<br/>
+<section class="category" data-category="sec_ct">
+<h2 class="cat_header"><span class="cat_title">Cinematic Technologies</span></h2>
+<div class="cat_body">
 
 <div class="trow">
 	<div class="tile">
@@ -962,11 +982,19 @@
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
 </div>
+</div>
+<button class="cat_toggle" aria-label="Toggle category">
+  <span class="cat_toggle_text"></span>
+  <span class="cat_toggle_icon">▼</span>
+</button>
+</section>
+
+
 
 <a name="sec_challenges"></a>
-# Hosted Challenges
-
-<br/>
+<section class="category" data-category="sec_challenges">
+<h2 class="cat_header"><span class="cat_title">Hosted Challenges</span></h2>
+<div class="cat_body">
 
 <div class="trow">
 	<div class="tile">
@@ -1023,6 +1051,12 @@
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
 </div>
+</div>
+<button class="cat_toggle" aria-label="Toggle category">
+  <span class="cat_toggle_text"></span>
+  <span class="cat_toggle_icon">▼</span>
+</button>
+</section>
 
 ### Contact
-<h5 align="left"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h5>
+<h5 style="text-align: left;"> Yuki Mitsufuji (yuhki.mitsufuji@sony.com) </h5>

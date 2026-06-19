@@ -1,92 +1,185 @@
+/* ========== Category Navigation (Sticky + Modern) ========== */
 .bk_container {
-  display: flex;
-  gap: 18px;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  padding: 10px 0;
+  margin-bottom: 16px;
+  border-bottom: 2px solid #e8f5ee;
 }
+
 .bk_item {
-  background-image: linear-gradient(#a0dbbe, #5ecc95),
-                    linear-gradient(#a0dbbe, #5ecc95),
-                    linear-gradient(#159957, #159957),
-                    linear-gradient(#159957, #159957);
-
-  background-repeat: no-repeat;
-  background-size: 6px 2px;
-  background-position: top left, top right, bottom left, bottom right;
-
-  border: solid;
-  border-image: linear-gradient(to bottom, #5ecc95, #159957) 1 100%;
-  border-width: 0 2px;
-  background-color: none;
-  width: 18%;
-
-  box-sizing: border-box;
-  padding-top: 8px;
-  padding-left: 8px;
-  padding-right: 8px;
-  padding-bottom: 8px;
-  text-align: center;  
-  
-  position: relative;
-  vertical-align: middle;
+  background: linear-gradient(135deg, #ffffff 0%, #f0faf5 100%);
+  border: 1.5px solid #5ecc95;
+  border-radius: 10px;
+  padding: 8px 6px;
+  text-align: center;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 4px rgba(21, 153, 87, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
 }
+
+.bk_item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(21, 153, 87, 0.2);
+  background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
+}
+
+.bk_item:hover a {
+  color: #ffffff;
+}
+
+/* Active state: highlight nav item for currently visible category */
+.bk_item.active {
+  background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
+  box-shadow: 0 4px 12px rgba(21, 153, 87, 0.25);
+}
+
+.bk_item.active a {
+  color: #ffffff;
+}
+
 .bk_item a {
   color: #159957;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1.25;
+  transition: color 0.25s ease;
 }
 
+/* ========== Tile Grid Layout (compact) ========== */
 .trow {
-  background-color: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  width: 100%;
-  gap: 18px;
-  padding-right: 0px;
-  padding-left: 0px;
-  padding-bottom: 18px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  padding-top: 12px;
+  padding-bottom: 20px;
+  margin-top: 12px;
 }
+
+/* ========== Tiles (Card Style, compact) ========== */
 .tile {
-  width: 31%;
-  background-color: #f8f8f8;
-  border: 0px;
-  box-sizing: border-box;
-  padding-left: 8px;
-  padding-right: 8px;
-  vertical-align: top;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 14px 12px 12px;
   text-align: center;
   position: relative;
-}
-.tile img {
-  object-position: cover;  
-  height: 128px;
-  background: transparent;
-}
-.tile_highlight {
-  color: #159957;
-  text-align: right;
-  font-size: small;
-  font-weight:bold;
-  position:absolute;
-  top: -11px;
-  right: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  border: 1px solid #eef2ef;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  flex-direction: column;
+  width: auto;
 }
 
-h3 {
+.tile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(21, 153, 87, 0.15);
+  border-color: #5ecc95;
+}
+
+/* Hide empty placeholder tiles */
+.tile[style*="background-color: white"] {
+  display: none;
+}
+
+/* Image inside tile (compact height) */
+.tile img {
+  width: 100%;
+  height: 100px;
+  object-fit: contain;
+  background: #fafbfa;
+  border-radius: 6px;
+  padding: 4px;
+  margin: 4px 0;
+}
+
+/* Venue badge (top-right of tile) */
+.tile_highlight {
+  position: absolute;
+  top: -8px;
+  right: 10px;
+  background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
+  color: #ffffff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(21, 153, 87, 0.3);
+  letter-spacing: 0.3px;
+}
+
+/* ========== Tile Typography (compact) ========== */
+.tile h3 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 2px 0 4px;
   text-align: center;
+  line-height: 1.25;
 }
-h5 {
-  font-size: small;
+
+.tile h5 {
+  font-size: 0.72rem;
   text-align: center;
-  color: lightgray;
+  color: #888;
+  margin: 4px 0;
+  font-weight: 500;
 }
-p {
-  font-size: small;
+
+/* Pill-style links inside tiles */
+.tile h5 a {
+  display: inline-block;
+  padding: 1px 7px;
+  margin: 2px 2px;
+  background: #f0faf5;
+  color: #159957;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  border: 1px solid #d4ede0;
+  transition: all 0.2s ease;
+}
+
+.tile h5 a:hover {
+  background: #159957;
+  color: #ffffff;
+  border-color: #159957;
+}
+
+/* Description text: clamp to 3 lines to keep tiles compact */
+.tile p {
+  font-size: 0.76rem;
   text-align: center;
+  color: #555;
+  line-height: 1.4;
+  margin: 4px 0;
+  flex-grow: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
-.description {
-  font-size: small;
-  vertical-align: top;
+
+/* Show full description on hover (desktop only) */
+@media (hover: hover) {
+  .tile:hover p {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+  }
 }
+
+/* ========== Social Media Icons (existing) ========== */
 .fa {
   padding: 10px;
   font-size: 30px;
@@ -97,23 +190,190 @@ p {
   border-radius: 50%;
 }
 .fa:hover {
-    opacity: 0.7;
-    color:white;
-    text-decoration:none;
-}
-.fa-facebook {
-  background: #3B5998;
+  opacity: 0.7;
   color: white;
+  text-decoration: none;
 }
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
+.fa-facebook  { background: #3B5998; color: white; }
+.fa-twitter   { background: #55ACEE; color: white; }
+.fa-linkedin  { background: #007bb5; color: white; }
+.fa-instagram { background: #DD2A7B; color: white; }
+
+/* ========== Tablet ========== */
+@media (max-width: 1024px) {
+  .trow {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 14px;
+  }
 }
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
+
+/* ========== Mobile ========== */
+@media (max-width: 640px) {
+  /* Horizontal scroll for category nav */
+  .bk_container {
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: 8px 4px;
+    gap: 8px;
+  }
+  .bk_container::-webkit-scrollbar {
+    display: none;
+  }
+  .bk_item {
+    flex: 0 0 auto;
+    min-width: 110px;
+    min-height: 40px;
+    padding: 8px 12px;
+  }
+  .bk_item a {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  /* Force <br> in nav to behave like spaces on mobile */
+  .bk_item br {
+    display: none;
+  }
+
+  /* 2-column tile grid on mobile */
+  .trow {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+  }
+  .tile {
+    padding: 12px 8px 10px;
+  }
+  .tile img {
+    height: 80px;
+  }
+  .tile h3 {
+    font-size: 0.85rem;
+  }
+  .tile p {
+    font-size: 0.72rem;
+    -webkit-line-clamp: 2;
+  }
+  .tile_highlight {
+    font-size: 0.62rem;
+    padding: 2px 7px;
+  }
 }
-.fa-instagram {
-  background: #DD2A7B;
-  color: white;
+
+/* Very small phones */
+@media (max-width: 380px) {
+  .trow {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ========== Category Sections (Preview Accordion) ========== */
+.category {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.cat_header {
+  padding: 14px 20px;
+  background: linear-gradient(135deg, #f0faf5 0%, #e8f5ee 100%);
+  border-left: 4px solid #159957;
+  border-radius: 8px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #159957;
+  margin: 0 0 12px 0;
+  user-select: none;
+}
+
+/* Body wrapper: controls collapse height */
+.cat_body {
+  position: relative;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+
+/* Collapsed state: show only ~2 rows preview with fade */
+.category:not(.expanded) .cat_body {
+  max-height: var(--preview-height, 280px);
+}
+
+.category:not(.expanded) .cat_body::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.8) 80%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  pointer-events: none;
+}
+
+/* Expanded state: show all */
+.category.expanded .cat_body {
+  max-height: 100000px; /* large enough for any content */
+}
+
+/* Toggle button (Show more / Show less) */
+.cat_toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  margin-top: 8px;
+  padding: 10px 16px;
+  background: #ffffff;
+  border: 1.5px solid #5ecc95;
+  border-radius: 8px;
+  color: #159957;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.cat_toggle:hover {
+  background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(21, 153, 87, 0.2);
+}
+
+.cat_toggle_icon {
+  display: inline-block;
+  transition: transform 0.3s ease;
+  font-size: 0.75rem;
+}
+
+.category.expanded .cat_toggle_icon {
+  transform: rotate(180deg);
+}
+
+/* Toggle text via CSS */
+.category:not(.expanded) .cat_toggle_text::before {
+  content: "Show more";
+}
+.category.expanded .cat_toggle_text::before {
+  content: "Show less";
+}
+
+/* Mobile adjustments */
+@media (max-width: 640px) {
+  .cat_header {
+    padding: 12px 14px;
+    font-size: 1.1rem;
+  }
+  .category:not(.expanded) .cat_body {
+    max-height: var(--preview-height-mobile, 240px);
+  }
+  .category:not(.expanded) .cat_body::after {
+    height: 30px;
+  }
 }
