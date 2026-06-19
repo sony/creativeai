@@ -329,7 +329,7 @@
 			<a href="https://huggingface.co/datasets/Sony/OpenMU-Bench">[data]</a>
 			<a href="https://mzhaojp22.github.io/open_music_understanding/">[demo]</a>
 		</h5>
-		<p>penMU: Your Swiss Army Knife for Music Understanding</p>
+		<p>OpenMU: Your Swiss Army Knife for Music Understanding</p>
 		<div class="tile_highlight">ISMIR2024 Late Breaking Demos</div>
 	</div>
 	<div class="tile">
@@ -518,57 +518,57 @@
 		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
 		<div class="tile_highlight">JAES</div>
 	</div>
-    <div class="tile">
-        <h3>CLEWS</h3>
-        <img src="./assets/CLEWS.png">
-        <h5>
-            <a href="https://arxiv.org/abs/2502.16936">[arXiv]</a>
-        </h5>
-        <p>Supervised contrastive learning from weakly-labeled audio segments for musical version matching</p>
-        <div class="tile_highlight">ICML25</div>
-    </div>
-    <div class="tile">
-        <h3>MFM as Generic Booster</h3>
-        <img src="./assets/mfm_booster.png">
-        <h5>
-            <a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a>
-            <a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
-        </h5>
-        <p>Music Foundation Model as Generic Booster for Music Downstream Tasks</p>
-        <div class="tile_highlight">TMLR</div>
-    </div>
-    <div class="tile">
-        <h3>DiffVox</h3>
-        <img src="./assets/diffvox.png">
-        <h5>
-            <a href="https://arxiv.org/abs/2504.14735">[arXiv]</a>
+	<div class="tile">
+		<h3>CLEWS</h3>
+		<img src="./assets/CLEWS.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2502.16936">[arXiv]</a>
+		</h5>
+		<p>Supervised contrastive learning from weakly-labeled audio segments for musical version matching</p>
+		<div class="tile_highlight">ICML25</div>
+	</div>
+	<div class="tile">
+		<h3>MFM as Generic Booster</h3>
+		<img src="./assets/mfm_booster.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
+		</h5>
+		<p>Music Foundation Model as Generic Booster for Music Downstream Tasks</p>
+		<div class="tile_highlight">TMLR</div>
+	</div>
+	<div class="tile">
+		<h3>DiffVox</h3>
+		<img src="./assets/diffvox.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2504.14735">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/diffvox">[code]</a>
 			<a href="https://huggingface.co/spaces/yoyolicoris/diffvox">[demo]</a>
 			<a href="https://iamycy.github.io/diffvox-demo">[audio]</a>
-        </h5>
-        <p>DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions</p>
-        <div class="tile_highlight">DAFx25</div>
-    </div>
-    <div class="tile">
-        <h3>Variable Bitrate RVQ</h3>
-        <img src="./assets/VRVQ_format.png">
-        <h5>
-            <a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
-        </h5>
-        <p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
-        <div class="tile_highlight">ICASSP25</div>
-    </div>
-    <div class="tile">
-        <h3>Instr. Timbre Transfer</h3>
-        <img src="./assets/diff_timbre_transfer_format.png">
-        <h5>
-            <a href="https://arxiv.org/abs/2409.06096">[arXiv]</a>
-            <a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
-            <a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
-        </h5>
-        <p>Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer</p>
-        <div class="tile_highlight">ICASSP25</div>
-    </div>
+		</h5>
+		<p>DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions</p>
+		<div class="tile_highlight">DAFx25</div>
+	</div>
+	<div class="tile">
+		<h3>Variable Bitrate RVQ</h3>
+		<img src="./assets/VRVQ_format.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
+		</h5>
+		<p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
+		<div class="tile_highlight">ICASSP25</div>
+	</div>
+	<div class="tile">
+		<h3>Instr. Timbre Transfer</h3>
+		<img src="./assets/diff_timbre_transfer_format.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2409.06096">[arXiv]</a>
+			<a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
+			<a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
+ 		</h5>
+		<p>Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer</p>
+		<div class="tile_highlight">ICASSP25</div>
+	</div>
 	<div class="tile">
 		<h3>Mixing Graph Estimation</h3>
 		<img src="./assets/grafx.png">
@@ -998,6 +998,14 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>DCASE Challenge Task 3</h3>
+		<img src="./assets/DCASE.png">
+		<h5>
+			<a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes">[DCASE Challenge2026]</a>
+		</h5>
+		<p>Semantic Acoustic Imaging for Sound Event Localization and Detection from Spatial Audio and Audiovisual Scenes</p>
+	</div>
+	<div class="tile">
 		<h3>CPD Challenge 2025</h3>
 		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"><img src="./assets/cpdc2025_image.jpg"></a>
 		<h5>
@@ -1012,14 +1020,6 @@
 			<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024">[SVG Challenge 2024]</a>
 		</h5>
 		<p>Sounding Video Generation Challenge 2024</p>
-	</div>
-	<div class="tile">
-		<h3>DCASE Challenge Task 3</h3>
-		<img src="./assets/DCASE.png">
-		<h5>
-			<a href="https://dcase.community/challenge2023/#sound-event-localization-and-detection-evaluated-in-real-spatial-sound-scenes">[DCASE Challenge2023]</a>
-		</h5>
-		<p>Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes</p>
 	</div>
 	<div class="tile">
 		<h3>CPD Challenge 2023</h3>
