@@ -70,11 +70,23 @@ document.querySelectorAll('.bk_item a').forEach(link => {
   link.addEventListener('click', (e) => {
     const targetId = link.getAttribute('href').substring(1);
     e.preventDefault();
+
+    // Remove focus to prevent sticky highlight on touch devices
+    link.blur();
+
+    // Detect whether any other category needs to collapse
+    const sectionsToCollapse = Array.from(document.querySelectorAll('section.category.expanded'))
+      .filter(c => c.dataset.category !== targetId);
+
     openOnlyCategory(targetId);
+
+    // Wait for collapse transition to finish before scrolling,
+    // otherwise the target anchor position shifts after layout settles
+    const delay = sectionsToCollapse.length > 0 ? 450 : 50;
     setTimeout(() => {
       scrollToAnchorWithOffset(targetId);
       history.replaceState(null, '', '#' + targetId);
-    }, 50);
+    }, delay);
   });
 });
 

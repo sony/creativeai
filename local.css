@@ -27,14 +27,17 @@
   min-height: 44px;
 }
 
-.bk_item:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(21, 153, 87, 0.2);
-  background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
-}
+/* Hover styles limited to devices with real hover (avoids sticky :hover on touch) */
+@media (hover: hover) {
+  .bk_item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(21, 153, 87, 0.2);
+    background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
+  }
 
-.bk_item:hover a {
-  color: #ffffff;
+  .bk_item:hover a {
+    color: #ffffff;
+  }
 }
 
 /* Active state: highlight nav item for currently visible category */
