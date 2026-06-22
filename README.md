@@ -164,7 +164,7 @@
 			<a href="https://arxiv.org/abs/2404.19228">[arXiv]</a>
 		</h5>
 		<p>An enhanced multimodal representation using weighted point clouds and its theoretical benefits</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_highlight">ICLR25 [Spotlight]</div>
 	</div>
 	<div class="tile">
 		<h3>PaGoDA</h3>
@@ -240,7 +240,7 @@
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
 		<p>Achieving blind inversion using DDPM</p>
-		<div class="tile_highlight">ICML23</div>
+		<div class="tile_highlight">ICML23 [Oral]</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
 			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
@@ -825,6 +825,17 @@
 		</h5>
 		<p>Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models</p>
 		<div class="tile_highlight">CVPR26</div>
+	</div>
+	<div class="tile">
+		<h3>PAVAS</h3>
+		<img src="./assets/PAVAS.png">
+		<h5>
+			<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Hyun-Bin_PAVAS_Physics-Aware_Video-to-Audio_Synthesis_CVPR_2026_paper.html">[CVF]</a>
+			<a href="https://arxiv.org/abs/2512.08282">[arXiv]</a>
+			<a href="https://physics-aware-video-to-audio-synthesis.github.io/">[demo]</a>
+		</h5>
+		<p>PAVAS: a framework for generating physically plausible audio from video, by integrating physics estimation</p>
+		<div class="tile_highlight">CVPR26 [Oral]</div>
 	</div>
 	<div class="tile">
 		<h3>VIRTUE</h3>
