@@ -112,11 +112,20 @@
   margin: 4px 0;
 }
 
-/* Venue badge (top-right of tile) */
-.tile_highlight {
+/* Badge container (top of tile, full width) */
+.tile_badges {
   position: absolute;
   top: -8px;
+  left: 10px;
   right: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 6px;
+  pointer-events: none;
+}
+
+/* Venue badge */
+.tile_venue {
   background: linear-gradient(135deg, #5ecc95 0%, #159957 100%);
   color: #ffffff;
   font-size: 0.68rem;
@@ -125,6 +134,34 @@
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(21, 153, 87, 0.3);
   letter-spacing: 0.3px;
+  /* Truncate */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Flex behavior: shrink based on natural width */
+  min-width: 0;
+  flex-shrink: 1;
+  pointer-events: auto;
+}
+
+/* Award badge */
+.tile_award {
+  background: linear-gradient(135deg, #ffd86b 0%, #f5a623 100%);
+  color: #5a3a00;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(245, 166, 35, 0.4);
+  letter-spacing: 0.3px;
+  /* Truncate */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Flex behavior: shrink based on natural width */
+  min-width: 0;
+  flex-shrink: 1;
+  pointer-events: auto;
 }
 
 /* ========== Tile Typography (compact) ========== */
@@ -264,7 +301,11 @@
     font-size: 0.72rem;
     -webkit-line-clamp: 2;
   }
-  .tile_highlight {
+  .tile_venue {
+    font-size: 0.62rem;
+    padding: 2px 7px;
+  }
+  .tile_award {
     font-size: 0.62rem;
     padding: 2px 7px;
   }

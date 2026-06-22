@@ -25,7 +25,7 @@
 			<a href="https://arxiv.org/abs/2512.02657">[arXiv]</a>
 		</h5>
 		<p>Locality-aware continual unlearning (LACU), a framework that stabilizes sequential concept removal</p>
-		<div class="tile_highlight">ECCV26</div>
+		<div class="tile_venue">ECCV26</div>
 	</div>
 	<div class="tile">
 		<h3>GUDA</h3>
@@ -34,7 +34,7 @@
 			<a href="https://arxiv.org/abs/2601.22651">[arXiv]</a>
 		</h5>
 		<p>Efficiently estimate which training data groups influenced diffusion model outputs</p>
-		<div class="tile_highlight">ICML26</div>
+		<div class="tile_venue">ICML26</div>
 	</div>
 	<div class="tile">
 		<h3>Demystifying MaskGIT </h3>
@@ -43,7 +43,8 @@
 			<a href="https://arxiv.org/abs/2510.04525">[arXiv]</a>
 		</h5>
 		<p>Theoretically analyzes the MaskGIT sampler, poviding a choose-then-sample (CTS) formulation</p>
-		<div class="tile_highlight">TMLR [Featured Certification]</div>
+		<div class="tile_venue">TMLR</div>
+		<div class="tile_award">Featured Certification</div>
 	</div>
 	<div class="tile">
 		<h3>MF-RAE</h3>
@@ -52,7 +53,7 @@
 			<a href="https://arxiv.org/abs/2511.13019">[arXiv]</a>
 		</h5>
 		<p>Training flow-map models in RAE latent with consistency mid-training for trajectory-aware initialization</p>
-		<div class="tile_highlight">CVPR26</div>
+		<div class="tile_venue">CVPR26</div>
 	</div>
 	<div class="tile">
 		<h3>ConceptTRAK</h3>
@@ -61,7 +62,7 @@
 			<a href="https://www.arxiv.org/abs/2507.06547">[arXiv]</a>
 		</h5>
 		<p>A framework for Identify which training examples influenced specific concepts within the diffusion model</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>CMT</h3>
@@ -70,7 +71,7 @@
 			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
 		</h5>
 		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching SOTA performance</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>CODA</h3>
@@ -79,7 +80,7 @@
 			<a href="https://www.arxiv.org/abs/2601.01224">[arXiv]</a>
 		</h5>
 		<p>Improved object-centric diffusion learning with registers and contrastive alignment</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>Improved CFG</h3>
@@ -88,7 +89,7 @@
 			<a href="https://www.arxiv.org/abs/2507.08965">[arXiv]</a>
 		</h5>
 		<p>An improved mechanism for applying classifier-free guidance in discrete diffusion</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>SONA</h3>
@@ -97,7 +98,7 @@
 			<a href="https://www.arxiv.org/abs/2510.04576">[arXiv]</a>
 		</h5>
 		<p>Learning conditional, unconditional, and matching-aware discriminator with adaptive weighting mechanism (cSAN)</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>TLoRA</h3>
@@ -106,7 +107,7 @@
 			<a href="https://arxiv.org/abs/2501.08727">[arXiv]</a>
 		</h5>
 		<p>Propose tensor-decomposition-based PEFT method, showing its effectiveness on T-to-I generation tasks</p>
-		<div class="tile_highlight">ICCV25</div>
+		<div class="tile_venue">ICCV25</div>
 	</div>
 	<div class="tile">
 		<h3>Di4C</h3>
@@ -116,7 +117,7 @@
 			<a href="https://github.com/sony/di4c">[code]</a>
 		</h5>
 		<p>Theoretical analysis of limitation of current discrete diffusion and a method for effectively capturing element-wise dependency</p>
-		<div class="tile_highlight">ICML25</div>
+		<div class="tile_venue">ICML25</div>
 	</div>
 	<div class="tile">
 		<h3>VCT</h3>
@@ -126,7 +127,7 @@
 			<a href="https://github.com/sony/vct">[code]</a>
 		</h5>
 		<p>Improving Consistency Training with a learned data-noise coupling</p>
-		<div class="tile_highlight">ICML25</div>
+		<div class="tile_venue">ICML25</div>
 	</div>
 	<div class="tile">
 		<h3>Memorization</h3>
@@ -136,7 +137,7 @@
 			<a href="https://github.com/SonyResearch/mitigating_memorization">[code]</a>
 		</h5>
 		<p>Classifier-Free Guidance inside the Attraction Basin May Cause Memorization</p>
-		<div class="tile_highlight">CVPR25</div>
+		<div class="tile_venue">CVPR25</div>
 	</div>
 	<div class="tile">
 		<h3>Jump Your Steps</h3>
@@ -145,7 +146,7 @@
 			<a href="https://arxiv.org/abs/2410.07761">[arXiv]</a>
 		</h5>
 		<p>A general method to find an optimal sampling schedule for inference in discrete diffusion</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>HERO-DM</h3>
@@ -155,7 +156,7 @@
 			<a href="https://hero-dm.github.io/">[demo]</a>
 		</h5>
 		<p>A method efficiently leverages online human feedback to fine-tune Stable Diffusion for various range of tasks</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>WPSE</h3>
@@ -164,7 +165,8 @@
 			<a href="https://arxiv.org/abs/2404.19228">[arXiv]</a>
 		</h5>
 		<p>An enhanced multimodal representation using weighted point clouds and its theoretical benefits</p>
-		<div class="tile_highlight">ICLR25 [Spotlight]</div>
+		<div class="tile_venue">ICLR25</div>
+		<div class="tile_award">Spotlight</div>
 	</div>
 	<div class="tile">
 		<h3>PaGoDA</h3>
@@ -173,7 +175,7 @@
 			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
 		</h5>
 		<p>A 64x64 pre-trained diffusion model is all you need for 1-step high-resolution SOTA generation</p>
-		<div class="tile_highlight">NeurIPS24</div>
+		<div class="tile_venue">NeurIPS24</div>
 	</div>	
 	<div class="tile">
 		<h3>CTM</h3>
@@ -183,7 +185,7 @@
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[demo]</a>
 		</h5>
 		<p>Unified framework enables diverse samplers and 1-step generation SOTAs</p>
-		<div class="tile_highlight">ICLR24</div>
+		<div class="tile_venue">ICLR24</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2405.18503">[SoundGen]</a>
 		</p>
@@ -197,7 +199,7 @@
 			<a href="https://ytakida.github.io/san/">[demo]</a>
 		</h5>
 		<p>Enhancing GAN with metrizable discriminators</p>
-		<div class="tile_highlight">ICLR24</div>
+		<div class="tile_venue">ICLR24</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2309.02836">[Vocoder]</a>
 		</p>
@@ -210,7 +212,7 @@
 			<a href="https://kellyyutonghe.github.io/mpgd/">[demo]</a>
 		</h5>
 		<p>Fast, Efficient, Training-Free, and Controllable diffusion-based generation method</p>
-		<div class="tile_highlight">ICLR24</div>
+		<div class="tile_venue">ICLR24</div>
 	</div>	
 	<div class="tile">
 		<h3>HQ-VAE</h3>
@@ -220,7 +222,7 @@
 			<a href="https://arxiv.org/abs/2401.00365">[arXiv]</a>
 		</h5>
 		<p>Generalizing hierarchical VQ-VAEs with a Bayesian framework</p>
-		<div class="tile_highlight">TMLR</div>
+		<div class="tile_venue">TMLR</div>
 	</div>
 	<div class="tile">
 		<h3>FP-Diffusion</h3>
@@ -230,7 +232,7 @@
 			<a href="https://github.com/sony/fp-diffusion">[code]</a>
 		</h5>
 		<p>Improving density estimation of diffusion</p>
-		<div class="tile_highlight">ICML23</div>
+		<div class="tile_venue">ICML23</div>
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
@@ -240,7 +242,8 @@
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
 		</h5>
 		<p>Achieving blind inversion using DDPM</p>
-		<div class="tile_highlight">ICML23 [Oral]</div>
+		<div class="tile_venue">ICML23</div>
+		<div class="tile_award">Oral</div>
 		<p>Applications:<br/>
 			<a href="https://arxiv.org/abs/2211.04124">[DeReverb]</a>
 			<a href="https://arxiv.org/abs/2210.17287">[SpeechEnhance]</a>
@@ -253,7 +256,7 @@
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
 		<p>Theoretically unified framework for "consistency" on diffusion model</p>
-		<div class="tile_highlight">ICML23 SPIGM Workshop</div>
+		<div class="tile_venue">ICML23 SPIGM Workshop</div>
 	</div> -->
 	<div class="tile">
 		<h3>SQ-VAE</h3>
@@ -264,7 +267,7 @@
 			<a href="https://github.com/sony/sqvae">[code]</a>
 		</h5>
 		<p>Improving codebook utilization and training stability</p>
-		<div class="tile_highlight">ICML22</div>
+		<div class="tile_venue">ICML22</div>
 	</div>
 	<div class="tile">
 		<h3>AR-ELBO</h3>
@@ -274,7 +277,7 @@
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
 		</h5>
 		<p>Mitigating oversmoothness in VAE</p>
-		<div class="tile_highlight">Neurocomputing</div>
+		<div class="tile_venue">Neurocomputing</div>
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
@@ -303,7 +306,7 @@
 			<a href="https://github.com/sony/DeepResonance">[code]</a>
 		</h5>
 		<p>DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning</p>
-		<div class="tile_highlight">EMNLP25</div>
+		<div class="tile_venue">EMNLP25</div>
 	</div>
 	<div class="tile">
 		<h3>CARE</h3>
@@ -314,7 +317,7 @@
 			[data]
 		</h5>
 		<p>CARE: Assessing the Impact of Multilingual Human Preference Learning on Cultural Awareness</p>
-		<div class="tile_highlight">EMNLP25</div>
+		<div class="tile_venue">EMNLP25</div>
 	</div>
 	<div class="tile">
 		<h3>BiAug</h3>
@@ -324,7 +327,7 @@
 			<a href="https://arxiv.org/abs/2310.01330">[arXiv]</a>
 		</h5>
 		<p>Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association</p>
-		<div class="tile_highlight">ICCV25 MRR Workshop</div>
+		<div class="tile_venue">ICCV25 MRR Workshop</div>
 	</div>
 	<div class="tile">
 		<h3>GLOV</h3>
@@ -334,7 +337,7 @@
 			<a href="https://arxiv.org/abs/2410.06154">[arXiv]</a>
 		</h5>
 		<p>GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models</p>
-		<div class="tile_highlight">TMLR</div>
+		<div class="tile_venue">TMLR</div>
 	</div>
 	<div class="tile">
 		<h3>Music-to-MVD</h3>
@@ -344,7 +347,7 @@
 			<a href="https://arxiv.org/abs/2503.11190">[arXiv]</a>
 		</h5>
 		<p>Cross-Modal Learning for Music-to-Music-Video Description Generation</p>
-		<div class="tile_highlight">NAACL25 RepL4NLP Workshop</div>
+		<div class="tile_venue">NAACL25 RepL4NLP Workshop</div>
 	</div>
 	<div class="tile">
 		<h3>VinaBench</h3>
@@ -355,7 +358,7 @@
 			<a href="https://silin159.github.io/Vina-Bench/">[data]</a>
 		</h5>
 		<p>VinaBench: Benchmark for Faithful and Consistent Visual Narratives</p>
-		<div class="tile_highlight">CVPR25</div>
+		<div class="tile_venue">CVPR25</div>
 	</div>
 	<div class="tile">
 		<h3>OpenMU</h3>
@@ -366,7 +369,7 @@
 			<a href="https://mzhaojp22.github.io/open_music_understanding/">[demo]</a>
 		</h5>
 		<p>OpenMU: Your Swiss Army Knife for Music Understanding</p>
-		<div class="tile_highlight">ISMIR2024 Late Breaking Demos</div>
+		<div class="tile_venue">ISMIR2024 Late Breaking Demos</div>
 	</div>
 	<div class="tile">
 		<h3>DiffuCOMET</h3>
@@ -377,7 +380,7 @@
 			<a href="https://github.com/Silin159/DiffuCOMET">[code]</a>
 		</h5>
 		<p>DiffuCOMET: Contextual Commonsense Knowledge Diffusion</p>
-		<div class="tile_highlight">ACL24</div>
+		<div class="tile_venue">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>CyCLIPs/CyCLAPs</h3>
@@ -387,7 +390,7 @@
 			<a href="https://arxiv.org/abs/2310.13267">[arXiv]</a>
 		</h5>
 		<p>On the Language Encoder of Contrastive Cross-modal Models</p>
-		<div class="tile_highlight">ACL24</div>
+		<div class="tile_venue">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>DIIR</h3>
@@ -398,7 +401,7 @@
 			<a href="https://github.com/zhouhanxie/DIIR">[code]</a>
 		</h5>
 		<p>Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning</p>
-		<div class="tile_highlight">ACL24</div>
+		<div class="tile_venue">ACL24</div>
 	</div>
 	<div class="tile">
 		<h3>PeaCok</h3>
@@ -409,7 +412,7 @@
 			<a href="https://github.com/Silin159/PeaCoK">[code]</a>
 		</h5>
 		<p>PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives<br>(Outstanding Paper Award)</p>
-		<div class="tile_highlight">ACL23</div>
+		<div class="tile_venue">ACL23</div>
 	</div>
 	<div class="tile">
 		<h3>ComFact</h3>
@@ -420,7 +423,7 @@
 			<a href="https://github.com/epfl-nlp/ComFact">[code]</a>
 		</h5>
 		<p>ComFact: A Benchmark for Linking Contextual Commonsense Knowledge</p>
-		<div class="tile_highlight">EMNLP22 Findings</div>
+		<div class="tile_venue">EMNLP22 Findings</div>
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>
@@ -448,7 +451,7 @@
 			<a href="https://seungheondoh.github.io/llm2fx-tools-demo/">[demo]</a>
 		</h5>
 		<p>Tool Calling For Music Post-Production</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>MEGAMI</h3>
@@ -459,7 +462,7 @@
 			<a href="https://sonyresearch.github.io/MEGAMI/">[demo]</a>
 		</h5>
 		<p>Automatic music mixing using a generative model of effect embeddings</p>
-		<div class="tile_highlight">ICASSP26</div>
+		<div class="tile_venue">ICASSP26</div>
 	</div>
 	<div class="tile">
 		<h3>Sampling Identification</h3>
@@ -469,7 +472,7 @@
 			<a href="https://github.com/sony/sampleid/">[code]</a>
 		</h5>
 		<p>Automatic Music Sample Identification with Multi-Track Contrastive Learning</p>
-		<div class="tile_highlight">ICASSP26</div>
+		<div class="tile_venue">ICASSP26</div>
 	</div>
 	<div class="tile">
 		<h3>Lyrics Matching</h3>
@@ -479,7 +482,7 @@
 			<a href="https://github.com/helemanc/audio-based-lyrics-matching">[code]</a>
 		</h5>
 		<p>Leveraging Whisper Embeddings for Audio-based Lyrics Matching</p>
-		<div class="tile_highlight">ICASSP26</div>
+		<div class="tile_venue">ICASSP26</div>
 	</div>
 	<div class="tile">
 		<h3>Training Data Attribution</h3>
@@ -488,7 +491,7 @@
 			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
 		</h5>
 		<p>Large-Scale Training Data Attribution for Music Generative Models via Unlearning</p>
-		<div class="tile_highlight">NeurIPS25 Creative AI</div>
+		<div class="tile_venue">NeurIPS25 Creative AI</div>
 	</div>
 	<div class="tile">
 		<h3>Beyond GenAI Music</h3>
@@ -497,7 +500,7 @@
 			<a href="https://transactions.ismir.net/articles/10.5334/tismir.256">[url]</a>
 		</h5>
 		<p>Reductive, exclusionary, normalising: The limits of generative AI music</p>
-		<div class="tile_highlight">TISMIR</div>
+		<div class="tile_venue">TISMIR</div>
 	</div>
 	<div class="tile">
 		<h3>LLM2FX</h3>
@@ -509,7 +512,7 @@
 			<a href="https://huggingface.co/collections/seungheondoh/llm2fx-6821b961b982fe1eab1b00bf">[dataset]</a>
 		</h5>
 		<p>Can Large Language Models Predict Audio Effects Parameters from Natural Language?</p>
-		<div class="tile_highlight">WAASPA25</div>
+		<div class="tile_venue">WAASPA25</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Effects Style Transfer</h3>
@@ -520,7 +523,7 @@
 			<a href="https://huggingface.co/spaces/yoyolicoris/diffvox">[demo]</a>
 		</h5>
 		<p>Inference-Time Optimisation for Vocal Effects Style Transfer using DiffVox</p>
-		<div class="tile_highlight">WAASPA25</div>
+		<div class="tile_venue">WAASPA25</div>
 	</div>
 	<div class="tile">
 		<h3>Fx-Encoder++</h3>
@@ -530,7 +533,7 @@
 			<a href="https://github.com/SonyResearch/Fx-Encoder_PlusPlus">[code]</a>
 		</h5>
 		<p>SOTA Fx representation: Extract instrument-wise audio effects representations from music mixtures</p>
-		<div class="tile_highlight">ISMIR25</div>
+		<div class="tile_venue">ISMIR25</div>
 	</div>
 	<div class="tile">
 		<h3>ITO-Master</h3>
@@ -541,7 +544,7 @@
 			<a href="https://huggingface.co/spaces/jhtonyKoo/ITO-Master">[demo]</a>
 		</h5>
 		<p>Inference Time Optimization for Music Mastering Style Transfer</p>
-		<div class="tile_highlight">ISMIR25</div>
+		<div class="tile_venue">ISMIR25</div>
 	</div>
 	<div class="tile">
 		<h3>GRAFx (ext.)</h3>
@@ -552,7 +555,7 @@
 			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
 		</h5>
 		<p>Reverse Engineering of Music Mixing Graphs with Differentiable Processors and Iterative Pruning</p>
-		<div class="tile_highlight">JAES</div>
+		<div class="tile_venue">JAES</div>
 	</div>
 	<div class="tile">
 		<h3>CLEWS</h3>
@@ -561,7 +564,7 @@
 			<a href="https://arxiv.org/abs/2502.16936">[arXiv]</a>
 		</h5>
 		<p>Supervised contrastive learning from weakly-labeled audio segments for musical version matching</p>
-		<div class="tile_highlight">ICML25</div>
+		<div class="tile_venue">ICML25</div>
 	</div>
 	<div class="tile">
 		<h3>MFM as Generic Booster</h3>
@@ -571,7 +574,7 @@
 			<a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
 		</h5>
 		<p>Music Foundation Model as Generic Booster for Music Downstream Tasks</p>
-		<div class="tile_highlight">TMLR</div>
+		<div class="tile_venue">TMLR</div>
 	</div>
 	<div class="tile">
 		<h3>DiffVox</h3>
@@ -583,7 +586,7 @@
 			<a href="https://iamycy.github.io/diffvox-demo">[audio]</a>
 		</h5>
 		<p>DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions</p>
-		<div class="tile_highlight">DAFx25</div>
+		<div class="tile_venue">DAFx25</div>
 	</div>
 	<div class="tile">
 		<h3>Variable Bitrate RVQ</h3>
@@ -592,7 +595,7 @@
 			<a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
 		</h5>
 		<p>VRVQ: Variable Bitrate Residual Vector Quantization for Audio Compression</p>
-		<div class="tile_highlight">ICASSP25</div>
+		<div class="tile_venue">ICASSP25</div>
 	</div>
 	<div class="tile">
 		<h3>Instr. Timbre Transfer</h3>
@@ -603,7 +606,7 @@
 			<a href="https://sony.github.io/diffusion-timbre-transfer">[demo]</a>
  		</h5>
 		<p>Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer</p>
-		<div class="tile_highlight">ICASSP25</div>
+		<div class="tile_venue">ICASSP25</div>
 	</div>
 	<div class="tile">
 		<h3>Mixing Graph Estimation</h3>
@@ -614,7 +617,7 @@
 			<a href="https://sh-lee97.github.io/grafx-prune/">[demo]</a>
 		</h5>
 		<p>Searching For Music Mixing Graphs: A Pruning Approach</p>
-		<div class="tile_highlight">DAFx24</div>
+		<div class="tile_venue">DAFx24</div>
 	</div>
 	<div class="tile">
 		<h3>Guitar Amp. Modeling</h3>
@@ -623,7 +626,7 @@
 			<a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
 		</h5>
 		<p>Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data</p>
-		<div class="tile_highlight">DAFx24</div>
+		<div class="tile_venue">DAFx24</div>
 	</div>
 	<div class="tile">
 		<h3>Text-to-Music Editing</h3>
@@ -634,7 +637,7 @@
 			<a href="https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d">[demo]</a>
 		</h5>
 		<p>MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models</p>
-		<div class="tile_highlight">IJCAI24</div>
+		<div class="tile_venue">IJCAI24</div>
 	</div>
 	<div class="tile">
 		<h3>Instr.-Agnostic Trans.</h3>
@@ -644,7 +647,7 @@
 			<a href="https://arxiv.org/abs/2309.15717">[arXiv]</a>
 		</h5>
 		<p>Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription</p>
-		<div class="tile_highlight">ICASSP24</div>
+		<div class="tile_venue">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Restoration</h3>
@@ -655,7 +658,7 @@
 			<a href="https://carlosholivan.github.io/demos/audio-restoration-2023.html">[demo]</a>
 		</h5>
 		<p>VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance</p>
-		<div class="tile_highlight">ICASSP24</div>
+		<div class="tile_venue">ICASSP24</div>
 	</div>	
 	<div class="tile">
 		<h3>hFT-Transformer</h3>
@@ -665,7 +668,7 @@
 			<a href="https://github.com/sony/hFT-Transformer">[code]</a>
 		</h5>
 		<p>Automatic Piano Transcription with Hierarchical Frequency-Time Transformer</p>
-		<div class="tile_highlight">ISMIR23</div>
+		<div class="tile_venue">ISMIR23</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Tagging</h3>
@@ -674,7 +677,7 @@
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
 		<p>An Attention-based Approach To Hierarchical Multi-label Music Instrument Classification</p>
-		<div class="tile_highlight">ICASSP23</div>
+		<div class="tile_venue">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
@@ -684,7 +687,7 @@
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
 		</h5>
 		<p>Unsupervised Vocal Dereverberation with Diffusion-based Generative Models</p>
-		<div class="tile_highlight">ICASSP23</div>
+		<div class="tile_venue">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
@@ -695,7 +698,7 @@
 			<a href="https://jhtonykoo.github.io/MixingStyleTransfer/">[demo]</a>
 		</h5>
 		<p>Music Mixing Style Transfer: A Contrastive Learning Approach to Disentangle Audio Effects</p>
-		<div class="tile_highlight">ICASSP23</div>
+		<div class="tile_venue">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
@@ -706,7 +709,7 @@
 			<a href="https://sony.github.io/DiffRoll/">[demo]</a>
 		</h5>
 		<p>DiffRoll: Diffusion-based Generative Music Transcription with Unsupervised Pretraining Capability</p>
-		<div class="tile_highlight">ICASSP23</div>
+		<div class="tile_venue">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
@@ -716,7 +719,7 @@
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
 		</h5>
 		<p>Hierarchical Diffusion Models for Singing Voice Neural Vocoder</p>
-		<div class="tile_highlight">ICASSP23</div>
+		<div class="tile_venue">ICASSP23</div>
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
@@ -727,7 +730,7 @@
 			<a href="https://joimort.github.io/distortionremoval/">[demo]</a>
 		</h5>
 		<p>Distortion Audio Effects: Learning How to Recover the Clean Signal</p>
-		<div class="tile_highlight">ISMIR22</div>
+		<div class="tile_venue">ISMIR22</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
@@ -739,7 +742,7 @@
 			<a href="https://marco-martinez-sony.github.io/FxNorm-automix/">[demo]</a>
 		</h5>
 		<p>Automatic Music Mixing with Deep Learning and Out-of-Domain Data</p>
-		<div class="tile_highlight">ISMIR22</div>
+		<div class="tile_venue">ISMIR22</div>
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
@@ -748,7 +751,7 @@
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
 		<p>Music Source Separation with Deep Equilibrium Models</p>
-		<div class="tile_highlight">ICASSP22</div>
+		<div class="tile_venue">ICASSP22</div>
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
@@ -759,7 +762,7 @@
 			<a href="https://paulyuchen.com/djtransgan-icassp2022/">[demo]</a>
 		</h5>
 		<p>Automatic DJ Transitions with Differentiable Audio Effects and Generative Adversarial Networks</p>
-		<div class="tile_highlight">ICASSP22</div>
+		<div class="tile_venue">ICASSP22</div>
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
@@ -804,7 +807,7 @@
 			Coming soon
 		</h5>
 		<p>Odoriko: A Shape-Aware Multimodal Diffusion Framework for Human Motion</p>
-		<div class="tile_highlight">ECCV26</div>
+		<div class="tile_venue">ECCV26</div>
 	</div>
 	<div class="tile">
 		<h3>Spectral Alignment (SPA)</h3>
@@ -813,7 +816,7 @@
 			Coming soon
 		</h5>
 		<p>Spectral Prior for Reducing Exposure Bias in Diffusion Models</p>
-		<div class="tile_highlight">ECCV26</div>
+		<div class="tile_venue">ECCV26</div>
 	</div>
 	<div class="tile">
 		<h3>Step-by-Step V2A</h3>
@@ -822,7 +825,7 @@
 			<a href="https://arxiv.org/abs/2506.20995">[arXiv]</a>
 		</h5>
 		<p>Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance</p>
-		<div class="tile_highlight">ECCV26</div>
+		<div class="tile_venue">ECCV26</div>
 	</div>
 	<div class="tile">
 		<h3>PAVAS</h3>
@@ -833,7 +836,8 @@
 			<a href="https://physics-aware-video-to-audio-synthesis.github.io/">[demo]</a>
 		</h5>
 		<p>PAVAS: a framework for generating physically plausible audio from video, by integrating physics estimation</p>
-		<div class="tile_highlight">CVPR26 [Oral]</div>
+		<div class="tile_venue">CVPR26</div>
+		<div class="tile_award">Oral</div>
 	</div>
 	<div class="tile">
 		<h3>Echoes Over Time</h3>
@@ -844,7 +848,7 @@
 			<a href="https://echoesovertime.github.io/">[demo]</a>
 		</h5>
 		<p>Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models</p>
-		<div class="tile_highlight">CVPR26</div>
+		<div class="tile_venue">CVPR26</div>
 	</div>
 	<div class="tile">
 		<h3>VIRTUE</h3>
@@ -857,7 +861,7 @@
 			<a href="https://huggingface.co/collections/Sony/virtue">[collection]</a>
 		</h5>
 		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
-		<div class="tile_highlight">ICLR26</div>
+		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>CCStereo</h3>
@@ -868,7 +872,7 @@
 			<a href="https://github.com/SonyResearch/CCStereo">[code]</a>
 		</h5>
 		<p>CCStereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation</p>
-		<div class="tile_highlight">ACMMM25</div>
+		<div class="tile_venue">ACMMM25</div>
 	</div>
 	<div class="tile">
 		<h3>TITAN-Guide</h3>
@@ -880,7 +884,7 @@
 			<a href="https://titanguide.github.io/">[demo]</a>
 		</h5>
 		<p>TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models</p>
-		<div class="tile_highlight">ICCV25</div>
+		<div class="tile_venue">ICCV25</div>
 	</div>
 	<div class="tile">
 		<h3>MMAudio</h3>
@@ -892,7 +896,7 @@
 			<a href="https://hkchengrex.com/MMAudio/">[demo]</a>
 		</h5>
 		<p>MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis</p>
-		<div class="tile_highlight">CVPR25</div>
+		<div class="tile_venue">CVPR25</div>
 	</div>
 	<div class="tile">
 		<h3>MMDisCo</h3>
@@ -903,7 +907,7 @@
 			<a href="https://github.com/SonyResearch/MMDisCo">[code]</a>
 		</h5>
 		<p>MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>SoundCTM</h3>
@@ -915,7 +919,7 @@
 			<a href="https://koichi-saito-sony.github.io/soundctm/">[demo]</a>
 		</h5>
 		<p>SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>Mining Your Own Secrets</h3>
@@ -925,7 +929,7 @@
 			<a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
 		</h5>
 		<p>Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models</p>
-		<div class="tile_highlight">ICLR25</div>
+		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>GenWarp</h3>
@@ -935,7 +939,7 @@
 			<a href="https://genwarp-nvs.github.io/">[demo]</a>
 		</h5>
 		<p>GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping</p>
-		<div class="tile_highlight">NeurIPS24</div>
+		<div class="tile_venue">NeurIPS24</div>
 	</div>
 	<div class="tile">
 		<h3>SpecMaskGIT</h3>
@@ -945,7 +949,7 @@
 			<a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
 			</h5>
 		<p>SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond</p>
-		<div class="tile_highlight">ISMIR24</div>
+		<div class="tile_venue">ISMIR24</div>
 	</div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
@@ -958,7 +962,7 @@
 			<a href="https://masonlwang.com/hearinganythinganywhere/">[demo]</a>
 		</h5>
 		<p>Hearing Anything Anywhere</p>
-		<div class="tile_highlight">CVPR24</div>
+		<div class="tile_venue">CVPR24</div>
 	</div>
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
@@ -969,7 +973,7 @@
 			<a href="https://takashishibuyasony.github.io/bigvsan/">[demo]</a>
 		</h5>
 		<p>BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network</p>
-		<div class="tile_highlight">ICASSP24</div>
+		<div class="tile_venue">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>Zero-/Few-shot SELD</h3>
@@ -979,7 +983,7 @@
 			<a href="https://arxiv.org/abs/2309.09223">[arXiv]</a>
 		</h5>
 		<p>Zero- and Few-shot Sound Event Localization and Detection</p>
-		<div class="tile_highlight">ICASSP24</div>
+		<div class="tile_venue">ICASSP24</div>
 	</div>
 	<div class="tile">
 		<h3>STARSS23</h3>
@@ -989,7 +993,7 @@
 			<a href="https://zenodo.org/records/7880637">[dataset]</a>
 		</h5>
 		<p>STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events</p>
-		<div class="tile_highlight">NeurIPS23</div>
+		<div class="tile_venue">NeurIPS23</div>
 	</div>
 	<div class="tile">
 		<h3>Audio Restoration: ViT-AE</h3>
@@ -1000,7 +1004,7 @@
 			<a href="https://zzaudio.github.io/Demo_Extend_AudioMAE_toward_Restoration/demo_page.html">[demo]</a>
 		</h5>
 		<p>Extending Audio Masked Autoencoders Toward Audio Restoration</p>
-		<div class="tile_highlight">WASPAA23</div>
+		<div class="tile_venue">WASPAA23</div>
 	</div>
 	<div class="tile">
 		<h3>Diffiner</h3>
@@ -1011,7 +1015,7 @@
 			<a href="https://github.com/sony/diffiner">[code]</a>
 		</h5>
 		<p>Diffiner: A Versatile Diffusion-based Generative Refiner for Speech Enhancement</p>
-		<div class="tile_highlight">INTERSPEECH23</div>
+		<div class="tile_venue">INTERSPEECH23</div>
 	</div>
 	<div class="tile">
 		<h3>CLIPSep</h3>
@@ -1023,7 +1027,7 @@
 			<a href="https://sony.github.io/CLIPSep/">[demo]</a>
 		</h5>
 		<p>CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos</p>
-		<div class="tile_highlight">ICLR23</div>
+		<div class="tile_venue">ICLR23</div>
 	</div>	
 	<div class="tile">
 		<h3>Sound Event Localization and Detection</h3>
@@ -1033,7 +1037,7 @@
 			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
 		</h5>
 		<p>Multi-ACCDOA: Localizing and Detecting Overlapping Sounds from the Same Class with Auxiliary Duplicating Permutation Invariant Training</p>
-		<div class="tile_highlight">ICASSP22</div>
+		<div class="tile_venue">ICASSP22</div>
 	</div>
 	<div class="tile" style="background-color: white;"></div>
 	<div class="tile" style="background-color: white;"></div>

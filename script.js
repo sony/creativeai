@@ -152,3 +152,32 @@ function adjustPreviewHeight() {
 
 window.addEventListener('load', adjustPreviewHeight);
 window.addEventListener('resize', adjustPreviewHeight);
+
+// ===== Badge handling =====
+
+// Auto-wrap badges into a flex container for natural-width truncation
+function wrapBadges() {
+  document.querySelectorAll('.tile').forEach(tile => {
+    const venue = tile.querySelector('.tile_venue');
+    const award = tile.querySelector('.tile_award');
+    if (!venue && !award) return;
+    if (tile.querySelector('.tile_badges')) return; // already wrapped
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'tile_badges';
+    if (venue) wrapper.appendChild(venue);
+    if (award) wrapper.appendChild(award);
+    tile.insertBefore(wrapper, tile.firstChild);
+  });
+}
+
+// Add title attribute to badges (for truncated text tooltip)
+function addBadgeTitles() {
+  document.querySelectorAll('.tile_venue, .tile_award').forEach(el => {
+    if (!el.title) el.title = el.textContent.trim();
+  });
+}
+
+// Run as early as possible to avoid FOUC
+document.addEventListener('DOMContentLoaded', wrapBadges);
+window.addEventListener('load', addBadgeTitles);
