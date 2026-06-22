@@ -19,13 +19,40 @@
 
 <div class="trow">
 	<div class="tile">
-		<h3>CMT</h3>
-		<img src="./assets/CMT.png">
+		<h3>LACU</h3>
+		<img src="./assets/CUL.png">
 		<h5>
-			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
+			<a href="https://arxiv.org/abs/2512.02657">[arXiv]</a>
 		</h5>
-		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching SOTA performance</p>
-		<div class="tile_highlight">ICLR26</div>
+		<p>Locality-aware continual unlearning (LACU), a framework that stabilizes sequential concept removal</p>
+		<div class="tile_highlight">ECCV26</div>
+	</div>
+	<div class="tile">
+		<h3>GUDA</h3>
+		<img src="./assets/GUDA.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2601.22651">[arXiv]</a>
+		</h5>
+		<p>Efficiently estimate which training data groups influenced diffusion model outputs</p>
+		<div class="tile_highlight">ICML26</div>
+	</div>
+	<div class="tile">
+		<h3>Demystifying MaskGIT </h3>
+		<img src="./assets/DemystifyingMaskGIT.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2510.04525">[arXiv]</a>
+		</h5>
+		<p>Theoretically analyzes the MaskGIT sampler, poviding a choose-then-sample (CTS) formulation</p>
+		<div class="tile_highlight">TMLR [Featured Certification]</div>
+	</div>
+	<div class="tile">
+		<h3>MF-RAE</h3>
+		<img src="./assets/MeanFlow.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2511.13019">[arXiv]</a>
+		</h5>
+		<p>Training flow-map models in RAE latent with consistency mid-training for trajectory-aware initialization</p>
+		<div class="tile_highlight">CVPR26</div>
 	</div>
 	<div class="tile">
 		<h3>ConceptTRAK</h3>
@@ -34,6 +61,15 @@
 			<a href="https://www.arxiv.org/abs/2507.06547">[arXiv]</a>
 		</h5>
 		<p>A framework for Identify which training examples influenced specific concepts within the diffusion model</p>
+		<div class="tile_highlight">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>CMT</h3>
+		<img src="./assets/CMT.png">
+		<h5>
+			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
+		</h5>
+		<p>CMT reduces the training cost of diffusion-based flow map models by up to 90% while reaching SOTA performance</p>
 		<div class="tile_highlight">ICLR26</div>
 	</div>
 	<div class="tile">
