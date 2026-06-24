@@ -804,7 +804,8 @@
 		<h3>Odoriko</h3>
 		<img src="./assets/Odoriko.png">
 		<h5>
-			Coming soon
+			<a href="https://arxiv.org/abs/2606.21135">[arXiv]</a>
+			<a href="https://dsshim0125.github.io/odoriko.github.io/">[demo]</a>
 		</h5>
 		<p>Odoriko: A Shape-Aware Multimodal Diffusion Framework for Human Motion</p>
 		<div class="tile_venue">ECCV26</div>
