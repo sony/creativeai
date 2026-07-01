@@ -824,6 +824,7 @@
 		<img src="./assets/StepByStepV2A.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2506.20995">[arXiv]</a>
+			<a href="https://ahykw.github.io/sbsv2a/">[demo]</a>
 		</h5>
 		<p>Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance</p>
 		<div class="tile_venue">ECCV26</div>
