@@ -108,7 +108,7 @@
 		</h5>
 		<p>Leveraging discrete diffusion models as priors for inverse problems</p>
 		<div class="tile_venue">TMLR</div>
-		<div class="tile_award">J2C</div>
+		<div class="tile_award">J2C Certification</div>
 	</div>
 	<div class="tile">
 		<h3>TLoRA</h3>
