@@ -101,6 +101,16 @@
 		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
+		<h3>G2D2</h3>
+		<img src="./assets/G2D2.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2410.14710">[arXiv]</a>
+		</h5>
+		<p>Leveraging discrete diffusion models as priors for inverse problems</p>
+		<div class="tile_venue">TMLR</div>
+		<div class="tile_award">J2C</div>
+	</div>
+	<div class="tile">
 		<h3>TLoRA</h3>
 		<img src="./assets/TLoRA.png">
 		<h5>
@@ -864,6 +874,17 @@
 		</h5>
 		<p>VIRTUE: Visual-Interactive Text-Image Universal Embedder</p>
 		<div class="tile_venue">ICLR26</div>
+	</div>
+	<div class="tile">
+		<h3>Diffiner for SE & SS</h3>
+		<img src="./assets/Diffiner4SEandSS.png">
+		<h5>
+			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
+			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/MMDisCo">[code]</a>
+		</h5>
+		<p>A diffusion-based post-processor for perceptually improving speech enhancement and separation outputs</p>
+		<div class="tile_venue">TASLP</div>
 	</div>
 	<div class="tile">
 		<h3>CCStereo</h3>
