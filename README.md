@@ -879,9 +879,7 @@
 		<h3>Diffiner for SE & SS</h3>
 		<img src="./assets/Diffiner4SEandSS.png">
 		<h5>
-			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
-			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
-			<a href="https://github.com/SonyResearch/MMDisCo">[code]</a>
+			<a href="https://arxiv.org/abs/2305.05857">[arXiv]</a>
 		</h5>
 		<p>A diffusion-based post-processor for perceptually improving speech enhancement and separation outputs</p>
 		<div class="tile_venue">TASLP</div>
