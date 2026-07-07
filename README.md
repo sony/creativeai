@@ -881,7 +881,7 @@
 		<h5>
 			<a href="https://arxiv.org/abs/2305.05857">[arXiv]</a>
 		</h5>
-		<p>A diffusion-based post-processor for perceptually improving speech enhancement (SE) and separation (SS) outputs</p>
+		<p>A diffusion-based post-processor for perceptually improving speech enhancement and separation outputs</p>
 		<div class="tile_venue">TASLP</div>
 	</div>
 	<div class="tile">
