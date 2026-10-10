@@ -20,7 +20,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>LACU</h3>
-		<img src="./assets/CUL.png">
+		<img loading="lazy" src="./assets/CUL.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2512.02657">[arXiv]</a>
 		</h5>
@@ -29,7 +29,7 @@
 	</div>
 	<div class="tile">
 		<h3>GUDA</h3>
-		<img src="./assets/GUDA.png">
+		<img loading="lazy" src="./assets/GUDA.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2601.22651">[arXiv]</a>
 		</h5>
@@ -38,17 +38,17 @@
 	</div>
 	<div class="tile">
 		<h3>Demystifying MaskGIT </h3>
-		<img src="./assets/DemystifyingMaskGIT.png">
+		<img loading="lazy" src="./assets/DemystifyingMaskGIT.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2510.04525">[arXiv]</a>
 		</h5>
-		<p>Theoretically analyzes the MaskGIT sampler, poviding a choose-then-sample (CTS) formulation</p>
+		<p>Theoretically analyzes the MaskGIT sampler, providing a choose-then-sample (CTS) formulation</p>
 		<div class="tile_venue">TMLR</div>
 		<div class="tile_award">Featured Certification</div>
 	</div>
 	<div class="tile">
 		<h3>MF-RAE</h3>
-		<img src="./assets/MeanFlow.png">
+		<img loading="lazy" src="./assets/MeanFlow.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2511.13019">[arXiv]</a>
 		</h5>
@@ -57,16 +57,16 @@
 	</div>
 	<div class="tile">
 		<h3>ConceptTRAK</h3>
-		<img src="./assets/ConceptTRAK.png">
+		<img loading="lazy" src="./assets/ConceptTRAK.png">
 		<h5>
 			<a href="https://www.arxiv.org/abs/2507.06547">[arXiv]</a>
 		</h5>
-		<p>A framework for Identify which training examples influenced specific concepts within the diffusion model</p>
+		<p>A framework for identifying which training examples influenced specific concepts within the diffusion model</p>
 		<div class="tile_venue">ICLR26</div>
 	</div>
 	<div class="tile">
 		<h3>CMT</h3>
-		<img src="./assets/CMT.png">
+		<img loading="lazy" src="./assets/CMT.png">
 		<h5>
 			<a href="https://www.arxiv.org/abs/2509.24526">[arXiv]</a>
 		</h5>
@@ -75,7 +75,7 @@
 	</div>
 	<div class="tile">
 		<h3>CODA</h3>
-		<img src="./assets/CODA.png">
+		<img loading="lazy" src="./assets/CODA.png">
 		<h5>
 			<a href="https://www.arxiv.org/abs/2601.01224">[arXiv]</a>
 		</h5>
@@ -84,7 +84,7 @@
 	</div>
 	<div class="tile">
 		<h3>Improved CFG</h3>
-		<img src="./assets/DiscreteGuidance.png">
+		<img loading="lazy" src="./assets/DiscreteGuidance.png">
 		<h5>
 			<a href="https://www.arxiv.org/abs/2507.08965">[arXiv]</a>
 		</h5>
@@ -93,7 +93,7 @@
 	</div>
 	<div class="tile">
 		<h3>SONA</h3>
-		<img src="./assets/SONA.png">
+		<img loading="lazy" src="./assets/SONA.png">
 		<h5>
 			<a href="https://www.arxiv.org/abs/2510.04576">[arXiv]</a>
 		</h5>
@@ -102,7 +102,7 @@
 	</div>
 	<div class="tile">
 		<h3>G2D2</h3>
-		<img src="./assets/G2D2.png">
+		<img loading="lazy" src="./assets/G2D2.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2410.14710">[arXiv]</a>
 		</h5>
@@ -112,7 +112,7 @@
 	</div>
 	<div class="tile">
 		<h3>TLoRA</h3>
-		<img src="./assets/TLoRA.png">
+		<img loading="lazy" src="./assets/TLoRA.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2501.08727">[arXiv]</a>
 		</h5>
@@ -121,7 +121,7 @@
 	</div>
 	<div class="tile">
 		<h3>Di4C</h3>
-		<img src="./assets/di4c.png">
+		<img loading="lazy" src="./assets/di4c.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2410.08709">[arXiv]</a>
 			<a href="https://github.com/sony/di4c">[code]</a>
@@ -131,7 +131,7 @@
 	</div>
 	<div class="tile">
 		<h3>VCT</h3>
-		<img src="./assets/vct.png">
+		<img loading="lazy" src="./assets/vct.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2502.18197">[arXiv]</a>
 			<a href="https://github.com/sony/vct">[code]</a>
@@ -141,7 +141,7 @@
 	</div>
 	<div class="tile">
 		<h3>Memorization</h3>
-		<img src="./assets/memorization_attraction_basin.png">
+		<img loading="lazy" src="./assets/memorization_attraction_basin.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2411.16738">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/mitigating_memorization">[code]</a>
@@ -151,7 +151,7 @@
 	</div>
 	<div class="tile">
 		<h3>Jump Your Steps</h3>
-		<img src="./assets/JYS.png">
+		<img loading="lazy" src="./assets/JYS.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2410.07761">[arXiv]</a>
 		</h5>
@@ -160,17 +160,17 @@
 	</div>
 	<div class="tile">
 		<h3>HERO-DM</h3>
-		<img src="./assets/HERO.svg">
+		<img loading="lazy" src="./assets/HERO.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2410.05116">[arXiv]</a>
 			<a href="https://hero-dm.github.io/">[demo]</a>
 		</h5>
-		<p>A method efficiently leverages online human feedback to fine-tune Stable Diffusion for various range of tasks</p>
+		<p>A method that efficiently leverages online human feedback to fine-tune Stable Diffusion for a wide range of tasks</p>
 		<div class="tile_venue">ICLR25</div>
 	</div>
 	<div class="tile">
 		<h3>WPSE</h3>
-		<img src="./assets/WPSE.png">
+		<img loading="lazy" src="./assets/WPSE.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2404.19228">[arXiv]</a>
 		</h5>
@@ -180,7 +180,7 @@
 	</div>
 	<div class="tile">
 		<h3>PaGoDA</h3>
-		<img src="./assets/pagoda_red.svg">
+		<img loading="lazy" src="./assets/pagoda_red.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2405.14822">[arXiv]</a>
 		</h5>
@@ -189,7 +189,7 @@
 	</div>	
 	<div class="tile">
 		<h3>CTM</h3>
-		<img src="./assets/figure_1_ver2.svg">
+		<img loading="lazy" src="./assets/figure_1_ver2.svg">
 		<h5>
 			<a href="https://arxiv.org/abs/2310.02279">[arXiv]</a>
 			<a href="https://consistencytrajectorymodel.github.io/CTM/">[demo]</a>
@@ -202,7 +202,7 @@
 	</div>
 	<div class="tile">
 		<h3>SAN</h3>
-		<img src="./assets/SAN.png">
+		<img loading="lazy" src="./assets/SAN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2301.12811">[arXiv]</a>
 			<a href="https://github.com/sony/san">[code]</a>
@@ -216,7 +216,7 @@
 	</div>
 	<div class="tile">
 		<h3>MPGD</h3>
-		<img src="./assets/MPGD.png">
+		<img loading="lazy" src="./assets/MPGD.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2311.16424">[arXiv]</a>
 			<a href="https://kellyyutonghe.github.io/mpgd/">[demo]</a>
@@ -226,7 +226,7 @@
 	</div>	
 	<div class="tile">
 		<h3>HQ-VAE</h3>
-		<img src="./assets/hqvae.png">
+		<img loading="lazy" src="./assets/hqvae.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=xqAVkqrLjx">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2401.00365">[arXiv]</a>
@@ -236,7 +236,7 @@
 	</div>
 	<div class="tile">
 		<h3>FP-Diffusion</h3>
-		<img src="./assets/ScoreFPE_3Doutline_single.gif">
+		<img loading="lazy" src="./assets/ScoreFPE_3Doutline_single.gif">
 		<h5>
 			<a href="https://proceedings.mlr.press/v202/lai23d.html">[PMLR]</a>
 			<a href="https://github.com/sony/fp-diffusion">[code]</a>
@@ -246,7 +246,7 @@
 	</div>
 	<div class="tile">
 		<h3>GibbsDDRM</h3>
-		<img src="./assets/GibbsDDRM.png">
+		<img loading="lazy" src="./assets/GibbsDDRM.png">
 		<h5>
 			<a href="https://proceedings.mlr.press/v202/murata23a.html">[PMLR]</a>
 			<a href="https://github.com/sony/gibbsddrm">[code]</a>
@@ -261,7 +261,7 @@
 	</div>
 	<!-- <div class="tile">
 		<h3>Consistency-type Models</h3>
-		<img src="./assets/ctm_thumbnail.png">
+		<img loading="lazy" src="./assets/ctm_thumbnail.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2306.00367">[arXiv]</a>
 		</h5>
@@ -270,7 +270,7 @@
 	</div> -->
 	<div class="tile">
 		<h3>SQ-VAE</h3>
-		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img src="./assets/sqvae.png"></a>
+		<a href="https://proceedings.mlr.press/v162/takida22a.html"><img loading="lazy" src="./assets/sqvae.png"></a>
 		<h5>
 			<a href="https://proceedings.mlr.press/v162/takida22a.html">[PMLR]</a>
 			<a href="https://arxiv.org/abs/2205.07547">[arXiv]</a>
@@ -281,7 +281,7 @@
 	</div>
 	<div class="tile">
 		<h3>AR-ELBO</h3>
-		<img src="./assets/ar-elbo.png">
+		<img loading="lazy" src="./assets/ar-elbo.png">
 		<h5>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0925231222010591">[Elsevier]</a>
 			<a href="https://arxiv.org/abs/2102.08663">[arXiv]</a>
@@ -312,7 +312,7 @@
 
 	<div class="tile">
 		<h3>MCA</h3>
-		<a href=""><img src="./assets/mca.png"></a>
+		<a href=""><img loading="lazy" src="./assets/mca.png"></a>
 		<h5>
 			[EMNLP]
 			<a href="https://arxiv.org/abs/2510.15543">[arXiv]</a>
@@ -323,7 +323,7 @@
 	</div>
 	<div class="tile">
 		<h3>MLLMCLIP</h3>
-		<a href=""><img src="./assets/mllmclip.png"></a>
+		<a href=""><img loading="lazy" src="./assets/mllmclip.png"></a>
 		<h5>
 			[EMNLP]
 			[arXiv]
@@ -334,7 +334,7 @@
 	</div>
 	<div class="tile">
 		<h3>Syn-Omni</h3>
-		<a href=""><img src="./assets/synomni.png"></a>
+		<a href=""><img loading="lazy" src="./assets/synomni.png"></a>
 		<h5>
 			[EMNLP]
 			[arXiv]
@@ -345,7 +345,7 @@
 	</div>
 	<div class="tile">
 		<h3>DynaVieW</h3>
-		<a href=""><img src="./assets/dynaview.png"></a>
+		<a href=""><img loading="lazy" src="./assets/dynaview.png"></a>
 		<h5>
 			<a href="https://icml.cc/virtual/2026/poster/65080">[ICML]</a>
 			<a href="https://arxiv.org/abs/2607.04112">[arXiv]</a>
@@ -356,7 +356,7 @@
 	</div>
 	<div class="tile">
 		<h3>LRPO</h3>
-		<a href=""><img src="./assets/lrpo.png"></a>
+		<a href=""><img loading="lazy" src="./assets/lrpo.png"></a>
 		<h5>
 			<a href="https://icml.cc/virtual/2026/poster/66718">[ICML]</a>
 			<a href="https://arxiv.org/abs/2605.25360">[arXiv]</a>
@@ -367,7 +367,7 @@
 	</div>
 	<div class="tile">
 		<h3>DeepResonance</h3>
-		<a href=""><img src="./assets/deepresonance.png"></a>
+		<a href=""><img loading="lazy" src="./assets/deepresonance.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2025.emnlp-main.653/">[EMNLP]</a>
 			<a href="https://arxiv.org/abs/2502.12623">[arXiv]</a>
@@ -378,7 +378,7 @@
 	</div>
 	<div class="tile">
 		<h3>CARE</h3>
-		<a href=""><img src="./assets/care.png"></a>
+		<a href=""><img loading="lazy" src="./assets/care.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2025.emnlp-main.1669/">[EMNLP]</a>
 			<a href="https://arxiv.org/abs/2504.05154">[arXiv]</a>
@@ -389,7 +389,7 @@
 	</div>
 	<div class="tile">
 		<h3>BiAug</h3>
-		<a href=""><img src="./assets/biaug.png"></a>
+		<a href=""><img loading="lazy" src="./assets/biaug.png"></a>
 		<h5>
 			[MRR@ICCV25]
 			<a href="https://arxiv.org/abs/2310.01330">[arXiv]</a>
@@ -399,7 +399,7 @@
 	</div>
 	<div class="tile">
 		<h3>GLOV</h3>
-		<a href=""><img src="./assets/glov.png"></a>
+		<a href=""><img loading="lazy" src="./assets/glov.png"></a>
 		<h5>
 			[TMLR]
 			<a href="https://arxiv.org/abs/2410.06154">[arXiv]</a>
@@ -409,7 +409,7 @@
 	</div>
 	<div class="tile">
 		<h3>Music-to-MVD</h3>
-		<a href=""><img src="./assets/mvd.png"></a>
+		<a href=""><img loading="lazy" src="./assets/mvd.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2025.repl4nlp-1.4.pdf">[RepL4NLP@NAACL25]</a>
 			<a href="https://arxiv.org/abs/2503.11190">[arXiv]</a>
@@ -419,7 +419,7 @@
 	</div>
 	<div class="tile">
 		<h3>VinaBench</h3>
-		<a href=""><img src="./assets/vinabench.png"></a>
+		<a href=""><img loading="lazy" src="./assets/vinabench.png"></a>
 		<h5>
 			[CVPR]
 			<a href="https://arxiv.org/abs/2503.20871">[arXiv]</a>
@@ -430,7 +430,7 @@
 	</div>
 	<div class="tile">
 		<h3>OpenMU</h3>
-		<a href=""><img src="./assets/openmu.png"></a>
+		<a href=""><img loading="lazy" src="./assets/openmu.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2410.15573">[arXiv]</a>
 			<a href="https://huggingface.co/datasets/Sony/OpenMU-Bench">[data]</a>
@@ -441,7 +441,7 @@
 	</div>
 	<div class="tile">
 		<h3>DiffuCOMET</h3>
-		<a href="https://arxiv.org/abs/2402.17011"><img src="./assets/diffcomet.png"></a>
+		<a href="https://arxiv.org/abs/2402.17011"><img loading="lazy" src="./assets/diffcomet.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2024.acl-long.264/">[ACL]</a>
 			<a href="https://arxiv.org/abs/2402.17011">[arXiv]</a>
@@ -452,7 +452,7 @@
 	</div>
 	<div class="tile">
 		<h3>CyCLIPs/CyCLAPs</h3>
-		<a href="https://arxiv.org/abs/2310.13267"><img src="./assets/cyclips.png"></a>
+		<a href="https://arxiv.org/abs/2310.13267"><img loading="lazy" src="./assets/cyclips.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2024.findings-acl.293/">[ACL]</a>
 			<a href="https://arxiv.org/abs/2310.13267">[arXiv]</a>
@@ -462,7 +462,7 @@
 	</div>
 	<div class="tile">
 		<h3>DIIR</h3>
-		<a href="https://arxiv.org/abs/2403.15737"><img src="./assets/diir.png"></a>
+		<a href="https://arxiv.org/abs/2403.15737"><img loading="lazy" src="./assets/diir.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2024.findings-acl.782/">[ACL]</a>
 			<a href="https://arxiv.org/abs/2403.15737">[arXiv]</a>
@@ -473,7 +473,7 @@
 	</div>
 	<div class="tile">
 		<h3>PeaCok</h3>
-		<a href="https://arxiv.org/abs/2305.02364"><img src="./assets/personas.png"></a>
+		<a href="https://arxiv.org/abs/2305.02364"><img loading="lazy" src="./assets/personas.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2023.acl-long.362/">[ACL]</a>
 			<a href="https://arxiv.org/abs/2305.02364">[arXiv]</a>
@@ -484,7 +484,7 @@
 	</div>
 	<div class="tile">
 		<h3>ComFact</h3>
-		<a href="https://aclanthology.org/2022.findings-emnlp.120/"><img src="./assets/comfact.png"></a>
+		<a href="https://aclanthology.org/2022.findings-emnlp.120/"><img loading="lazy" src="./assets/comfact.png"></a>
 		<h5>
 			<a href="https://aclanthology.org/2022.findings-emnlp.120/">[EMNLP]</a>
 			<a href="https://arxiv.org/abs/2210.12678">[arXiv]</a>
@@ -513,7 +513,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>LLM2Fx-Tools</h3>
-		<img src="./assets/2ls_main.png">
+		<img loading="lazy" src="./assets/2ls_main.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2512.01559">[arXiv]</a>
 			<a href="https://seungheondoh.github.io/llm2fx-tools-demo/">[demo]</a>
@@ -523,7 +523,7 @@
 	</div>
 	<div class="tile">
 		<h3>MEGAMI</h3>
-		<img src="./assets/megami.png">
+		<img loading="lazy" src="./assets/megami.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2511.08040">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/megami">[code]</a>
@@ -534,7 +534,7 @@
 	</div>
 	<div class="tile">
 		<h3>Sampling Identification</h3>
-		<img src="./assets/sampleid.png">
+		<img loading="lazy" src="./assets/sampleid.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2510.11507">[arXiv]</a>
 			<a href="https://github.com/sony/sampleid/">[code]</a>
@@ -544,7 +544,7 @@
 	</div>
 	<div class="tile">
 		<h3>Lyrics Matching</h3>
-		<img src="./assets/lyrics_icassp26.png">
+		<img loading="lazy" src="./assets/lyrics_icassp26.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2510.08176">[arXiv]</a>
 			<a href="https://github.com/helemanc/audio-based-lyrics-matching">[code]</a>
@@ -554,7 +554,7 @@
 	</div>
 	<div class="tile">
 		<h3>Training Data Attribution</h3>
-		<img src="./assets/tda_icml_2.png">
+		<img loading="lazy" src="./assets/tda_icml_2.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2506.18312">[arXiv]</a>
 		</h5>
@@ -563,7 +563,7 @@
 	</div>
 	<div class="tile">
 		<h3>Beyond GenAI Music</h3>
-		<img src="./assets/limits_genAI.png">
+		<img loading="lazy" src="./assets/limits_genAI.png">
 		<h5>
 			<a href="https://transactions.ismir.net/articles/10.5334/tismir.256">[url]</a>
 		</h5>
@@ -572,7 +572,7 @@
 	</div>
 	<div class="tile">
 		<h3>LLM2FX</h3>
-		<img src="./assets/llm2fx.png">
+		<img loading="lazy" src="./assets/llm2fx.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2505.20770">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/LLM2Fx">[code]</a>
@@ -580,22 +580,22 @@
 			<a href="https://huggingface.co/collections/seungheondoh/llm2fx-6821b961b982fe1eab1b00bf">[dataset]</a>
 		</h5>
 		<p>Can Large Language Models Predict Audio Effects Parameters from Natural Language?</p>
-		<div class="tile_venue">WAASPA25</div>
+		<div class="tile_venue">WASPAA25</div>
 	</div>
 	<div class="tile">
 		<h3>Vocal Effects Style Transfer</h3>
-		<img src="./assets/diffvox2.png">
+		<img loading="lazy" src="./assets/diffvox2.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2505.11315">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/diffvox">[code]</a>
 			<a href="https://huggingface.co/spaces/yoyolicoris/diffvox">[demo]</a>
 		</h5>
 		<p>Inference-Time Optimisation for Vocal Effects Style Transfer using DiffVox</p>
-		<div class="tile_venue">WAASPA25</div>
+		<div class="tile_venue">WASPAA25</div>
 	</div>
 	<div class="tile">
 		<h3>Fx-Encoder++</h3>
-		<img src="./assets/fx-encoder_pp.png">
+		<img loading="lazy" src="./assets/fx-encoder_pp.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2507.02273">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/Fx-Encoder_PlusPlus">[code]</a>
@@ -605,7 +605,7 @@
 	</div>
 	<div class="tile">
 		<h3>ITO-Master</h3>
-		<img src="./assets/ITO-Master.png">
+		<img loading="lazy" src="./assets/ITO-Master.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2506.16889">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/ITO-Master">[code]</a>
@@ -616,7 +616,7 @@
 	</div>
 	<div class="tile">
 		<h3>GRAFx (ext.)</h3>
-		<img src="./assets/grafx_jaes.png">
+		<img loading="lazy" src="./assets/grafx_jaes.png">
 		<h5>
 			<a href="https://aes2.org/publications/elibrary-page/?id=22917">[JAES]</a>
 			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
@@ -627,7 +627,7 @@
 	</div>
 	<div class="tile">
 		<h3>CLEWS</h3>
-		<img src="./assets/CLEWS.png">
+		<img loading="lazy" src="./assets/CLEWS.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2502.16936">[arXiv]</a>
 		</h5>
@@ -636,7 +636,7 @@
 	</div>
 	<div class="tile">
 		<h3>MFM as Generic Booster</h3>
-		<img src="./assets/mfm_booster.png">
+		<img loading="lazy" src="./assets/mfm_booster.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=kHl4JzyNzF">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2411.01135">[arXiv]</a> 
@@ -646,7 +646,7 @@
 	</div>
 	<div class="tile">
 		<h3>DiffVox</h3>
-		<img src="./assets/diffvox.png">
+		<img loading="lazy" src="./assets/diffvox.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2504.14735">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/diffvox">[code]</a>
@@ -658,7 +658,7 @@
 	</div>
 	<div class="tile">
 		<h3>Variable Bitrate RVQ</h3>
-		<img src="./assets/VRVQ_format.png">
+		<img loading="lazy" src="./assets/VRVQ_format.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2410.06016">[arXiv]</a>
 		</h5>
@@ -667,7 +667,7 @@
 	</div>
 	<div class="tile">
 		<h3>Instr. Timbre Transfer</h3>
-		<img src="./assets/diff_timbre_transfer_format.png">
+		<img loading="lazy" src="./assets/diff_timbre_transfer_format.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2409.06096">[arXiv]</a>
 			<a href="https://github.com/sony/diffusion-timbre-transfer">[code]</a>
@@ -678,7 +678,7 @@
 	</div>
 	<div class="tile">
 		<h3>Mixing Graph Estimation</h3>
-		<img src="./assets/grafx.png">
+		<img loading="lazy" src="./assets/grafx.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2406.01049">[arXiv]</a>
 			<a href="https://github.com/sh-lee97/grafx-prune/tree/main">[code]</a>
@@ -689,7 +689,7 @@
 	</div>
 	<div class="tile">
 		<h3>Guitar Amp. Modeling</h3>
-		<img src="./assets/guitarampmodeling.png">
+		<img loading="lazy" src="./assets/guitarampmodeling.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2406.15751">[arXiv]</a>
 		</h5>
@@ -698,7 +698,7 @@
 	</div>
 	<div class="tile">
 		<h3>Text-to-Music Editing</h3>
-		<img src="./assets/musicmagus.png">
+		<img loading="lazy" src="./assets/musicmagus.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2402.06178">[arXiv]</a>
 			<a href="https://github.com/ldzhangyx/MusicMagus">[code]</a>
@@ -709,7 +709,7 @@
 	</div>
 	<div class="tile">
 		<h3>Instr.-Agnostic Trans.</h3>
-		<img src="./assets/timbretrap.png">
+		<img loading="lazy" src="./assets/timbretrap.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/10446141">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.15717">[arXiv]</a>
@@ -719,7 +719,7 @@
 	</div>
 	<div class="tile">
 		<h3>Vocal Restoration</h3>
-		<img src="./assets/vrdmg.png">
+		<img loading="lazy" src="./assets/vrdmg.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/10446423">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.06934">[arXiv]</a>
@@ -730,7 +730,7 @@
 	</div>	
 	<div class="tile">
 		<h3>hFT-Transformer</h3>
-		<img src="./assets/hfttransformer.png">
+		<img loading="lazy" src="./assets/hfttransformer.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2307.04305">[arXiv]</a>
 			<a href="https://github.com/sony/hFT-Transformer">[code]</a>
@@ -740,7 +740,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Tagging</h3>
-		<img src="./assets/ResAtt.png">
+		<img loading="lazy" src="./assets/ResAtt.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2302.08136">[arXiv]</a>
 		</h5>
@@ -749,7 +749,7 @@
 	</div>
 	<div class="tile">
 		<h3>Vocal Dereverberation</h3>
-		<img src="./assets/dereverb.png">
+		<img loading="lazy" src="./assets/dereverb.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2211.04124">[arXiv]</a>
 			<a href="https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/">[demo]</a>
@@ -759,7 +759,7 @@
 	</div>
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
-		<img src="./assets/mixstyletransfer.png">
+		<img loading="lazy" src="./assets/mixstyletransfer.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2211.02247">[arXiv]</a>
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
@@ -770,7 +770,7 @@
 	</div>
 	<div class="tile">
 		<h3>Music Transcription</h3>
-		<img src="./assets/amt.png">
+		<img loading="lazy" src="./assets/amt.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.05148">[arXiv]</a>
 			<a href="https://github.com/sony/DiffRoll">[code]</a>
@@ -781,7 +781,7 @@
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Vocoder</h3>
-		<img src="./assets/vocoder.png">
+		<img loading="lazy" src="./assets/vocoder.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.07508">[arXiv]</a>
 			<a href="https://t-naoya.github.io/hdm/">[demo]</a>
@@ -791,7 +791,7 @@
 	</div>
 	<div class="tile">
 		<h3>Distortion Effect Removal</h3>
-		<img src="./assets/deeffect.png">
+		<img loading="lazy" src="./assets/deeffect.png">
 		<h5>
 			<a href="https://ismir2022program.ismir.net/poster_113.html">[poster]</a>
 			<a href="https://arxiv.org/abs/2202.01664">[arXiv]</a>
@@ -802,7 +802,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
-		<img src="./assets/automix.png">
+		<img loading="lazy" src="./assets/automix.png">
 		<h5>
 			<a href="https://ismir2022program.ismir.net/poster_11.html">[poster]</a>
 			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>
@@ -814,7 +814,7 @@
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
-		<a href="https://ieeexplore.ieee.org/document/9746317"><img src="./assets/srcsep.png"></a>
+		<a href="https://ieeexplore.ieee.org/document/9746317"><img loading="lazy" src="./assets/srcsep.png"></a>
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/9746317">[IEEE]</a>
 		</h5>
@@ -823,7 +823,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic DJ Transition</h3>
-		<img src="./assets/djtransgan.png">
+		<img loading="lazy" src="./assets/djtransgan.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2110.06525">[arXiv]</a>
 			<a href="https://github.com/ChenPaulYu/DJtransGAN">[code]</a>
@@ -834,7 +834,7 @@
 	</div>
 	<div class="tile">
 		<h3>Singing Voice Conversion</h3>
-		<img src="./assets/svc.png">
+		<img loading="lazy" src="./assets/svc.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2210.11096">[arXiv]</a>
 			<a href="https://t-naoya.github.io/rosvc/">[demo]</a>
@@ -843,7 +843,7 @@
 	</div>
 	<div class="tile">
 		<h3>Sound Separation</h3>
-		<a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng"><img src="./assets/enoch_arden.jpg"></a>
+		<a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng"><img loading="lazy" src="./assets/enoch_arden.jpg"></a>
 		<h5>
 			<a href="https://www.youtube.com/watch?v=EWYxJGmw0Ng">[video]</a>
 			<a href="https://www.sony.com/en/SonyInfo/technology/stories/AI_Sound_Separation/">[site]</a>
@@ -870,7 +870,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>OmniUE</h3>
-		<img src="./assets/OmniUE.png">
+		<img loading="lazy" src="./assets/OmniUE.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2608.27044">[arXiv]</a>
 			<a href="https://wywywang.github.io/omniue-demo/">[demo]</a>
@@ -880,7 +880,7 @@
 	</div>
 	<div class="tile">
 		<h3>ST-AudioLM</h3>
-		<img src="./assets/ST-AudioLM.png">
+		<img loading="lazy" src="./assets/ST-AudioLM.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2606.14141">[arXiv]</a>
 		</h5>
@@ -889,7 +889,7 @@
 	</div>
 	<div class="tile">
 		<h3>Odoriko</h3>
-		<img src="./assets/Odoriko.png">
+		<img loading="lazy" src="./assets/Odoriko.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2606.21135">[arXiv]</a>
 			<a href="https://dsshim0125.github.io/odoriko.github.io/">[demo]</a>
@@ -899,7 +899,7 @@
 	</div>
 	<div class="tile">
 		<h3>Spectral Alignment (SPA)</h3>
-		<img src="./assets/SPA.png">
+		<img loading="lazy" src="./assets/SPA.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2607.22091">[arXiv]</a>
 			<a href="https://github.com/SonyResearch/SPA">[code]</a>
@@ -909,7 +909,7 @@
 	</div>
 	<div class="tile">
 		<h3>Step-by-Step V2A</h3>
-		<img src="./assets/StepByStepV2A.png">
+		<img loading="lazy" src="./assets/StepByStepV2A.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2506.20995">[arXiv]</a>
 			<a href="https://ahykw.github.io/sbsv2a/">[demo]</a>
@@ -919,7 +919,7 @@
 	</div>
 	<div class="tile">
 		<h3>PAVAS</h3>
-		<img src="./assets/PAVAS.png">
+		<img loading="lazy" src="./assets/PAVAS.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Hyun-Bin_PAVAS_Physics-Aware_Video-to-Audio_Synthesis_CVPR_2026_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2512.08282">[arXiv]</a>
@@ -931,7 +931,7 @@
 	</div>
 	<div class="tile">
 		<h3>Echoes Over Time</h3>
-		<img src="./assets/EchoesOverTime.png">
+		<img loading="lazy" src="./assets/EchoesOverTime.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Simon_Echoes_Over_Time_Unlocking_Length_Generalization_in_Video-to-Audio_Generation_Models_CVPR_2026_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2602.20981">[arXiv]</a>
@@ -942,7 +942,7 @@
 	</div>
 	<div class="tile">
 		<h3>VIRTUE</h3>
-		<img src="./assets/VIRTUE.png">
+		<img loading="lazy" src="./assets/VIRTUE.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=H4RgGzx4iL">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2510.00523">[arXiv]</a>
@@ -955,7 +955,7 @@
 	</div>
 	<div class="tile">
 		<h3>Diffiner for SE & SS</h3>
-		<img src="./assets/Diffiner4SEandSS.png">
+		<img loading="lazy" src="./assets/Diffiner4SEandSS.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/11393528">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2305.05857">[arXiv]</a>
@@ -965,7 +965,7 @@
 	</div>
 	<div class="tile">
 		<h3>CCStereo</h3>
-		<img src="./assets/CCStereo.png">
+		<img loading="lazy" src="./assets/CCStereo.png">
 		<h5>
 			<a href="https://dl.acm.org/doi/10.1145/3746027.3754919">[ACM]</a>
 			<a href="https://arxiv.org/abs/2501.02786">[arXiv]</a>
@@ -976,7 +976,7 @@
 	</div>
 	<div class="tile">
 		<h3>TITAN-Guide</h3>
-		<img src="./assets/TITAN-Guide.png">
+		<img loading="lazy" src="./assets/TITAN-Guide.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/ICCV2025/html/Simon_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2508.00289">[arXiv]</a>
@@ -988,7 +988,7 @@
 	</div>
 	<div class="tile">
 		<h3>MMAudio</h3>
-		<img src="./assets/MMAudio.png">
+		<img loading="lazy" src="./assets/MMAudio.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_MMAudio_Taming_Multimodal_Joint_Training_for_High-Quality_Video-to-Audio_Synthesis_CVPR_2025_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2412.15322">[arXiv]</a>
@@ -1000,7 +1000,7 @@
 	</div>
 	<div class="tile">
 		<h3>MMDisCo</h3>
-		<img src="./assets/MMDisCo.png">
+		<img loading="lazy" src="./assets/MMDisCo.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=agbiPPuSeQ">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2405.17842">[arXiv]</a>
@@ -1011,7 +1011,7 @@
 	</div>
 	<div class="tile">
 		<h3>SoundCTM</h3>
-		<img src="./assets/SoundCTM.png">
+		<img loading="lazy" src="./assets/SoundCTM.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=KrK6zXbjfO">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2405.18503">[arXiv]</a>
@@ -1023,7 +1023,7 @@
 	</div>
 	<div class="tile">
 		<h3>Mining Your Own Secrets</h3>
-		<img src="./assets/Mining_Your_Own_Secrets.png">
+		<img loading="lazy" src="./assets/Mining_Your_Own_Secrets.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=hUdLs6TqZL">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2410.00700">[arXiv]</a>
@@ -1033,7 +1033,7 @@
 	</div>
 	<div class="tile">
 		<h3>GenWarp</h3>
-		<img src="./assets/genwarp.png">
+		<img loading="lazy" src="./assets/genwarp.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2405.17251">[arXiv]</a>
 			<a href="https://genwarp-nvs.github.io/">[demo]</a>
@@ -1043,7 +1043,7 @@
 	</div>
 	<div class="tile">
 		<h3>SpecMaskGIT</h3>
-		<img src="./assets/specmaskgit.png">
+		<img loading="lazy" src="./assets/specmaskgit.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2406.17672">[arXiv]</a>
 			<a href="https://zzaudio.github.io/SpecMaskGIT/">[demo]</a>
@@ -1053,7 +1053,7 @@
 	</div>
 	<div class="tile">
 		<h3>Acoustic Inv. Rendering</h3>
-		<img src="./assets/hearing_anything_anywhere.png">
+		<img loading="lazy" src="./assets/hearing_anything_anywhere.png">
 		<h5>
 			<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Hearing_Anything_Anywhere_CVPR_2024_paper.html">[CVF]</a>
 			<a href="https://arxiv.org/abs/2406.07532">[arXiv]</a>
@@ -1066,7 +1066,7 @@
 	</div>
 	<div class="tile">
 		<h3>BigVSAN Vocoder</h3>
-		<img src="./assets/BigVSAN.png">
+		<img loading="lazy" src="./assets/BigVSAN.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2309.02836">[arXiv]</a>
 			<a href="https://github.com/sony/bigvsan">[code]</a>
@@ -1077,7 +1077,7 @@
 	</div>
 	<div class="tile">
 		<h3>Zero-/Few-shot SELD</h3>
-		<img src="./assets/ZeroFewSELD.png">
+		<img loading="lazy" src="./assets/ZeroFewSELD.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/10448497">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2309.09223">[arXiv]</a>
@@ -1087,7 +1087,7 @@
 	</div>
 	<div class="tile">
 		<h3>STARSS23</h3>
-		<img src="./assets/STARSS23.png">
+		<img loading="lazy" src="./assets/STARSS23.png">
 		<h5>
 			<a href="https://arxiv.org/abs/2306.09126">[arXiv]</a>
 			<a href="https://zenodo.org/records/7880637">[dataset]</a>
@@ -1097,7 +1097,7 @@
 	</div>
 	<div class="tile">
 		<h3>Audio Restoration: ViT-AE</h3>
-		<img src="./assets/vitae.png">
+		<img loading="lazy" src="./assets/vitae.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/10248171">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2305.06701">[arXiv]</a>
@@ -1108,7 +1108,7 @@
 	</div>
 	<div class="tile">
 		<h3>Diffiner</h3>
-		<img src="./assets/Diffiner.png">
+		<img loading="lazy" src="./assets/Diffiner.png">
 		<h5>
 			<a href="https://www.isca-speech.org/archive/interspeech_2023/sawata23_interspeech.html">[ISCA]</a>
 			<a href="https://arxiv.org/abs/2210.17287">[arXiv]</a>
@@ -1119,7 +1119,7 @@
 	</div>
 	<div class="tile">
 		<h3>CLIPSep</h3>
-		<img src="./assets/CLIPSep.png">
+		<img loading="lazy" src="./assets/CLIPSep.png">
 		<h5>
 			<a href="https://openreview.net/forum?id=H-T3F0dMbyj">[OpenReview]</a>
 			<a href="https://arxiv.org/abs/2212.07065">[arXiv]</a>
@@ -1131,7 +1131,7 @@
 	</div>	
 	<div class="tile">
 		<h3>Sound Event Localization and Detection</h3>
-		<img src="./assets/ACCDOA.png">
+		<img loading="lazy" src="./assets/ACCDOA.png">
 		<h5>
 			<a href="https://ieeexplore.ieee.org/document/9746384">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2110.07124">[arXiv]</a>
@@ -1159,7 +1159,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>DCASE Challenge Task 3</h3>
-		<img src="./assets/DCASE.png">
+		<img loading="lazy" src="./assets/DCASE.png">
 		<h5>
 			<a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes">[DCASE Challenge2026]</a>
 		</h5>
@@ -1167,7 +1167,7 @@
 	</div>
 	<div class="tile">
 		<h3>CPD Challenge 2025</h3>
-		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"><img src="./assets/cpdc2025_image.jpg"></a>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025"><img loading="lazy" src="./assets/cpdc2025_image.jpg"></a>
 		<h5>
 			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025">[CPD Challenge 2025]</a>
 		</h5>
@@ -1175,7 +1175,7 @@
 	</div>
 	<div class="tile">
 		<h3>SVG Challenge 2024</h3>
-		<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"><img src="./assets/svgc.png"></a>
+		<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"><img loading="lazy" src="./assets/svgc.png"></a>
 		<h5>
 			<a href="https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024">[SVG Challenge 2024]</a>
 		</h5>
@@ -1183,7 +1183,7 @@
 	</div>
 	<div class="tile">
 		<h3>CPD Challenge 2023</h3>
-		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img src="./assets/cpdc.png"></a>
+		<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"><img loading="lazy" src="./assets/cpdc.png"></a>
 		<h5>
 			<a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023">[CPD Challenge 2023]</a>
 		</h5>
@@ -1191,7 +1191,7 @@
 	</div>
 	<div class="tile">
 		<h3>SDX Challenge 2023</h3>
-		<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"><img src="./assets/SDX.png"></a>
+		<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"><img loading="lazy" src="./assets/SDX.png"></a>
 		<h5>
 			<a href="https://www.aicrowd.com/challenges/sound-demixing-challenge-2023">[site]</a>
 			<a href="https://transactions.ismir.net/articles/10.5334/tismir.171">[paper (music)]</a>
@@ -1201,7 +1201,7 @@
 	</div>	
 	<div class="tile">
 		<h3>MDX Challenge 2021</h3>
-		<a href="https://mdx-workshop.github.io/"><img src="./assets/MDX.png"></a>
+		<a href="https://mdx-workshop.github.io/"><img loading="lazy" src="./assets/MDX.png"></a>
 		<h5>
 			<a href="https://mdx-workshop.github.io/">[site]</a>
 			<a href="https://www.frontiersin.org/articles/10.3389/frsip.2021.808395/full">[frontiers]</a>

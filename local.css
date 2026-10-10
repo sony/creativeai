@@ -217,12 +217,25 @@
   overflow: hidden;
 }
 
-/* Show full description on hover (desktop only) */
-@media (hover: hover) {
-  .tile:hover p {
-    -webkit-line-clamp: unset;
-    overflow: visible;
-  }
+/* Full description shown as an overlay on hover (desktop only).
+   The clamped <p> keeps its size, so the grid row height does not change. */
+.tile:hover {
+  z-index: 10;
+}
+
+.tile_desc_full {
+  position: absolute;
+  z-index: 5;
+  margin: 0;
+  padding: 6px 8px;
+  background: #ffffff;
+  border: 1px solid #5ecc95;
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  font-size: 0.76rem;
+  text-align: center;
+  color: #555;
+  line-height: 1.4;
 }
 
 /* ========== Social Media Icons (existing) ========== */

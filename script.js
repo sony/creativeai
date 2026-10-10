@@ -181,3 +181,32 @@ function addBadgeTitles() {
 // Run as early as possible to avoid FOUC
 document.addEventListener('DOMContentLoaded', wrapBadges);
 window.addEventListener('load', addBadgeTitles);
+
+// ===== Description overlay =====
+
+// On hover, show the full text of clamped descriptions as an overlay
+// instead of expanding the <p>, so the grid row height does not change
+function setupDescOverlays() {
+  if (!window.matchMedia('(hover: hover)').matches) return;
+  document.querySelectorAll('.tile').forEach(tile => {
+    tile.addEventListener('mouseenter', () => {
+      tile.querySelectorAll(':scope > p').forEach(p => {
+        if (p.scrollHeight <= p.clientHeight + 1) return; // not truncated
+        const full = document.createElement('div');
+        full.className = 'tile_desc_full';
+        full.innerHTML = p.innerHTML;
+        // Anchor to the bottom of the <p> and grow upward, so the overlay never
+        // extends below the tile (where .cat_body would clip it)
+        full.style.bottom = (tile.clientHeight - p.offsetTop - p.offsetHeight - 6) + 'px';
+        full.style.left = (p.offsetLeft - 8) + 'px';
+        full.style.width = (p.offsetWidth + 16) + 'px';
+        tile.appendChild(full);
+      });
+    });
+    tile.addEventListener('mouseleave', () => {
+      tile.querySelectorAll('.tile_desc_full').forEach(el => el.remove());
+    });
+  });
+}
+
+document.addEventListener('DOMContentLoaded', setupDescOverlays);
