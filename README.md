@@ -879,6 +879,26 @@
 		<div class="tile_venue">NeurIPS26</div>
 	</div>
 	<div class="tile">
+		<h3>Disen-Forcing</h3>
+		<img loading="lazy" src="./assets/Disen-Forcing.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2611.02822">[arXiv]</a>
+			<a href="https://disen-forcing.github.io/">[demo]</a>
+		</h5>
+		<p>Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion</p>
+		<div class="tile_venue">NeurIPS26</div>
+	</div>
+	<div class="tile">
+		<h3>ELMA</h3>
+		<img loading="lazy" src="./assets/ELMA.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2610.13549">[arXiv]</a>
+			<a href="https://elma-dataset.github.io/">[demo]</a>
+		</h5>
+		<p>ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation</p>
+		<div class="tile_venue">NeurIPS26</div>
+	</div>
+	<div class="tile">
 		<h3>ST-AudioLM</h3>
 		<img loading="lazy" src="./assets/ST-AudioLM.png">
 		<h5>
